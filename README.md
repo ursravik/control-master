@@ -103,4 +103,4 @@ Make sure you capture definite data that you dont expect to change post reboot, 
 
 ## Authors
 
-* **Ravikrithik** - *Initial work* - [link](https://github.com/ursravik/control-master/patching-copy)
+* **Ravikrithik** - *Initial work* - [link](https://github.com/ursravik/control-master)
