@@ -1,0 +1,29 @@
+#  check if server is registered and there are patches to update
+#  Register the value, so it can be used as a condition to patch. If server is not registered or no packages found then patching
+#  process will be skipped for that server.
+- name: Check if there are packages to update
+  shell: |
+    timeout 2m zypper refresh
+    timeout 2m zypper lu 
+  register: packages
+  tags: zyycheck
+- debug:
+    msg: "System {{ inventory_hostname }} not registered or no packages found to update"
+  when: "'No updates found' in packages.stdout"
+  tags: zyycheck
+- local_action:
+    module: copy
+    content: "{{ packages.stdout }}"
+    dest: ./patching-log/repoinfo-{{ inventory_hostname }}.{{ansible_date_time.date}}.log
+  tags: zyycheck
+- name: Remove old /tmp/repoinfo-servername
+  file:
+    path: /tmp/repoinfo-{{ inventory_hostname }}
+    state: absent
+  tags: zyycheck
+- name: Copy repo info to /tmp/repoinfo-servername
+  copy:
+    dest: /tmp/repoinfo-{{ inventory_hostname }}
+    content: "{{ packages.stdout }}"
+  when: "'No updates found' in packages.stdout"
+  tags: zyycheck
