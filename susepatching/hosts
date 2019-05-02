@@ -1,0 +1,10 @@
+[nonoracle]
+servera
+serverb
+serverc
+
+[oracle]
+serverd
+servere
+serverf
+
