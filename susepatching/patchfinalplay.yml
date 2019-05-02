@@ -1,5 +1,8 @@
 - hosts: oracle
   become: yes
+  vars:
+    relay_server: relayserver.domain.com
+    mail_id: emailaddress@domain.com
   
   roles:
     - zyppcheck
