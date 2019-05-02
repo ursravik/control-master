@@ -59,9 +59,9 @@
 
   - name: Send mail to user with deviations found during checks
     mail:
-      host: smtp-gw.bt.bombardier.net
+      host: "{{ relay_server }}"
       port: 25
-      to: ravikrithiku12@in.ibm.com, bombardier_india_unix_support@wwpdl.vnet.ibm.com
+      to: "{{ mail_id }}"
       subject: System {{ ansible_hostname }} has deviations
       body: "{{ lookup('file', '/tmp/patchdiff/{{ inventory_hostname }}/tmp/patching-data/patchdiff') }}"
     delegate_to: localhost
@@ -69,9 +69,9 @@
     tags: compare
   - name: Send mail to user with success status
     mail: 
-      host: relay.domain.com
+      host: "{{ relay_server }}"
       port: 25
-      to: email@in.com
+      to: "{{ mail_id }}"
       subject: System {{ ansible_hostname }} Update completed without errors
       body: "System {{ ansible_hostname }} OS Update completed without errors"
     delegate_to: localhost
