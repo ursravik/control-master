@@ -18,9 +18,9 @@
     register: zyupnu
   - name: Report to user about number of patches to be applied and server reboot 
     mail:
-      host: relay.domain.com
+      host: "{{ relay_server }}"
       port: 25
-      to: email@in.com
+      to: "{{ mail_id }}"
       subject: 'OS Update of {{ inventory_hostname }} is starting now.'
       body: "On {{ inventory_hostname }} {{ zyupnu.stdout }} packages will be applied and reboot shortly"
     delegate_to: localhost
@@ -69,9 +69,9 @@
   rescue:
     - name: Send mail to admin reporting patching and reboot not working
       mail:
-        host: relay.domain.com
+        host: "{{ relay_server }}"
         port: 25
-        to: email@in.com
+        to: "{{ mail_id }}"
         subject: System {{ ansible_hostname }}patching and reboot not working
         body: " System {{ ansible_hostname }} patching and reboot not working, check in console. "
       delegate_to: localhost
