@@ -1,4 +1,4 @@
-# SUSE Patching using ansible
+﻿# SUSE Patching using ansible
 
 Ansible playbook and shell scripts used for patching and validating suse servers. Using this playbook I was able to patch and validate
 30 servers in 30 mins. 
@@ -103,4 +103,4 @@ Make sure you capture definite data that you dont expect to change post reboot, 
 
 ## Authors
 
-* **Ravikrithik** - *Initial work* - [link](https://github.com/ursravik/control-master)
+* **Ravikrithik** - *Initial work* - [link](https://github.com/ursravik/control-master/susepatching)
