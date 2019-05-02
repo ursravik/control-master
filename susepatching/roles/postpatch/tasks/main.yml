@@ -1,0 +1,39 @@
+#  Disable ssh root login as soon as the server is up
+#  Add list of sevices that you wish to start post reboot and script to start application post reboot
+#  Run post check script to gather system state and config
+#  All the above will be executed only if server is registered and packages are found to update
+
+- block:
+  - stat: path=/tmp/repoinfo-{{ inventory_hostname }}
+    register: zyrepoinfo
+    tags: postpatch
+  rescue: 
+    - name: Send mail to admin reporting ssh not working
+      mail:
+        host: relay.domain.com
+        port: 25
+        to: email@in.com
+        subject: System {{ ansible_hostname }} ssh not working
+        body: " System {{ ansible_hostname }} ssh not working, Perform post checks and deviation checks manually for this server. "
+      delegate_to: localhost
+
+- block:
+  - name: Disable root login after patching
+    lineinfile: dest=/etc/ssh/sshd_config regexp="^PermitRootLogin" line="PermitRootLogin no" state=present backup=yes
+    notify:
+      - restart sshd
+    tags: postpatch
+
+#  Add list of services that you wish to start post reboot, you can also execute scripts to start application post reboot
+  - name: Start monitoring service if not started
+    service:
+      name: zabbix-agent
+      state: started
+    ignore_errors: yes
+    tags: postpatch
+
+  - name: Run post-check.sh after patching to capture data
+    script: ./files/post-check.sh
+    ignore_errors: yes
+    tags: postpatch
+  when: not zyrepoinfo.stat.exists
