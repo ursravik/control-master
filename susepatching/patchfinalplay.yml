@@ -1,0 +1,9 @@
+- hosts: oracle
+  become: yes
+  
+  roles:
+    - zyppcheck
+    - prepatch
+    - patch
+    - postpatch
+    - deviation
