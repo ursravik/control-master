@@ -27,9 +27,9 @@
   rescue:
     - name: Send mail to admin reporting pre-checks not work
       mail:
-        host: relay.domain.com
+        host: "{{ relay_server }}"
         port: 25
-        to: email@in.com
+        to: "{{ mail_id }}"
         subject: System {{ ansible_hostname }} pre checks not working
         body: " System {{ ansible_hostname }} pre checks not working, Perform patching manually. "
       delegate_to: localhost
