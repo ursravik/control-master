@@ -7,7 +7,7 @@
   register: postflag
   
 - block:
-  - name: Comparing pre and post patching info
+  - name: comparing pre and post patching info
     shell: |
      postmount=/tmp/patching-data/postpatch-`uname -n`-mount
      premount=/tmp/patching-data/prepatch-`uname -n`-mount
@@ -56,7 +56,7 @@
     when: patchdiff.stat.exists
     tags: compare
 
-  - name: Send mail to user with deviations found during checks
+  - name: send mail to user with deviations found during checks
     mail:
       host: "{{ relay_server }}"
       port: 25
@@ -66,7 +66,7 @@
     delegate_to: localhost
     when: patchdiff.stat.exists
     tags: compare
-  - name: Send mail to user with success status
+  - name: send mail to user with success status
     mail: 
       host: "{{ relay_server }}"
       port: 25

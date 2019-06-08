@@ -1,7 +1,7 @@
 #  check if server is registered and there are patches to update
 #  Register the value, so it can be used as a condition to patch. If server is not registered or no packages found then patching
 #  process will be skipped for that server.
-- name: Check if there are packages to update
+- name: capture number of package listed for update
   shell: |
     yum check-update | grep ^[a-Z] | grep updates | wc -l
   ignore_errors: yes
@@ -11,7 +11,7 @@
     msg: "System {{ inventory_hostname }} not registered or no packages found to update"
   when: packages.stdout  == "0"
   tags: pachk
-- name: Check if there are packages to update
+- name: capture package listed for update
   shell: |
     yum check-update | grep ^[a-Z] | grep updates 
   ignore_errors: yes
@@ -23,12 +23,12 @@
     dest: ./patching-log/repoinfo-{{ inventory_hostname }}.{{ansible_date_time.date}}.log
   tags: pachk
   when: packages.stdout != "0"
-- name: Remove old /tmp/repoinfo-servername
+- name: remove old /tmp/repoinfo-servername
   file:
     path: /tmp/repoinfo-{{ inventory_hostname }}
     state: absent
   tags: pachk
-- name: Copy repo info to /tmp/repoinfo-servername
+- name: copy repo info to /tmp/repoinfo-servername
   copy:
     dest: /tmp/repoinfo-{{ inventory_hostname }}
     content: "{{ packages.stdout }}"

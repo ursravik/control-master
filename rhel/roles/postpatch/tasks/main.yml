@@ -6,7 +6,7 @@
 - stat: path=/tmp/postcheck
   register: postflag
   tags: postpatch
-- name: Send mail to admin reporting issue with server
+- name: send mail to admin reporting issue with server
   mail:
     host: "{{ relay_server }}"
     port: 25
@@ -17,21 +17,21 @@
   when: not postflag.stat.exists
 
 - block:
-  - name: Disable root login after patching
+  - name: disable root login after patching
     lineinfile: dest=/etc/ssh/sshd_config regexp="^PermitRootLogin" line="PermitRootLogin no" state=present backup=yes
     notify:
       - restart sshd
     tags: postpatch
 
 #  Add list of services that you wish to start post reboot, you can also execute scripts to start application post reboot
-  - name: Start monitoring service if not started
+  - name: start monitoring service if not started
     service:
       name: zabbix-agent
       state: started
     ignore_errors: yes
     tags: postpatch
 
-  - name: Run post-check.sh after patching to capture data
+  - name: run post-check.sh after patching to capture data
     script: ./files/post-check.sh
     ignore_errors: yes
     tags: postpatch

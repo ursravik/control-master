@@ -15,10 +15,10 @@
 
 
 - block:
-  - name: Enable root login before patching
+  - name: enable root login before patching
     lineinfile: dest=/etc/ssh/sshd_config regexp="^PermitRootLogin" line="PermitRootLogin yes" state=present backup=yes
 
-  - name: "Capture and report number of packages to update"
+  - name: "capture and report number of packages to update"
     shell: yum check-update | grep ^[a-Z] | grep updates | wc -l 
     register: zyupnu
   - name: Report to user about number of patches to be applied and server reboot 
@@ -67,7 +67,7 @@
     stat: path=/tmp/yumsuccess
     register: yumsuccess
 
-  - name: Rebooting server
+  - name: rebooting server
     shell: sleep 2 && /sbin/shutdown -r now "Reboot required post patching." && sleep 2
     async: 20
     poll: 0
@@ -78,7 +78,7 @@
       timeout: 900
     when: yumsuccess.stat.exists
 
-  - name: Send mail to admin reporting failure in yum update
+  - name: send mail to admin reporting failure in yum update
     mail:
       host: "{{ relay_server }}"
       port: 25
@@ -96,7 +96,7 @@
 
   when: not repoinfo.stat.exists
   rescue:
-    - name: Send mail to admin reporting patching and reboot not working
+    - name: send mail to admin reporting patching and reboot not working
       mail:
         host: "{{ relay_server }}"
         port: 25
