@@ -1,0 +1,12 @@
+- hosts: nonoracle
+  become: yes
+  vars:
+    relay_server: 9.149.105.62
+    mail_id: ravikrithiku12@in.ibm.com
+  
+  roles:
+    - patchcheck
+    - prepatch
+    - patch
+    - postpatch
+    - deviation

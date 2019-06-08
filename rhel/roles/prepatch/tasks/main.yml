@@ -1,0 +1,36 @@
+#  Run pre check script to capture server state and config
+#  pre-check.sh will save output locally in client in path /tmp/patching-data/
+#  please read pre-check.sh to understand how it works 
+#  Run pre check only if package is found for update
+- stat: path=/tmp/repoinfo-{{ inventory_hostname }}
+  register: repoinfo
+  tags: prechecks
+
+- block:
+  - name: Run pre-check.sh before patching to capture data
+    script: ./files/pre-check.sh
+    ignore_errors: yes
+    tags: prechecks
+  - name: copy prechecks output back to control node
+    shell: |
+      prechecks=/tmp/patching-data/prepatch-`uname -n`
+      cat $prechecks
+      exit 0
+    register: precheck
+    tags: prechecks
+  - local_action:
+      module: copy
+      content: "{{ precheck.stdout }}"
+      dest: ./patching-log/precheck-{{ inventory_hostname }}.{{ansible_date_time.date}}.log
+    tags: prechecks
+  when: not repoinfo.stat.exists
+  rescue:
+    - name: Send mail to admin reporting pre-checks not work
+      mail:
+        host: "{{ relay_server }}"
+        port: 25
+        to: "{{ mail_id }}"
+        subject: System {{ ansible_hostname }} pre checks not working
+        body: " System {{ ansible_hostname }} pre checks not working, Perform patching manually. "
+      delegate_to: localhost
+
