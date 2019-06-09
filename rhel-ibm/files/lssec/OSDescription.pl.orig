@@ -1,0 +1,252 @@
+#!/usr/bin/perl -w
+
+use strict;
+use Config;
+
+
+######################
+#
+# Methods
+#
+######################
+
+#---------------------------------------------------------------------
+# Method: getOSPatchVersionForLinux
+# This method gets the patch version for various flavours of Linux.
+#---------------------------------------------------------------------
+sub getOSPatchVersionForLinux {
+    
+    my $linuxDistribution;
+    my $linuxDistributionVersion;
+    my $linuxPatchLevel;
+    
+    if ( -f "/etc/debian_version" ) {
+        
+        # This is a debian distribution. Diagnosing further.
+        $linuxDistribution = "Debian";
+        
+        if ( -f "/etc/lsb-release" ) {
+        
+            open ( RELEASE, "/etc/lsb-release" );
+    
+            while ( <RELEASE> ) {
+              
+              if ( /Ubuntu/i ) {
+                
+                # This is a Ubuntu distribution
+                $linuxDistribution = "Ubuntu";
+              
+              } elsif ( /^DISTRIB_RELEASE/i ) {
+                
+                $linuxDistributionVersion = (split( /\s*=\s*/ ))[1];
+                
+              }
+            
+            }
+    
+            close( RELEASE );
+        }
+        
+        if ( $linuxDistribution eq "Debian" ) {
+        
+            open ( RELEASE, "/etc/debian_version" );
+            $linuxDistributionVersion = <RELEASE>;
+            close( RELEASE );
+        
+        }        
+        
+        chomp( $linuxDistributionVersion );
+        
+    } elsif ( -f "/etc/vmware-release" ) {
+        
+        # This is a VMWARE distribution
+        $linuxDistribution = "VMWare";
+        $linuxDistributionVersion = `/bin/rpm -qf /etc/vmware-release --qf '%{VERSION}'`;
+    
+    } elsif ( -f "/etc/redhat-release" ) {
+        
+        # This is a redhat distribution. Diagnosing further.
+        $linuxDistribution = "RedHat";
+        
+        my $versionString = `cat /etc/redhat-release`;
+        $versionString =~ s/[^0-9.^0-9]//g;
+        
+        my @versionData = split('\.', $versionString);
+        $linuxDistributionVersion = $versionData[0];
+        
+        if ( $linuxDistributionVersion > 3we dont0 ){
+            my @values = split( //, $linuxDistributionVersion );
+            $linuxDistributionVersion = $values[0];
+            $linuxPatchLevel = $values[1];
+        } else {
+            $linuxPatchLevel = $versionData[1];
+        }
+        
+        my $linux_dist_rpm = `/bin/rpm -qf /etc/redhat-release --qf '%{NAME}'`;
+        chomp( $linux_dist_rpm );
+        
+        if ( $linux_dist_rpm eq "centos-release" ){
+            
+            # This is a CentOS distribution
+            $linuxDistribution = "CentOS";
+            $linuxDistributionVersion = `cat /etc/redhat-release`;
+        
+        } elsif ( $linux_dist_rpm eq "fedora-release" ){
+        
+            # This is a Fedora distribution
+            $linuxDistribution = "Fedora";
+            $linuxDistributionVersion = `lsb_release -a | grep Release | awk -F: '{print \$2}'`;
+            
+        }
+        
+    } elsif ( -f "/etc/SuSE-release" ){
+        
+        # This is a SUSE release. Diagnosing further
+        
+        open ( RELEASE, "/etc/SuSE-release" );
+
+        while ( <RELEASE> ){
+            
+            if ( /^SuSE SLES|Enterprise/i ){
+        
+                #This is a SLES distribution
+                $linuxDistribution = "SLES";
+        
+            } elsif ( /^SuSE Linux|openSUSE/i ){
+        
+                # This is a SUSE distribution
+                $linuxDistribution = "SuSE";
+        
+            } elsif ( /^VERSION/i ) {
+          
+                $linuxDistributionVersion = (split( /\s*=\s*/ ))[1];
+            
+            } elsif ( /^PATCHLEVEL/i ) {
+            
+                $linuxPatchLevel = (split( /\s*=\s*/ ))[1];
+            
+            }
+        
+        }
+
+        close( RELEASE );        
+    
+    } elsif ( -f "/etc/UnitedLinux-release" ){
+    
+        # This is a UL distribution
+        $linuxDistribution = "UL";
+        
+        open ( RELEASE, "/etc/UnitedLinux-release" );
+
+        while ( <RELEASE> ) {
+        
+            if ( /^VERSION/i ) {
+              $linuxDistributionVersion = (split( /\s*=\s*/ ))[1];
+            }
+            
+        }
+
+      close( RELEASE );        
+    
+    } else {
+            
+        # This is an unknown Linux distribution
+        $linuxDistribution = "Unknown";
+        
+    }
+    
+    chomp ( $linuxDistribution ) if ( $linuxDistribution );
+    chomp ( $linuxDistributionVersion ) if ( $linuxDistributionVersion );
+    chomp ( $linuxPatchLevel ) if ( $linuxPatchLevel );
+    
+    my $result;
+    
+    if ( defined $linuxPatchLevel ){
+        $result = $linuxDistribution . "~" . $linuxDistributionVersion . "~" . $linuxPatchLevel;
+    } else {
+        $result = $linuxDistribution . "~" . $linuxDistributionVersion . "~";
+    }
+    
+    
+    return $result;
+    
+}
+
+
+#---------------------------------------------------------------------
+# Method: getOSPatchVersionForSolaris
+# This method gets the patch version for various flavours of Solaris.
+#---------------------------------------------------------------------
+sub getOSPatchVersionForSolaris {
+    
+    my $osVersion = `uname -r`;
+    
+    $osVersion =~ s/[^0-9.^0-9]//g;
+    
+    my @versionData = split('\.', $osVersion);
+    my $majorVersion = $versionData[1];
+    
+    return "Solaris" . "~" . $majorVersion . "~";
+    
+}
+
+
+#---------------------------------------------------------------------
+# Method: getOSPatchVersionForAix
+# This method gets the patch version for various flavours of Aix.
+#---------------------------------------------------------------------
+sub getOSPatchVersionForAix {
+    
+    my $osString = `oslevel -s`;
+    my @osData = split("-", $osString);
+    
+    my $osRelease = $osData[0];
+    my $tlVersion = $osData[1];
+    my $spVersion = $osData[2];
+    
+    return "AIX" . "~" . $osRelease . "~" . $tlVersion . "~" . $spVersion;
+    
+}
+
+
+#---------------------------------------------------------------------
+# Method: getOSPatchVersionForHPUX
+# This method gets the patch version for various flavours of HP-UX.
+#---------------------------------------------------------------------
+sub getOSPatchVersionForHPUX {
+    
+    my $osVersion = `uname -r`;
+    
+    return $osVersion;
+
+}
+
+
+######################
+#
+# Main Block
+#
+######################
+
+# Check the Operating System and execute the version command accordingly
+my $patchVersion;
+
+if ( $Config{ 'osname' } eq "solaris" ) {
+    
+    $patchVersion = getOSPatchVersionForSolaris();
+
+} elsif ( $Config{ 'osname' } eq "aix" ) {
+    
+    $patchVersion = getOSPatchVersionForAix();
+    
+} elsif ( $Config{ 'osname' } eq "linux" ) {
+    
+    $patchVersion = getOSPatchVersionForLinux();
+    
+} elsif ( $Config{ 'osname' } eq "hpux" ) {
+    
+    $patchVersion = getOSPatchVersionForHPUX();
+    
+}
+
+print $patchVersion;

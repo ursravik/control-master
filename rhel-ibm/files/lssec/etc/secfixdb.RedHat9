@@ -1,0 +1,1076 @@
+advisory:::2003:0442.1:::1049086800:::M:::RHSA-2003:120-01: Updated sendmail packages fix vulnerability:::
+package:::2003:0442.1:::sendmail:::8.12.8-5.90
+package:::2003:0442.1:::sendmail-cf:::8.12.8-5.90
+package:::2003:0442.1:::sendmail-devel:::8.12.8-5.90
+package:::2003:0442.1:::sendmail-doc:::8.12.8-5.90
+advisory:::2003:0381.3:::1049086800:::L:::RHSA-2003:108-03: Updated Evolution packages fix multiple vulnerabilities:::
+package:::2003:0381.3:::evolution:::1.2.2-5
+advisory:::2003:0505.2:::1049860800:::H:::RHSA-2003:137-02: New samba packages fix security vulnerability:::&processRunning( "(smbd|nmbd)" )
+package:::2003:0505.2:::samba:::2.2.7a-8.9.0
+package:::2003:0505.2:::samba-common:::2.2.7a-8.9.0
+package:::2003:0505.2:::samba-swat:::2.2.7a-8.9.0
+package:::2003:0505.2:::samba-client:::2.2.7a-8.9.0
+advisory:::2003:0454.1:::1049173200:::L:::RHSA-2003:084-01: Updated vsftpd packages re-enable tcp_wrappers support:::&processRunning( "vsftpd" )
+package:::2003:0454.1:::vsftpd:::1.1.3-8
+advisory:::2003:0352.3:::1049173200:::H:::RHSA-2003:095-03: New samba packages fix security vulnerabilities:::&processRunning( "(smbd|nmbd)" )
+package:::2003:0352.3:::samba:::2.2.7a-7.9.0
+package:::2003:0352.3:::samba-common:::2.2.7a-7.9.0
+package:::2003:0352.3:::samba-swat:::2.2.7a-7.9.0
+package:::2003:0352.3:::samba-client:::2.2.7a-7.9.0
+advisory:::2003:0453.1:::1049173200:::L:::RHSA-2003:101-01: Updated OpenSSL packages fix vulnerabilities:::
+package:::2003:0453.1:::openssl096:::0.9.6-17
+package:::2003:0453.1:::openssl096b:::0.9.6b-6
+package:::2003:0453.1:::openssl:::0.9.7a-5
+package:::2003:0453.1:::openssl-devel:::0.9.7a-5
+package:::2003:0453.1:::openssl-perl:::0.9.7a-5
+advisory:::2003:0466.1:::1049259600:::M:::RHSA-2003:091-01: Updated kerberos packages fix various vulnerabilities:::
+package:::2003:0466.1:::krb5-devel:::1.2.7-14
+package:::2003:0466.1:::krb5-libs:::1.2.7-14
+package:::2003:0466.1:::krb5-server:::1.2.7-14
+package:::2003:0466.1:::krb5-workstation:::1.2.7-14
+advisory:::2003:0472.1:::1049346000:::M:::RHSA-2003:128-01: Updated Eye of GNOME packages fix vulnerability:::
+package:::2003:0472.1:::eog:::2.2.0-2
+package:::2003:0472.1:::eog-debuginfo:::2.2.0-2
+advisory:::2003:0476.1:::1049432400:::M:::RHSA-2003:109-03: Updated balsa and mutt packages fix vulnerabilities:::
+package:::2003:0476.1:::balsa:::2.0.6-2
+package:::2003:0476.1:::mutt:::1.4.1-1
+advisory:::2003:0520.1:::1049947200:::M:::RHSA-2003:139-01: Updated httpd packages fix security vulnerabilities:::&processRunning( "httpd" )
+package:::2003:0520.1:::httpd:::2.0.40-21.1
+package:::2003:0520.1:::httpd-devel:::2.0.40-21.1
+package:::2003:0520.1:::httpd-manual:::2.0.40-21.1
+package:::2003:0520.1:::mod_ssl:::2.0.40-21.1
+advisory:::2003:0518.1:::1049947200:::H:::RHSA-2003:135-00: Updated 2.4 kernel fixes USB storage:::
+package:::2003:0518.1:::kernel:::2.4.20-9
+package:::2003:0518.1:::kernel-source:::2.4.20-9
+package:::2003:0518.1:::kernel-doc:::2.4.20-9
+package:::2003:0518.1:::kernel-BOOT:::2.4.20-9
+package:::2003:0518.1:::kernel-smp:::2.4.20-9
+package:::2003:0518.1:::kernel-bigmem:::2.4.20-9
+advisory:::2003:0543.1:::1042520400:::M:::RHSA-2003:126-01: Updated gtkhtml packages fix vulnerability:::
+package:::2003:0543.1:::gtkhtml-devel:::1.1.9-0.9
+package:::2003:0543.1:::gtkhtml:::1.1.9-0.9
+advisory:::2003:0588.1:::1051156800:::M:::RHSA-2003:076-01: Updated ethereal packages fix security vulnerabilities:::
+package:::2003:0588.1:::ethereal:::0.9.11-0.90.1
+package:::2003:0588.1:::ethereal-gnome:::0.9.11-0.90.1
+advisory:::2003:0593.1:::1051502400:::L:::RHSA-2003:142-01: Updated LPRng packages fix psbanner vulnerability:::&processRunning( "lpd" )
+package:::2003:0593.1:::LPRng:::3.8.19-3.1
+advisory:::2003:0591.1:::1051502400:::L:::RHSA-2003:112-01: Updated squirrelmail packages fix cross-site scripting vulnerabilities:::
+package:::2003:0591.1:::squirrelmail:::1.2.11-1
+advisory:::2003:0615.2:::1051848000:::L:::RHSA-2003:093-02: Updated MySQL packages fix vulnerabilities:::&processRunning( "mysqld" )
+package:::2003:0615.2:::mysql:::3.23.56-1.9
+package:::2003:0615.2:::mysql-devel:::3.23.56-1.9
+package:::2003:0615.2:::mysql-server:::3.23.56-1.9
+advisory:::2003:0651.1:::1052971200:::M:::RHSA-2003:002-01: Updated KDE packages fix security issues:::
+package:::2003:0651.1:::kdegraphics-devel:::3.1-5
+package:::2003:0651.1:::kdelibs-devel:::3.1-11
+package:::2003:0651.1:::kdebase-devel:::3.1-13
+package:::2003:0651.1:::kdegraphics:::3.1-5
+package:::2003:0651.1:::kdelibs:::3.1-11
+package:::2003:0651.1:::kdebase:::3.1-13
+advisory:::2003:0676.1:::1053057600:::M:::RHSA-2003:169-01: Updated lv packages fix vulnerability:::
+package:::2003:0676.1:::lv:::4.49.4-9.9.1
+advisory:::2003:0659.1:::1052884800:::L:::RHSA-2003:160-01: Updated xinetd packages fix a denial-of-service attack and other bugs:::&processRunning( "xinetd" )
+package:::2003:0659.1:::xinetd:::2.3.11-1.9.0
+advisory:::2003:0662.1:::1052971200:::L:::RHSA-2003:172-00: Updated 2.4 kernel fixes security vulnerabilities and various bugs:::
+package:::2003:0662.1:::kernel:::2.4.20-13.9
+package:::2003:0662.1:::kernel-BOOT:::2.4.20-13.9
+package:::2003:0662.1:::kernel-doc:::2.4.20-13.9
+package:::2003:0662.1:::kernel-smp:::2.4.20-13.9
+package:::2003:0662.1:::kernel-bigmem:::2.4.20-13.9
+package:::2003:0662.1:::kernel-source:::2.4.20-13.9
+advisory:::2003:0670.1:::1052971200:::L:::RHSA-2003:174-01: Updated tcpdump packages fix privilege dropping error:::
+package:::2003:0670.1:::tcpdump:::3.7.2-1.9.1
+advisory:::2003:0707.1:::1054094400:::L:::RHSA-2003:171-01: Updated CUPS packages fix denial of service attack:::&processRunning( "cupsd" )
+package:::2003:0707.1:::cups:::1.1.17-13.3
+package:::2003:0707.1:::cups-devel:::1.1.17-13.3
+package:::2003:0707.1:::cups-libs:::1.1.17-13.3
+advisory:::2003:0714.1:::1054180800:::M:::RHSA-2003:186-01: Updated httpd packages fix Apache security vulnerabilities:::&processRunning( "httpd" )
+package:::2003:0714.1:::httpd:::2.0.40-21.3
+package:::2003:0714.1:::httpd-devel:::2.0.40-21.3
+package:::2003:0714.1:::httpd-manual:::2.0.40-21.3
+package:::2003:0714.1:::mod_ssl:::2.0.40-21.3
+advisory:::2003:0724.1:::1054526400:::M:::RHSA-2003:181-01: Updated ghostscript packages fix vulnerability:::
+package:::2003:0724.1:::ghostscript:::7.05-32.1
+package:::2003:0724.1:::ghostscript-devel:::7.05-32.1
+package:::2003:0724.1:::hpijs:::1.3-32.1
+advisory:::2003:0734.1:::1054699200:::M:::RHSA-2003:047-01: Updated kon2 packages fix buffer overflow:::
+package:::2003:0734.1:::kon2:::0.3.9b-16.9
+package:::2003:0734.1:::kon2-fonts:::0.3.9b-16.9
+advisory:::2003:0733.1:::1054699200:::L:::RHSA-2003:187-01: Updated 2.4 kernel fixes vulnerabilities and driver bugs:::
+package:::2003:0733.1:::kernel:::2.4.20-18.9
+package:::2003:0733.1:::kernel-BOOT:::2.4.20-18.9
+package:::2003:0733.1:::kernel-doc:::2.4.20-18.9
+package:::2003:0733.1:::kernel-smp:::2.4.20-18.9
+package:::2003:0733.1:::kernel-bigmem:::2.4.20-18.9
+package:::2003:0733.1:::kernel-source:::2.4.20-18.9
+advisory:::2003:0800.1:::1055908800:::M:::RHSA-2003:196-01: Updated Xpdf packages fix security vulnerability:::
+package:::2003:0800.1:::xpdf:::2.01-9
+package:::2003:0800.1:::xpdf-chinese-simplified:::2.01-9
+package:::2003:0800.1:::xpdf-chinese-traditional:::2.01-9
+package:::2003:0800.1:::xpdf-japanese:::2.01-9
+package:::2003:0800.1:::xpdf-korean:::2.01-9
+advisory:::2003:0816.1:::1056513600:::L:::RHSA-2003:173-01: Updated ypserv packages fix a denial of service:::&processRunning( "ypserv" )
+package:::2003:0816.1:::ypserv:::2.8-0.9E
+advisory:::2003:0846.1:::1057032000:::L:::RHSA-2003:199-01: Updated unzip packages fix trojan vulnerability:::
+package:::2003:0846.1:::unzip:::5.50-14
+advisory:::2003:0850.1:::1057118400:::L:::RHSA-2003:204-01: Updated PHP packages are now available:::&processRunning( "httpd" )
+package:::2003:0850.1:::php:::4.2.2-17.2
+package:::2003:0850.1:::php-devel:::4.2.2-17.2
+package:::2003:0850.1:::php-imap:::4.2.2-17.2
+package:::2003:0850.1:::php-ldap:::4.2.2-17.2
+package:::2003:0850.1:::php-manual:::4.2.2-17.2
+package:::2003:0850.1:::php-mysql:::4.2.2-17.2
+package:::2003:0850.1:::php-odbc:::4.2.2-17.2
+package:::2003:0850.1:::php-pgsql:::4.2.2-17.2
+package:::2003:0850.1:::php-snmp:::4.2.2-17.2
+advisory:::2003:0852.1:::1057204800:::M:::RHSA-2003:203-01: Updated Ethereal packages fix security issues:::
+package:::2003:0852.1:::ethereal:::0.9.13-1.90.1
+package:::2003:0852.1:::ethereal-gnome:::0.9.13-1.90.1
+advisory:::2003:0892.1:::1058155200:::M:::RHSA-2003:206-01: Updated nfs-utils packages fix denial of service:::&processRunning( "(nfsd|rpc.statd|rpc.lockd|rpc.mountd)" )
+package:::2003:0892.1:::nfs-utils:::1.0.1-3.9
+advisory:::2003:0800.2:::1058414400:::M:::RHSA-2003:196-02: Updated Xpdf packages fix security vulnerability:::
+package:::2003:0800.2:::xpdf:::2.01-11
+package:::2003:0800.2:::xpdf-chinese-simplified:::2.01-11
+package:::2003:0800.2:::xpdf-chinese-traditional:::2.01-11
+package:::2003:0800.2:::xpdf-japanese:::2.01-11
+package:::2003:0800.2:::xpdf-korean:::2.01-11
+advisory:::2003:0917.1:::1058846400:::L:::RHSA-2003:238-01: Updated 2.4 kernel fixes vulnerabilities:::
+package:::2003:0917.1:::kernel:::2.4.20-19.9
+package:::2003:0917.1:::kernel-BOOT:::2.4.20-19.9
+package:::2003:0917.1:::kernel-bigmem:::2.4.20-19.9
+package:::2003:0917.1:::kernel-doc:::2.4.20-19.9
+package:::2003:0917.1:::kernel-smp:::2.4.20-19.9
+package:::2003:0917.1:::kernel-source:::2.4.20-19.9
+advisory:::2003:0935.1:::1059019200:::L:::RHSA-2003:234-01: Updated semi packages fix vulnerability:::
+package:::2003:0935.1:::wl:::2.10.1-1.1
+package:::2003:0935.1:::wl-common:::2.10.1-1.1
+package:::2003:0935.1:::wl-xemacs:::2.10.1-1.1
+advisory:::2003:0958.1:::1059537600:::L:::RHSA-2003:222-01: Updated openssh packages available:::&processRunning( "sshd" )
+package:::2003:0958.1:::openssh:::3.5p1-6.9
+package:::2003:0958.1:::openssh-askpass:::3.5p1-6.9
+package:::2003:0958.1:::openssh-askpass-gnome:::3.5p1-6.9
+package:::2003:0958.1:::openssh-clients:::3.5p1-6.9
+package:::2003:0958.1:::openssh-server:::3.5p1-6.9
+advisory:::2003:0990.1:::1059969600:::M:::RHSA-2003:251-01: New postfix packages fix security issues.:::&processRunning( "master" )
+package:::2003:0990.1:::postfix:::1.1.12-1
+advisory:::2003:1014.1:::1060315200:::L:::RHSA-2003:255-01: up2date improperly checks GPG signature of packages:::
+package:::2003:1014.1:::up2date:::3.1.23.1-5
+package:::2003:1014.1:::up2date-gnome:::3.1.23.1-5
+advisory:::2003:1022.1:::1060574400:::L:::RHSA-2003:241-01: Updated ddskk packages fix temporary file vulnerability:::
+package:::2003:1022.1:::ddskk:::11.6.0-11.90
+package:::2003:1022.1:::ddskk-xemacs:::11.6.0-11.90
+advisory:::2003:1021.1:::1060574400:::L:::RHSA-2003:235-01: Updated KDE packages fix security issue:::
+package:::2003:1021.1:::kdelibs:::3.1-12
+package:::2003:1021.1:::kdelibs-devel:::3.1-12
+advisory:::2003:1038.1:::1061179200:::L:::RHSA-2003:199-02: Updated unzip packages fix trojan vulnerability:::
+package:::2003:1038.1:::unzip:::5.50-33
+advisory:::2003:1065.1:::1061956800:::M:::RHSA-2003:261-01: Updated pam_smb packages fix remote buffer overflow.:::
+package:::2003:1065.1:::pam_smb:::1.1.6-9.9
+advisory:::2003:1079.1:::1062043200:::L:::RHSA-2003:265-01: Updated Sendmail packages fix vulnerability.:::&portOpen( "25" )
+package:::2003:1079.1:::sendmail:::8.12.8-6.90
+package:::2003:1079.1:::sendmail-cf:::8.12.8-6.90
+package:::2003:1079.1:::sendmail-devel:::8.12.8-6.90
+package:::2003:1079.1:::sendmail-doc:::8.12.8-6.90
+advisory:::2003:1084.1:::1062475200:::L:::RHSA-2003:267-01: New up2date available with updated SSL certificate authority file:::
+package:::2003:1084.1:::up2date:::3.1.23.2-1
+package:::2003:1084.1:::up2date-gnome:::3.1.23.2-1
+advisory:::2003:1108.1:::1062734400:::L:::RHSA-2003:240-01: Updated httpd packages fix Apache security vulnerabilities:::&processRunning( "httpd" )
+package:::2003:1108.1:::httpd:::2.0.40-21.5
+package:::2003:1108.1:::httpd-devel:::2.0.40-21.5
+package:::2003:1108.1:::httpd-manual:::2.0.40-21.5
+package:::2003:1108.1:::mod_ssl:::2.0.40-21.5
+advisory:::2003:1127.1:::1063166400:::L:::RHSA-2003:264-01: Updated gtkhtml packages fix vulnerability:::
+package:::2003:1127.1:::gtkhtml:::1.1.9-0.9.1
+package:::2003:1127.1:::gtkhtml-devel:::1.1.9-0.9.1
+advisory:::2003:1132.1:::1063252800:::M:::RHSA-2003:273-01: Updated pine packages fix vulnerabilities:::
+package:::2003:1132.1:::pine:::4.44-19.90.0
+advisory:::2003:1157.1:::1063771200:::H:::RHSA-2003:279-01: Updated OpenSSH packages fix potential vulnerability:::&processRunning( "sshd" )
+package:::2003:1157.1:::openssh:::3.5p1-9
+package:::2003:1157.1:::openssh-askpass:::3.5p1-9
+package:::2003:1157.1:::openssh-askpass-gnome:::3.5p1-9
+package:::2003:1157.1:::openssh-clients:::3.5p1-9
+package:::2003:1157.1:::openssh-server:::3.5p1-9
+advisory:::2003:1156.1:::1063771200:::M:::RHSA-2003:269-01: Updated KDE packages fix security issues:::
+package:::2003:1156.1:::kdebase:::3.1-15
+package:::2003:1156.1:::kdebase-devel:::3.1-15
+advisory:::2003:1157.2:::1063857600:::H:::RHSA-2003:279-02: Updated OpenSSH packages fix potential vulnerability:::&processRunning( "sshd" )
+package:::2003:1157.2:::openssh:::3.5p1-11
+package:::2003:1157.2:::openssh-askpass:::3.5p1-11
+package:::2003:1157.2:::openssh-askpass-gnome:::3.5p1-11
+package:::2003:1157.2:::openssh-clients:::3.5p1-11
+package:::2003:1157.2:::openssh-server:::3.5p1-11
+advisory:::2003:1181.1:::1063857600:::M:::RHSA-2003:283-01: Updated Sendmail packages fix vulnerability:::
+package:::2003:1181.1:::sendmail:::8.12.8-9.90
+package:::2003:1181.1:::sendmail-cf:::8.12.8-9.90
+package:::2003:1181.1:::sendmail-devel:::8.12.8-9.90
+package:::2003:1181.1:::sendmail-doc:::8.12.8-9.90
+advisory:::2003:1208.1:::1064203200:::L:::RHSA-2003:256-01: Updated Perl packages fix security issues.:::
+package:::2003:1208.1:::perl:::5.8.0-88.3
+package:::2003:1208.1:::perl-CGI:::2.81-88.3
+package:::2003:1208.1:::perl-CPAN:::1.61-88.3
+package:::2003:1208.1:::perl-DB_File:::1.804-88.3
+package:::2003:1208.1:::perl-suidperl:::5.8.0-88.3
+advisory:::2003:1250.1:::1064894400:::M:::RHSA-2003:292-01: Updated OpenSSL packages fix vulnerabilities:::
+package:::2003:1250.1:::openssl:::0.9.7a-20
+package:::2003:1250.1:::openssl-devel:::0.9.7a-20
+package:::2003:1250.1:::openssl-perl:::0.9.7a-20
+package:::2003:1250.1:::openssl096:::0.9.6-23.9
+package:::2003:1250.1:::openssl096b:::0.9.6b-12
+advisory:::2003:1311.1:::1065672000:::M:::RHSA-2003:281-01: Updated MySQL packages fix vulnerability:::&processRunning( "mysqld" )
+package:::2003:1311.1:::mysql:::3.23.58-1.9
+package:::2003:1311.1:::mysql-server:::3.23.58-1.9
+package:::2003:1311.1:::mysql-devel:::3.23.58-1.9
+advisory:::2003:1391.1:::1067835600:::L:::RHSA-2003:275-01: Updated CUPS packages fix denial of service:::&processRunning( "cupsd" )
+package:::2003:1391.1:::cups:::1.1.17-13.3.0.3
+package:::2003:1391.1:::cups-devel:::1.1.17-13.3.0.3
+package:::2003:1391.1:::cups-libs:::1.1.17-13.3.0.3
+advisory:::2003:1394.1:::1067835600:::L:::RHSA-2003:309-01: Updated fileutils/coreutils package fix ls vulnerabilities:::
+package:::2003:1394.1:::coreutils:::4.5.3-19.0.2
+advisory:::2003:1424.1:::1068440400:::M:::RHSA-2003:323-01: Updated Ethereal packages fix security issues:::
+package:::2003:1424.1:::ethereal:::0.9.16-0.90.1
+package:::2003:1424.1:::ethereal-gnome:::0.9.16-0.90.1
+advisory:::2003:1438.1:::1068699600:::M:::RHSA-2003:313-00: Updated PostgreSQL packages fix buffer overflow:::&processRunning( "postmaster" )
+package:::2003:1438.1:::postgresql:::7.3.4-3
+package:::2003:1438.1:::postgresql-contrib:::7.3.4-3
+package:::2003:1438.1:::postgresql-pl:::7.3.4-3
+package:::2003:1438.1:::postgresql-devel:::7.3.4-3
+package:::2003:1438.1:::postgresql-python:::7.3.4-3
+package:::2003:1438.1:::postgresql-docs:::7.3.4-3
+package:::2003:1438.1:::postgresql-server:::7.3.4-3
+package:::2003:1438.1:::postgresql-jdbc:::7.3.4-3
+package:::2003:1438.1:::postgresql-tcl:::7.3.4-3
+package:::2003:1438.1:::postgresql-libs:::7.3.4-3
+package:::2003:1438.1:::postgresql-test:::7.3.4-3
+package:::2003:1438.1:::postgresql72-libs:::1-4
+advisory:::2003:1436.1:::1068699600:::L:::RHSA-2003:307-01: Updated zebra packages fix security vulnerabilities:::
+package:::2003:1436.1:::zebra:::0.93b-4.9
+advisory:::2003:1443.1:::1068699600:::L:::RHSA-2003:325-01: Updated glibc packages provide security and bug fixes:::
+package:::2003:1443.1:::glibc:::2.3.2-27.9.6
+package:::2003:1443.1:::glibc-common:::2.3.2-27.9.6
+package:::2003:1443.1:::glibc-debug:::2.3.2-27.9.6
+package:::2003:1443.1:::glibc-devel:::2.3.2-27.9.6
+package:::2003:1443.1:::glibc-profile:::2.3.2-27.9.6
+package:::2003:1443.1:::glibc-utils:::2.3.2-27.9.6
+package:::2003:1443.1:::nscd:::2.3.2-27.9.6
+package:::2003:1443.1:::nptl-devel:::2.3.2-27.9.6
+advisory:::2003:1472.1:::1069218000:::M:::RHSA-2003:288-01: Updated XFree86 packages provide security and bug fixes:::
+package:::2003:1472.1:::XFree86-100dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-75dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-ISO8859-14-100dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-ISO8859-14-75dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-ISO8859-15-100dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-ISO8859-15-75dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-ISO8859-2-100dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-ISO8859-2-75dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-ISO8859-9-100dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-ISO8859-9-75dpi-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-Mesa-libGL:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-Mesa-libGLU:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-Xnest:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-Xvfb:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-base-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-cyrillic-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-devel:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-doc:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-font-utils:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-libs:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-libs-data:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-sdk:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-syriac-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-tools:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-truetype-fonts:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-twm:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-xauth:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-xdm:::4.3.0-2.90.43
+package:::2003:1472.1:::XFree86-xfs:::4.3.0-2.90.43
+advisory:::2003:1490.1:::1069650000:::M:::RHSA-2003:342-01: Updated EPIC packages fix security vulnerability:::
+package:::2003:1490.1:::epic:::1.0.1-15.9
+advisory:::2003:1487.1:::1069650000:::L:::RHSA-2003:311-01: Updated Pan packages fix denial of service vulnerability:::
+package:::2003:1487.1:::pan:::0.14.2-1.9
+advisory:::2003:1488.1:::1069650000:::L:::RHSA-2003:316-01: Updated iproute packages fix local security vulnerability:::
+package:::2003:1488.1:::iproute:::2.4.7-7.90.1
+advisory:::2003:1520.1:::1070341200:::H:::RHSA-2003:392-00: Updated 2.4 kernel fixes privilege escalation security vulnerability:::
+package:::2003:1520.1:::kernel:::2.4.20-24.9
+package:::2003:1520.1:::kernel-BOOT:::2.4.20-24.9
+package:::2003:1520.1:::kernel-bigmem:::2.4.20-24.9
+package:::2003:1520.1:::kernel-doc:::2.4.20-24.9
+package:::2003:1520.1:::kernel-smp:::2.4.20-24.9
+package:::2003:1520.1:::kernel-source:::2.4.20-24.9
+advisory:::2003:1522.1:::1070341200:::L:::RHSA-2003:335-01: Updated Net-SNMP packages fix security and other bugs:::&processRunning( "(snmpd|snmptrapd)" )
+package:::2003:1522.1:::net-snmp:::5.0.9-2.90.1
+package:::2003:1522.1:::net-snmp-devel:::5.0.9-2.90.1
+package:::2003:1522.1:::net-snmp-perl:::5.0.9-2.90.1
+package:::2003:1522.1:::net-snmp-utils:::5.0.9-2.90.1
+advisory:::2003:1544.1:::1070600400:::H:::RHSA-2003:398-01: New rsync packages fix remote security vulnerability:::&portOpen( "873" )
+package:::2003:1544.1:::rsync:::2.5.7-0.9
+advisory:::2003:1567.1:::1071205200:::L:::RHSA-2003:390-01: Updated gnupg packages disable ElGamal keys:::
+package:::2003:1567.1:::gnupg:::1.2.1-9
+advisory:::2003:1582.1:::1071550800:::M:::RHSA-2003:403-01: Updated lftp packages fix security vulnerability:::
+package:::2003:1582.1:::lftp:::2.6.3-4
+advisory:::2003:1594.1:::1071723600:::L:::RHSA-2003:320-01: Updated httpd packages fix Apache security vulnerabilities:::&processRunning( "httpd" )
+package:::2003:1594.1:::httpd:::2.0.40-21.9
+package:::2003:1594.1:::httpd-devel:::2.0.40-21.9
+package:::2003:1594.1:::httpd-manual:::2.0.40-21.9
+package:::2003:1594.1:::mod_ssl:::2.0.40-21.9
+advisory:::2004:0003.1:::1073278800:::M:::RHSA-2003:417-01: Updated kernel resolves security vulnerability:::
+package:::2004:0003.1:::kernel:::2.4.20-28.9
+package:::2004:0003.1:::kernel-source:::2.4.20-28.9
+package:::2004:0003.1:::kernel-doc:::2.4.20-28.9
+package:::2004:0003.1:::kernel-BOOT:::2.4.20-28.9
+package:::2004:0003.1:::kernel-smp:::2.4.20-28.9
+package:::2004:0003.1:::kernel-bigmem:::2.4.20-28.9
+advisory:::2004:0027.1:::1073451600:::M:::RHSA-2004:001-01: Updated Ethereal packages fix security issues:::
+package:::2004:0027.1:::ethereal:::0.10.0a-0.90.1
+package:::2004:0027.1:::ethereal-gnome:::0.10.0a-0.90.1
+advisory:::2004:0044.1:::1073970000:::L:::RHSA-2004:003-01: Updated CVS packages fix minor security issue:::
+package:::2004:0044.1:::cvs:::1.11.2-13
+advisory:::2004:0063.1:::1074142800:::M:::RHSA-2004:006-01: Updated kdepim packages resolve security vulnerability:::
+package:::2004:0063.1:::kdepim:::3.1-6
+package:::2004:0063.1:::kdepim-devel:::3.1-6
+advisory:::2004:0062.1:::1074142800:::M:::RHSA-2004:007-01: Updated tcpdump packages fix various vulnerabilities:::
+package:::2004:0062.1:::tcpdump:::3.7.2-7.9.1
+package:::2004:0062.1:::libpcap:::0.7.2-7.9.1
+package:::2004:0062.1:::arpwatch:::2.1a11-7.9.1
+advisory:::2004:0091.1:::1074661200:::L:::RHSA-2004:034-01: Updated mc packages resolve buffer overflow vulnerability:::
+package:::2004:0091.1:::mc:::4.6.0-7.9
+advisory:::2004:0098.1:::1074834000:::M:::RHSA-2004:040-01: Updated slocate packages fix vulnerability:::
+package:::2004:0098.1:::slocate:::2.7-2
+advisory:::2004:0104.1:::1075093200:::M:::RHSA-2004:032-01: Updated Gaim packages fix various vulnerabilities:::
+package:::2004:0104.1:::gaim:::0.75-0.9.0
+advisory:::2004:0146.1:::1075957200:::L:::RHSA-2004:030-01: Updated NetPBM packages fix multiple temporary file vulnerabilities:::
+package:::2004:0146.1:::netpbm:::9.24-10.90.1
+package:::2004:0146.1:::netpbm-devel:::9.24-10.90.1
+package:::2004:0146.1:::netpbm-progs:::9.24-10.90.1
+advisory:::2004:0145.1:::1075957200:::L:::RHSA-2004:020-01: Updated mailman packages close cross-site scripting vulnerabilities:::&processRunning( "mailman" )
+package:::2004:0145.1:::mailman:::2.1.1-5
+advisory:::2004:0162.1:::1076475600:::M:::RHSA-2004:051-01: Updated mutt packages fix remotely-triggerable crash:::
+package:::2004:0162.1:::mutt:::1.4.1-3.3
+advisory:::2004:0174.1:::1076648400:::M:::RHSA-2004:059-01: Updated XFree86 packages fix privilege escalation vulnerability:::
+package:::2004:0174.1:::XFree86-100dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-75dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-ISO8859-14-100dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-ISO8859-14-75dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-ISO8859-15-100dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-ISO8859-15-75dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-ISO8859-2-100dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-ISO8859-2-75dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-ISO8859-9-100dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-ISO8859-9-75dpi-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-Mesa-libGL:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-Mesa-libGLU:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-Xnest:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-Xvfb:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-base-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-cyrillic-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-devel:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-doc:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-font-utils:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-libs:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-libs-data:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-sdk:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-syriac-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-tools:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-truetype-fonts:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-twm:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-xauth:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-xdm:::4.3.0-2.90.55
+package:::2004:0174.1:::XFree86-xfs:::4.3.0-2.90.55
+advisory:::2004:0171.1:::1076648400:::L:::RHSA-2004:048-01: Updated PWLib packages fix protocol security issues:::
+package:::2004:0171.1:::pwlib:::1.4.7-4.1
+package:::2004:0171.1:::pwlib-devel:::1.4.7-4.1
+advisory:::2004:0198.1:::1077166800:::H:::RHSA-2004:065-01: Updated kernel packages resolve security vulnerabilities:::
+package:::2004:0198.1:::kernel:::2.4.20-30.9
+package:::2004:0198.1:::kernel-source:::2.4.20-30.9
+package:::2004:0198.1:::kernel-doc:::2.4.20-30.9
+package:::2004:0198.1:::kernel-BOOT:::2.4.20-30.9
+package:::2004:0198.1:::kernel-smp:::2.4.20-30.9
+package:::2004:0198.1:::kernel-bigmem:::2.4.20-30.9
+advisory:::2004:0254.1:::1077771600:::M:::RHSA-2004:091-01: Updated libxml2 packages fix security vulnerability:::
+package:::2004:0254.1:::libxml2:::2.5.4-2
+package:::2004:0254.1:::libxml2-devel:::2.5.4-2
+package:::2004:0254.1:::libxml2-python:::2.5.4-2
+advisory:::2004:0255.1:::1077771600:::L:::RHSA-2004:063-01: Updated mod_python packages fix denial of service vulnerability:::&processRunning( "httpd" )
+package:::2004:0255.1:::mod_python:::3.0.1-4
+advisory:::2004:0314.1:::1078894800:::M:::RHSA-2004:075-01: Updated kdelibs packages resolve cookie security issue:::
+package:::2004:0314.1:::kdelibs:::3.1-13
+package:::2004:0314.1:::kdelibs-devel:::3.1-13
+advisory:::2004:0315.1:::1078894800:::L:::RHSA-2004:093-01: Updated sysstat packages fix security vulnerabilities:::
+package:::2004:0315.1:::sysstat:::4.0.7-4.rhl9.1
+advisory:::2004:0313.1:::1078894800:::L:::RHSA-2004:102-01: Updated gdk-pixbuf packages fix denial of service vulnerability:::
+package:::2004:0313.1:::gdk-pixbuf:::0.22.0-6.1.0
+package:::2004:0313.1:::gdk-pixbuf-devel:::0.22.0-6.1.0
+package:::2004:0313.1:::gdk-pixbuf-gnome:::0.22.0-6.1.0
+advisory:::2004:0342.1:::1079586000:::H:::RHSA-2004:112-01: Updated Mozilla packages fix security issues:::
+package:::2004:0342.1:::galeon:::1.2.13-0.9.0
+package:::2004:0342.1:::mozilla:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-chat:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-devel:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-dom-inspector:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-js-debugger:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-mail:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-nspr:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-nspr-devel:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-nss:::1.4.2-0.9.0
+package:::2004:0342.1:::mozilla-nss-devel:::1.4.2-0.9.0
+advisory:::2004:0344.1:::1079586000:::L:::RHSA-2004:121-01: Updated OpenSSL packages fix vulnerabilities:::
+package:::2004:0344.1:::openssl:::0.9.7a-20.2
+package:::2004:0344.1:::openssl-devel:::0.9.7a-20.2
+package:::2004:0344.1:::openssl-perl:::0.9.7a-20.2
+package:::2004:0344.1:::openssl096:::0.9.6-25.9
+package:::2004:0344.1:::openssl096b:::0.9.6b-15
+advisory:::2004:0362.1:::1080536400:::L:::RHSA-2004:134-01: Updated squid package fixes security vulnerability:::&processRunning( "squid" )
+package:::2004:0362.1:::squid:::2.5.STABLE1-3.9
+advisory:::2004:0378.1:::1080709200:::H:::RHSA-2004:137-01: Updated Ethereal packages fix security issues:::
+package:::2004:0378.1:::ethereal:::0.10.3-0.90.1
+package:::2004:0378.1:::ethereal-gnome:::0.10.3-0.90.1
+advisory:::2004:0469.1:::1081915200:::M:::RHSA-2004:158-01: Updated cadaver package fixes security vulnerability in neon:::
+package:::2004:0469.1:::cadaver:::0.22.0-2.2
+advisory:::2004:0466.1:::1081915200:::L:::RHSA-2004:154-01: Updated CVS packages fix security issue:::
+package:::2004:0466.1:::cvs:::1.11.2-17
+advisory:::2004:0480.1:::1082001600:::M:::RHSA-2004:159-01: Updated Subversion packages fix security vulnerability in neon:::
+package:::2004:0480.1:::subversion:::0.27.0-2
+package:::2004:0480.1:::subversion-devel:::0.27.0-2
+advisory:::2004:0516.3:::1082952000:::M:::RHSA-2004:166-01: Updated kernel packages resolve security vulnerabilities:::
+package:::2004:0516.3:::kernel:::2.4.20-31.9
+package:::2004:0516.3:::kernel-source:::2.4.20-31.9
+package:::2004:0516.3:::kernel-doc:::2.4.20-31.9
+package:::2004:0516.3:::kernel-BOOT:::2.4.20-31.9
+package:::2004:0516.3:::kernel-smp:::2.4.20-31.9
+package:::2004:0516.3:::kernel-bigmem:::2.4.20-31.9
+advisory:::2004:0569.1:::1083297600:::M:::RHSA-2004:177-01: An updated X-Chat package fixes vulnerability in Socks-5 proxy:::
+package:::2004:0569.1:::xchat:::1.8.11-9
+advisory:::2004:0568.1:::1083297600:::L:::RHSA-2004:179-01: An updated LHA package fixes security vulnerabilities:::
+package:::2004:0568.1:::lha:::1.14i-9.1
+advisory:::2004:0570.1:::1083297600:::L:::RHSA-2004:182-01: Updated httpd packages fix mod_ssl security issue:::&processRunning( "httpd" )
+package:::2004:0570.1:::httpd:::2.0.40-21.11
+package:::2004:0570.1:::httpd-devel:::2.0.40-21.11
+package:::2004:0570.1:::httpd-manual:::2.0.40-21.11
+package:::2004:0570.1:::mod_ssl:::2.0.40-21.11
+advisory:::2004:0573.1:::1083297600:::M:::RHSA-2004:163-01: Updated OpenOffice packages fix security vulnerability in neon:::
+package:::2004:0573.1:::openoffice:::1.0.2-11
+package:::2004:0573.1:::openoffice-i18n:::1.0.2-11
+package:::2004:0573.1:::openoffice-libs:::1.0.2-11
+advisory:::2004:0574.1:::1083297600:::L:::RHSA-2004:181-01: Updated libpng packages fix crash:::
+package:::2004:0574.1:::libpng:::1.2.2-20
+package:::2004:0574.1:::libpng-devel:::1.2.2-20
+package:::2004:0574.1:::libpng10:::1.0.13-11
+package:::2004:0574.1:::libpng10-devel:::1.0.13-11
+advisory:::2004:0579.1:::1083556800:::L:::RHSA-2004:173-00: Updated mc packages resolve several vulnerabilities:::
+package:::2004:0579.1:::mc:::4.6.0-14.9
+advisory:::2004:0578.1:::1083556800:::L:::RHSA-2004:175-01: Updated utempter package fixes vulnerability:::
+package:::2004:0578.1:::utempter:::0.5.5-2.RHL9.0
+advisory:::2004:0267.1:::1078117200:::L:::RHSA-2003:175-01: Updated gnupg packages fix validation bug:::
+package:::2004:0267.1:::gnupg:::1.2.1-4
+advisory:::2004:0766.1:::1086580800:::L:::FLSA-2004:1620: Updated cvs resolves security vulnerabilities:::
+package:::2004:0766.1:::cvs:::1.11.2-23.legacy
+advisory:::2004:0999.1:::1090296000:::L:::FLSA-2004:1734: Updated mailman resolves security vulnerability:::&processRunning( "mailman" )
+package:::2004:0999.1:::mailman:::2.1.1-7.legacy
+advisory:::2004:1489.1:::1096430400:::M:::FLSA-2004:1552: Updated cadaver packages that fix security:::
+package:::2004:1489.1:::cadaver:::0.22.1-1.legacy
+advisory:::2004:1488.1:::1096430400:::L:::FLSA-2004:1468: Updated tcpdump packages that fix multiple:::
+package:::2004:1488.1:::tcpdump:::3.7.2-7.9.3.legacy
+package:::2004:1488.1:::arpwatch:::2.1a11-7.9.3.legacy
+package:::2004:1488.1:::libpcap:::0.7.2-7.9.3.legacy
+advisory:::2004:1502.1:::1096516800:::M:::FLSA-2004:1840: Updated Ethereal packages fix security issues:::
+package:::2004:1502.1:::ethereal:::0.10.3-0.90.4.legacy
+package:::2004:1502.1:::ethereal-gnome:::0.10.3-0.90.4.legacy
+advisory:::2004:1503.1:::1096516800:::M:::FLSA-2004:2003: Updated rsync package fixes security issues:::&portOpen( "873" )
+package:::2004:1503.1:::rsync:::2.5.7-2.legacy.9
+advisory:::2004:1501.1:::1096516800:::L:::FLSA-2004:1581: Updated flim packages fix security vulnerability:::
+package:::2004:1501.1:::flim:::1.14.4-4.9.legacy
+package:::2004:1501.1:::flim-xemacs:::1.14.4-4.9.legacy
+advisory:::2004:1512.1:::1096862400:::M:::FLSA-2004:1733: Updated squirrelmail resolves security vulnerabilities:::
+package:::2004:1512.1:::squirrelmail:::1.4.3-0.f0.9.1.legacy
+advisory:::2004:1560.1:::1097121600:::M:::FLSA-2004:1735: Updated cvs packages fix security vulnerabilities:::
+package:::2004:1560.1:::cvs:::1.11.2-24.legacy
+advisory:::2004:1562.1:::1097208000:::H:::FLSA-2004:1868: Updated php packages fix security issues:::&processRunning( "httpd" )
+package:::2004:1562.1:::php:::4.2.2-17.7.legacy
+package:::2004:1562.1:::php-manual:::4.2.2-17.7.legacy
+package:::2004:1562.1:::php-odbc:::4.2.2-17.7.legacy
+package:::2004:1562.1:::php-imap:::4.2.2-17.7.legacy
+package:::2004:1562.1:::php-mysql:::4.2.2-17.7.legacy
+package:::2004:1562.1:::php-devel:::4.2.2-17.7.legacy
+package:::2004:1562.1:::php-snmp:::4.2.2-17.7.legacy
+package:::2004:1562.1:::php-ldap:::4.2.2-17.7.legacy
+package:::2004:1562.1:::php-pgsql:::4.2.2-17.7.legacy
+advisory:::2004:1563.1:::1097208000:::L:::FLSA-2004:1257: Updated netpbm packages fix security vulnerabilities:::
+package:::2004:1563.1:::netpbm:::9.24-10.90.3.legacy
+package:::2004:1563.1:::netpbm-devel:::9.24-10.90.3.legacy
+package:::2004:1563.1:::netpbm-progs:::9.24-10.90.3.legacy
+advisory:::2004:1574.1:::1097467200:::M:::FLSA-2004:2068: Updated httpd packages fix security issues:::&processRunning( "httpd" )
+package:::2004:1574.1:::httpd:::2.0.40-21.16.legacy
+package:::2004:1574.1:::httpd-devel:::2.0.40-21.16.legacy
+package:::2004:1574.1:::httpd-manual:::2.0.40-21.16.legacy
+package:::2004:1574.1:::mod_ssl:::2.0.40-21.16.legacy
+advisory:::2004:1598.1:::1097640000:::L:::FLSA-2004:2102: Updated samba packages fix security vulnerability:::&processRunning( "(smbd|nmbd)" )
+package:::2004:1598.1:::samba:::2.2.12-0.90.1.legacy
+package:::2004:1598.1:::samba-common:::2.2.12-0.90.1.legacy
+package:::2004:1598.1:::samba-swat:::2.2.12-0.90.1.legacy
+package:::2004:1598.1:::samba-client:::2.2.12-0.90.1.legacy
+advisory:::2004:1603.1:::1097726400:::H:::FLSA-2004:1833: Updated lha resolves security vulnerabilities:::
+package:::2004:1603.1:::lha:::1.14i-9.4.legacy
+advisory:::2004:1623.1:::1098072000:::H:::FLSA-2004:1237: Updated gaim package resolves security issues:::
+package:::2004:1623.1:::gaim:::0.82.1-0.90.3.legacy
+advisory:::2004:1625.1:::1098072000:::M:::FLSA-2004:2072: Updated CUPS packages fix security vulnerability:::&processRunning( "cupsd" )
+package:::2004:1625.1:::cups:::1.1.17-13.3.0.6.legacy
+package:::2004:1625.1:::cups-devel:::1.1.17-13.3.0.6.legacy
+package:::2004:1625.1:::cups-libs:::1.1.17-13.3.0.6.legacy
+advisory:::2004:1624.1:::1098072000:::M:::FLSA-2004:1804: Updated kernel resolves security vulnerabilities:::
+package:::2004:1624.1:::kernel:::2.4.20-37.9.legacy
+package:::2004:1624.1:::kernel-source:::2.4.20-37.9.legacy
+package:::2004:1624.1:::kernel-doc:::2.4.20-37.9.legacy
+package:::2004:1624.1:::kernel-BOOT:::2.4.20-37.9.legacy
+package:::2004:1624.1:::kernel-smp:::2.4.20-37.9.legacy
+package:::2004:1624.1:::kernel-bigmem:::2.4.20-37.9.legacy
+advisory:::2004:1669.1:::1098676800:::M:::FLSA-2004:1719: Updated Tripwire packages fix security flaw:::
+package:::2004:1669.1:::tripwire:::2.3.1-17.2.legacy.9
+advisory:::2004:1687.1:::1098849600:::M:::FLSA-2004:2089: Updated mozilla packages fix security vulnerabilities:::
+package:::2004:1687.1:::galeon:::1.2.13-0.9.2.legacy
+package:::2004:1687.1:::mozilla:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-chat:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-devel:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-dom-inspector:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-js-debugger:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-mail:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-nspr:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-nspr-devel:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-nss:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-nss-devel:::1.4.3-0.9.1.legacy
+package:::2004:1687.1:::mozilla-psm:::1.4.3-0.9.1.legacy
+advisory:::2004:1935.1:::1102309200:::L:::FLSA-2004:2148: Updated httpd:::&processRunning( "httpd" )
+package:::2004:1935.1:::httpd:::2.0.40-21.17.legacy
+package:::2004:1935.1:::httpd-devel:::2.0.40-21.17.legacy
+package:::2004:1935.1:::httpd-manual:::2.0.40-21.17.legacy
+package:::2004:1935.1:::mod_ssl:::2.0.40-21.17.legacy
+advisory:::2005:0377.1:::1108098000:::M:::FLSA-2005:2352: Updated Xpdf package fixes security issues:::
+package:::2005:0377.1:::xpdf:::2.01-11.3.legacy
+package:::2005:0377.1:::xpdf-chinese-simplified:::2.01-11.3.legacy
+package:::2005:0377.1:::xpdf-chinese-traditional:::2.01-11.3.legacy
+package:::2005:0377.1:::xpdf-japanese:::2.01-11.3.legacy
+package:::2005:0377.1:::xpdf-korean:::2.01-11.3.legacy
+advisory:::2005:0388.1:::1108098000:::L:::FLSA-2005:2252: Updated iptables packages resolve security issues:::
+package:::2005:0388.1:::iptables:::1.2.8-8.90.1.legacy
+package:::2005:0388.1:::iptables-ipv6:::1.2.8-8.90.1.legacy
+advisory:::2005:0390.1:::1108098000:::M:::FLSA-2005:2188: Updated gaim package resolves security issues:::
+package:::2005:0390.1:::gaim:::1.0.2-0.FC0.90.0.legacy
+advisory:::2005:0481.1:::1108962000:::M:::FLSA-2005:2137: Updated cyrus-sasl resolves security:::
+package:::2005:0481.1:::cyrus-sasl:::2.1.10-4.2.legacy
+package:::2005:0481.1:::cyrus-sasl-devel:::2.1.10-4.2.legacy
+package:::2005:0481.1:::cyrus-sasl-gssapi:::2.1.10-4.2.legacy
+package:::2005:0481.1:::cyrus-sasl-md5:::2.1.10-4.2.legacy
+package:::2005:0481.1:::cyrus-sasl-plain:::2.1.10-4.2.legacy
+advisory:::2005:0529.1:::1109739600:::M:::FLSA-2005:2127: Updated CUPS packages fix security vulnerabilities:::&processRunning( "cupsd" )
+package:::2005:0529.1:::cups:::1.1.17-13.3.0.13.legacy
+package:::2005:0529.1:::cups-devel:::1.1.17-13.3.0.13.legacy
+package:::2005:0529.1:::cups-libs:::1.1.17-13.3.0.13.legacy
+advisory:::2005:0531.1:::1109739600:::L:::FLSA-2005:2314: Updated XFree86 packages fix security flaws:::
+package:::2005:0531.1:::XFree86-100dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-75dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-ISO8859-14-100dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-ISO8859-14-75dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-ISO8859-15-100dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-ISO8859-15-75dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-ISO8859-2-100dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-ISO8859-2-75dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-ISO8859-9-100dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-ISO8859-9-75dpi-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-Mesa-libGL:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-Mesa-libGLU:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-Xnest:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-Xvfb:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-base-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-cyrillic-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-devel:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-doc:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-font-utils:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-libs:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-libs-data:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-sdk:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-syriac-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-tools:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-truetype-fonts:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-twm:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-xauth:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-xdm:::4.3.0-2.90.60.legacy
+package:::2005:0531.1:::XFree86-xfs:::4.3.0-2.90.60.legacy
+advisory:::2005:0566.2:::1110258000:::M:::FLSA-2005:1748: Updated subversion packages fix security issues:::
+package:::2005:0566.2:::subversion:::0.27.0-4.legacy
+package:::2005:0566.2:::subversion-devel:::0.27.0-4.legacy
+advisory:::2005:0572.1:::1110344400:::L:::FLSA-2005:2404: Updated less package fixes security issue:::
+package:::2005:0572.1:::less:::378-7.2.legacy
+advisory:::2005:0581.1:::1110430800:::L:::FLSA-2005:2344: Updated php packages fix security issues:::&processRunning( "httpd" )
+package:::2005:0581.1:::php:::4.2.2-17.12.legacy
+package:::2005:0581.1:::php-manual:::4.2.2-17.12.legacy
+package:::2005:0581.1:::php-odbc:::4.2.2-17.12.legacy
+package:::2005:0581.1:::php-imap:::4.2.2-17.12.legacy
+package:::2005:0581.1:::php-mysql:::4.2.2-17.12.legacy
+package:::2005:0581.1:::php-devel:::4.2.2-17.12.legacy
+package:::2005:0581.1:::php-snmp:::4.2.2-17.12.legacy
+package:::2005:0581.1:::php-ldap:::4.2.2-17.12.legacy
+package:::2005:0581.1:::php-pgsql:::4.2.2-17.12.legacy
+advisory:::2005:0619.1:::1110862800:::L:::FLSA:1553: Updated sysklogd resolves memory buffer bug:::&processRunning( "(syslogd|klogd)" )
+package:::2005:0619.1:::sysklogd:::1.4.1-14.legacy.9
+advisory:::2005:0702.1:::1111726800:::M:::FLSA-2005:2129: Updated mysql packages fix security issues:::&processRunning( "mysqld" )
+package:::2005:0702.1:::mysql:::3.23.58-1.90.5.legacy
+package:::2005:0702.1:::mysql-server:::3.23.58-1.90.5.legacy
+package:::2005:0702.1:::mysql-devel:::3.23.58-1.90.5.legacy
+advisory:::2005:0699.1:::1111726800:::L:::FLSA-2005:2155: Updated sharutils package fixes security issues:::
+package:::2005:0699.1:::sharutils:::4.2.1-16.9.1.legacy
+advisory:::2005:1093.1:::1115956800:::H:::FLSA-2005:152856: Updated sudo packages fix security issue:::
+package:::2005:1093.1:::sudo:::1.6.6-3.2.legacy
+advisory:::2005:1102.1:::1115956800:::H:::FLSA-2005:152763: Updated qt packages fixes security issues:::
+package:::2005:1102.1:::qt2:::2.3.1-4.legacy
+package:::2005:1102.1:::qt2-designer:::2.3.1-4.legacy
+package:::2005:1102.1:::qt2-devel:::2.3.1-4.legacy
+package:::2005:1102.1:::qt2-static:::2.3.1-4.legacy
+package:::2005:1102.1:::qt2-Xt:::2.3.1-4.legacy
+package:::2005:1102.1:::qt:::3.1.1-8.legacy
+package:::2005:1102.1:::qt-designer:::3.1.1-8.legacy
+package:::2005:1102.1:::qt-devel:::3.1.1-8.legacy
+package:::2005:1102.1:::qt-MySQL:::3.1.1-8.legacy
+package:::2005:1102.1:::qt-ODBC:::3.1.1-8.legacy
+package:::2005:1102.1:::qt-PostgreSQL:::3.1.1-8.legacy
+package:::2005:1102.1:::qt-Xt:::3.1.1-8.legacy
+advisory:::2005:1101.1:::1115956800:::M:::FLSA-2005:155508: Updated cvs package fixes security issues:::
+package:::2005:1101.1:::cvs:::1.11.2-25.legacy
+advisory:::2005:1089.1:::1115956800:::L:::FLSA-2005:152768: Updated ruby package fixes security issues:::
+package:::2005:1089.1:::irb:::1.6.8-6.2.legacy
+package:::2005:1089.1:::ruby:::1.6.8-6.2.legacy
+package:::2005:1089.1:::ruby-devel:::1.6.8-6.2.legacy
+package:::2005:1089.1:::ruby-docs:::1.6.8-6.2.legacy
+package:::2005:1089.1:::ruby-libs:::1.6.8-6.2.legacy
+package:::2005:1089.1:::ruby-mode:::1.6.8-6.2.legacy
+package:::2005:1089.1:::ruby-tcltk:::1.6.8-6.2.legacy
+advisory:::2005:1097.1:::1115956800:::M:::FLSA-2005:152912: Updated imap packages fix security issues:::
+package:::2005:1097.1:::imap:::2001a-18.1.legacy
+package:::2005:1097.1:::imap-devel:::2001a-18.1.legacy
+advisory:::2005:1091.1:::1115956800:::M:::FLSA-2005:152804: Updated openmotif packages fix image:::
+package:::2005:1091.1:::openmotif21:::2.1.30-8.0.9.2.legacy
+package:::2005:1091.1:::openmotif:::2.2.2-14.2.legacy
+package:::2005:1091.1:::openmotif-devel:::2.2.2-14.2.legacy
+advisory:::2005:1095.1:::1115956800:::L:::FLSA-2005:152871: Updated nfs-utils package fixes security issue:::&processRunning( "rpc.statd" )
+package:::2005:1095.1:::nfs-utils:::1.0.1-3.9.1.legacy
+advisory:::2005:1099.1:::1115956800:::M:::FLSA-2005:154988: Updated openoffice.org packages fix security:::
+package:::2005:1099.1:::openoffice:::1.0.2-11.2.legacy
+package:::2005:1099.1:::openoffice-i18n:::1.0.2-11.2.legacy
+package:::2005:1099.1:::openoffice-libs:::1.0.2-11.2.legacy
+advisory:::2005:1136.1:::1116475200:::M:::FLSA-2005:152815: Updated libtiff packages fix security issues:::
+package:::2005:1136.1:::libtiff:::3.5.7-11.2.legacy
+package:::2005:1136.1:::libtiff-devel:::3.5.7-11.2.legacy
+advisory:::2005:1135.1:::1116475200:::M:::FLSA-2005:152883: Updated mozilla packages fix security issues:::
+package:::2005:1135.1:::mozilla:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-chat:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-devel:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-dom-inspector:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-js-debugger:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-mail:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-nspr:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-nspr-devel:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-nss:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::mozilla-nss-devel:::1.7.7-0.90.1.legacy
+package:::2005:1135.1:::galeon:::1.2.14-0.90.2.legacy
+advisory:::2005:1137.1:::1116475200:::L:::FLSA-2005:152771: Updated pam packages fix security issue:::
+package:::2005:1137.1:::pam:::0.75-62.10.legacy
+package:::2005:1137.1:::pam-devel:::0.75-62.10.legacy
+advisory:::2005:1204.1:::1118116800:::L:::FLSA-2005:152532: Updated kernel packages fix security issues:::
+package:::2005:1204.1:::kernel:::2.4.20-43.9.legacy
+package:::2005:1204.1:::kernel-source:::2.4.20-43.9.legacy
+package:::2005:1204.1:::kernel-doc:::2.4.20-43.9.legacy
+package:::2005:1204.1:::kernel-BOOT:::2.4.20-43.9.legacy
+package:::2005:1204.1:::kernel-smp:::2.4.20-43.9.legacy
+package:::2005:1204.1:::kernel-bigmem:::2.4.20-43.9.legacy
+advisory:::2005:1464.1:::1121054400:::M:::FLSA-2005:155505: Updated php packages fix security issues:::&processRunning( "httpd" )
+package:::2005:1464.1:::php:::4.2.2-17.14.legacy
+package:::2005:1464.1:::php-manual:::4.2.2-17.14.legacy
+package:::2005:1464.1:::php-odbc:::4.2.2-17.14.legacy
+package:::2005:1464.1:::php-imap:::4.2.2-17.14.legacy
+package:::2005:1464.1:::php-mysql:::4.2.2-17.14.legacy
+package:::2005:1464.1:::php-devel:::4.2.2-17.14.legacy
+package:::2005:1464.1:::php-snmp:::4.2.2-17.14.legacy
+package:::2005:1464.1:::php-ldap:::4.2.2-17.14.legacy
+package:::2005:1464.1:::php-pgsql:::4.2.2-17.14.legacy
+advisory:::2005:1462.1:::1121054400:::L:::FLSA-2005:154991: Updated sharutils package fixes security issue:::
+package:::2005:1462.1:::sharutils:::4.2.1-16.9.2.legacy
+advisory:::2005:1460.1:::1121054400:::L:::FLSA-2005:152908: Updated gftp package fixes security issue:::
+package:::2005:1460.1:::gftp:::2.0.14-2.2.legacy
+advisory:::2005:1458.1:::1121054400:::L:::FLSA-2005:152895: Updated mailman package fixes security issue:::
+package:::2005:1458.1:::mailman:::2.1.1-8.legacy
+advisory:::2005:1476.1:::1121140800:::M:::FLSA-2005:152583: Updated telnet packages fix security issues:::
+package:::2005:1476.1:::telnet:::0.17-25.1.legacy
+package:::2005:1476.1:::telnet-server:::0.17-25.1.legacy
+advisory:::2005:1474.1:::1121140800:::L:::FLSA-2005:123014: Updated openssh packages fix a security issue:::
+package:::2005:1474.1:::openssh:::3.5p1-11.2.legacy
+package:::2005:1474.1:::openssh-askpass:::3.5p1-11.2.legacy
+package:::2005:1474.1:::openssh-askpass-gnome:::3.5p1-11.2.legacy
+package:::2005:1474.1:::openssh-clients:::3.5p1-11.2.legacy
+package:::2005:1474.1:::openssh-server:::3.5p1-11.2.legacy
+advisory:::2005:1497.1:::1121227200:::M:::FLSA-2005:152777: Updated ImageMagick packages fix security issues:::
+package:::2005:1497.1:::ImageMagick:::5.4.7-18.legacy
+package:::2005:1497.1:::ImageMagick-c++:::5.4.7-18.legacy
+package:::2005:1497.1:::ImageMagick-c++-devel:::5.4.7-18.legacy
+package:::2005:1497.1:::ImageMagick-devel:::5.4.7-18.legacy
+package:::2005:1497.1:::ImageMagick-perl:::5.4.7-18.legacy
+advisory:::2005:1546.1:::1121659200:::M:::FLSA-2005:152917: Updated curl packages fix a security issue:::
+package:::2005:1546.1:::curl:::7.9.8-5.2.legacy
+package:::2005:1546.1:::curl-devel:::7.9.8-5.2.legacy
+advisory:::2005:1552.1:::1121659200:::M:::FLSA-2005:152874: Updated samba packages fix security issues:::&processRunning( "(smbd|nmbd)" )
+package:::2005:1552.1:::samba:::2.2.12-0.90.6.legacy
+package:::2005:1552.1:::samba-common:::2.2.12-0.90.6.legacy
+package:::2005:1552.1:::samba-swat:::2.2.12-0.90.6.legacy
+package:::2005:1552.1:::samba-client:::2.2.12-0.90.6.legacy
+advisory:::2005:1558.1:::1121659200:::M:::FLSA-2005:152838: Updated gd packages fix security issues:::
+package:::2005:1558.1:::gd:::1.8.4-11.1.legacy
+package:::2005:1558.1:::gd-devel:::1.8.4-11.1.legacy
+package:::2005:1558.1:::gd-progs:::1.8.4-11.1.legacy
+advisory:::2005:1548.1:::1121659200:::M:::FLSA-2005:152900: Updated squirrelmail package fixes security issue:::
+package:::2005:1548.1:::squirrelmail:::1.4.3-0.f0.9.3.legacy
+advisory:::2005:1540.1:::1121659200:::L:::FLSA-2005:158149: Updated mozilla packages fix security issues:::
+package:::2005:1540.1:::mozilla:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-chat:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-devel:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-dom-inspector:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-js-debugger:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-mail:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-nspr:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-nspr-devel:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-nss:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::mozilla-nss-devel:::1.7.8-0.90.1.legacy
+package:::2005:1540.1:::galeon:::1.2.14-0.90.3.legacy
+advisory:::2005:1542.1:::1121659200:::L:::FLSA-2005:154272: Updated gdk-pixbuf packages fix a security issue:::
+package:::2005:1542.1:::gdk-pixbuf:::0.22.0-7.90.3.legacy
+package:::2005:1542.1:::gdk-pixbuf-devel:::0.22.0-7.90.3.legacy
+package:::2005:1542.1:::gdk-pixbuf-gnome:::0.22.0-7.90.3.legacy
+advisory:::2005:1544.1:::1121659200:::L:::FLSA-2005:152925: Updated mysql packages fix security issues:::&processRunning( "mysqld" )
+package:::2005:1544.1:::mysql:::3.23.58-1.90.6.legacy
+package:::2005:1544.1:::mysql-server:::3.23.58-1.90.6.legacy
+package:::2005:1544.1:::mysql-devel:::3.23.58-1.90.6.legacy
+advisory:::2005:1554.1:::1121659200:::L:::FLSA-2005:152844: Updated PostgreSQL packages fix security issues:::&processRunning( "postmaster" )
+package:::2005:1554.1:::postgresql:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-contrib:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-pl:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-devel:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-python:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-docs:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-server:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-jdbc:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-tcl:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-libs:::7.3.9-0.90.2.legacy
+package:::2005:1554.1:::postgresql-test:::7.3.9-0.90.2.legacy
+advisory:::2005:1556.1:::1121659200:::L:::FLSA-2005:152841: Updated openssl packages fix security issues:::
+package:::2005:1556.1:::openssl:::0.9.7a-20.4.legacy
+package:::2005:1556.1:::openssl-devel:::0.9.7a-20.4.legacy
+package:::2005:1556.1:::openssl-perl:::0.9.7a-20.4.legacy
+advisory:::2005:1560.1:::1121659200:::L:::FLSA-2005:152769: Updated kdelibs/kdebase packages fix security:::
+package:::2005:1560.1:::kdebase:::3.1-18.legacy
+package:::2005:1560.1:::kdebase-devel:::3.1-18.legacy
+package:::2005:1560.1:::kdelibs:::3.1-17.legacy
+package:::2005:1560.1:::kdelibs-devel:::3.1-17.legacy
+advisory:::2005:1550.1:::1121659200:::L:::FLSA-2005:152891: Updated cpio package fixes security issue:::
+package:::2005:1550.1:::cpio:::2.5-3.2.legacy
+advisory:::2005:1615.1:::1122264000:::H:::FLSA-2005:154276: Updated krb5 packages fix security issues:::
+package:::2005:1615.1:::krb5-devel:::1.2.7-38.3.legacy
+package:::2005:1615.1:::krb5-libs:::1.2.7-38.3.legacy
+package:::2005:1615.1:::krb5-server:::1.2.7-38.3.legacy
+package:::2005:1615.1:::krb5-workstation:::1.2.7-38.3.legacy
+advisory:::2005:1632.1:::1122350400:::L:::FLSA-2005:152842: Updated lvm package fixes security issue:::
+package:::2005:1632.1:::lvm:::1.0.3-12.1.legacy
+advisory:::2005:1743.1:::1123732800:::M:::FLSA-2005:152889: Updated mc packages fix security issues:::
+package:::2005:1743.1:::mc:::4.6.0-18.3.fc0.9.legacy
+advisory:::2005:1748.1:::1123732800:::M:::FLSA-2005:157696: Updated gzip package fixes security issues:::
+package:::2005:1748.1:::gzip:::1.3.3-9.2.legacy
+advisory:::2005:1746.1:::1123732800:::L:::FLSA-2005:157701: Updated Apache httpd packages fix security issues:::&processRunning( "httpd" )
+package:::2005:1746.1:::httpd:::2.0.40-21.18.legacy
+package:::2005:1746.1:::httpd-devel:::2.0.40-21.18.legacy
+package:::2005:1746.1:::httpd-manual:::2.0.40-21.18.legacy
+package:::2005:1746.1:::mod_ssl:::2.0.40-21.18.legacy
+advisory:::2005:2005.1:::1127102400:::L:::FLSA-2005:160202: Updated mozilla packages fix security issues:::
+package:::2005:2005.1:::mozilla:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-chat:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-devel:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-dom-inspector:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-js-debugger:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-mail:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-nspr:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-nspr-devel:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-nss:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::mozilla-nss-devel:::1.7.10-0.90.1.legacy
+package:::2005:2005.1:::galeon:::galeon-1.2.14-0.90.4.legacy
+advisory:::2005:2011.1:::1127102400:::L:::FLSA-2005:163274: Updated CUPS packages fix security issue:::&processRunning( "cupsd" )
+package:::2005:2011.1:::cups:::1.1.17-13.3.0.14.legacy
+package:::2005:2011.1:::cups-devel:::1.1.17-13.3.0.14.legacy
+package:::2005:2011.1:::cups-libs:::1.1.17-13.3.0.14.legacy
+advisory:::2005:2009.1:::1127102400:::L:::FLSA-2005:163047: Updated squirrelmail package fixes security:::
+package:::2005:2009.1:::squirrelmail:::1.4.3-0.f0.9.6.legacy
+advisory:::2005:2038.1:::1127448000:::M:::FLSA-2005:152919: Updated grip package fixes security issue:::
+package:::2005:2038.1:::grip:::2.96-2.2.legacy
+advisory:::2005:2457.1:::1131685200:::L:::FLSA-2005:166941: Updated httpd and mod_ssl packages fix two security issues:::&processRunning( "httpd" )
+package:::2005:2457.1:::httpd:::2.0.40-21.20.legacy
+package:::2005:2457.1:::httpd-devel:::2.0.40-21.20.legacy
+package:::2005:2457.1:::httpd-manual:::2.0.40-21.20.legacy
+package:::2005:2457.1:::mod_ssl:::2.0.40-21.20.legacy
+advisory:::2005:2476.1:::1132030800:::L:::FLSA-2005:152794: Updated rp-pppoe package fixes security issue:::
+package:::2005:2476.1:::rp-pppoe:::3.5-2.2.legacy
+advisory:::2005:2474.1:::1132030800:::L:::FLSA-2005:152848: Updated glibc packages fix security issues:::
+package:::2005:2474.1:::glibc:::2.3.2-27.9.7.2.legacy
+package:::2005:2474.1:::glibc-common:::2.3.2-27.9.7.2.legacy
+package:::2005:2474.1:::glibc-debug:::2.3.2-27.9.7.2.legacy
+package:::2005:2474.1:::glibc-devel:::2.3.2-27.9.7.2.legacy
+package:::2005:2474.1:::glibc-profile:::2.3.2-27.9.7.2.legacy
+package:::2005:2474.1:::glibc-utils:::2.3.2-27.9.7.2.legacy
+package:::2005:2474.1:::nptl-devel:::2.3.2-27.9.7.2.legacy
+package:::2005:2474.1:::nscd:::2.3.2-27.9.7.2.legacy
+advisory:::2005:2480.1:::1132030800:::L:::FLSA-2005:158801: Updated bzip2 packages fix security issues:::
+package:::2005:2480.1:::bzip2:::1.0.2-8.1.90.legacy
+package:::2005:2480.1:::bzip2-devel:::1.0.2-8.1.90.legacy
+package:::2005:2480.1:::bzip2-libs:::1.0.2-8.1.90.legacy
+advisory:::2005:2554.2:::1133931600:::M:::FLSA-2005:166943: Updated php packages fix security issues:::&processRunning( "httpd" )
+package:::2005:2554.2:::php:::4.2.2-17.17.legacy
+package:::2005:2554.2:::php-devel:::4.2.2-17.17.legacy
+package:::2005:2554.2:::php-imap:::4.2.2-17.17.legacy
+package:::2005:2554.2:::php-ldap:::4.2.2-17.17.legacy
+package:::2005:2554.2:::php-manual:::4.2.2-17.17.legacy
+package:::2005:2554.2:::php-mysql:::4.2.2-17.17.legacy
+package:::2005:2554.2:::php-odbc:::4.2.2-17.17.legacy
+package:::2005:2554.2:::php-pgsql:::4.2.2-17.17.legacy
+package:::2005:2554.2:::php-snmp:::4.2.2-17.17.legacy
+advisory:::2005:2660.1:::1134968400:::M:::FLSA-2005:152870: Updated a2ps package fixes security issue:::
+package:::2005:2660.1:::a2ps:::4.13b-28.2.legacy
+advisory:::2005:2658.1:::1134968400:::M:::FLSA-2005:152832: Updated lynx package fixes security issues:::
+package:::2005:2658.1:::lynx:::2.8.5-11.2.legacy
+advisory:::2005:2662.1:::1134968400:::M:::FLSA-2005:152892: Updated enscript package fixes security issues:::
+package:::2005:2662.1:::enscript:::1.6.1-24.2.legacy
+advisory:::2005:2664.1:::1134968400:::M:::FLSA-2005:155510: Updated gtk2 packages fixes security issues:::
+package:::2005:2664.1:::gtk2:::2.2.1-4.2.legacy
+package:::2005:2664.1:::gtk2-devel:::2.2.1-4.2.legacy
+advisory:::2005:2666.1:::1134968400:::L:::FLSA-2005:166939: Updated openssl packages fix security issues:::
+package:::2005:2666.1:::openssl096:::0.9.6-25.12.legacy
+package:::2005:2666.1:::openssl096b:::0.9.6b-15.3.legacy
+package:::2005:2666.1:::openssl:::0.9.7a-20.6.legacy
+package:::2005:2666.1:::openssl-devel:::0.9.7a-20.6.legacy
+package:::2005:2666.1:::openssl-perl:::0.9.7a-20.6.legacy
+advisory:::2005:2668.1:::1134968400:::L:::FLSA-2005:168326: Updated util-linux and mount packages fix:::
+package:::2005:2668.1:::mount:::2.11y-9.2.legacy
+package:::2005:2668.1:::util-linux:::2.11y-9.2.legacy
+package:::2005:2668.1:::losetup:::2.11y-9.2.legacy
+advisory:::2005:2656.1:::1134968400:::L:::FLSA-2005:152787: Updated redhat-config-nfs package fixes security issue:::
+package:::2005:2656.1:::redhat-config-nfs:::1.0.13-6.legacy
+advisory:::2006:0066.1:::1136955600:::H:::FLSA-2006:152922: Updated ethereal packages fix security issues:::
+package:::2006:0066.1:::ethereal:::0.10.13-0.90.1.legacy
+package:::2006:0066.1:::ethereal-gnome:::0.10.13-0.90.1.legacy
+advisory:::2006:0061.1:::1136955600:::M:::FLSA-2006:152803: Updated lesstif packages fix security issues:::
+package:::2006:0061.1:::lesstif:::0.93.36-3.3.legacy
+package:::2006:0061.1:::lesstif-devel:::0.93.36-3.3.legacy
+advisory:::2006:0064.1:::1136955600:::M:::FLSA-2006:152907: Updated htdig packages fix security issues:::
+package:::2006:0064.1:::htdig:::3.2.0-16.20021103.3.legacy
+package:::2006:0064.1:::htdig-web:::3.2.0-16.20021103.3.legacy
+advisory:::2006:0068.1:::1136955600:::M:::FLSA-2006:168375: Updated mozilla packages fix security issues:::
+package:::2006:0068.1:::mozilla:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-chat:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-devel:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-dom-inspector:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-js-debugger:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-mail:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-nspr:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-nspr-devel:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-nss:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::mozilla-nss-devel:::1.7.12-0.90.1.legacy
+package:::2006:0068.1:::galeon:::1.2.14-0.90.5.legacy
+advisory:::2006:0059.1:::1136955600:::L:::FLSA-2006:136323: Updated gettext package fixes security issues:::
+package:::2006:0059.1:::gettext:::0.11.4-7.2.legacy
+advisory:::2006:0093.1:::1137042000:::M:::FLSA-2006:167803: Updated mysql packages fix security issues:::&processRunning( "mysqld" )
+package:::2006:0093.1:::mysql:::3.23.58-1.90.10.legacy
+package:::2006:0093.1:::mysql-server:::3.23.58-1.90.10.legacy
+package:::2006:0093.1:::mysql-devel:::3.23.58-1.90.10.legacy
+advisory:::2006:0196.1:::1138165200:::M:::FLSA-2006:152845: Updated perl packages fix security issues:::
+package:::2006:0196.1:::perl:::5.8.0-90.0.12.legacy
+package:::2006:0196.1:::perl-CGI:::2.81-90.0.12.legacy
+package:::2006:0196.1:::perl-CPAN:::1.61-90.0.12.legacy
+package:::2006:0196.1:::perl-DB_File:::1.804-90.0.12.legacy
+package:::2006:0196.1:::perl-suidperl:::5.8.0-90.0.12.legacy
+advisory:::2006:0351.1:::1140411600:::H:::FLSA-2006:168935: Updated openssh packages fix security issues:::
+package:::2006:0351.1:::openssh:::3.5p1-11.4.legacy
+package:::2006:0351.1:::openssh-askpass:::3.5p1-11.4.legacy
+package:::2006:0351.1:::openssh-askpass-gnome:::3.5p1-11.4.legacy
+package:::2006:0351.1:::openssh-clients:::3.5p1-11.4.legacy
+package:::2006:0351.1:::openssh-server:::3.5p1-11.4.legacy
+advisory:::2006:0349.1:::1140411600:::H:::FLSA-2006:152809: Updated squid package fixes security issues:::&processRunning( "squid" )
+package:::2006:0349.1:::squid:::2.5.STABLE1-9.10.legacy
+advisory:::2006:0353.1:::1140411600:::L:::FLSA-2006:175406: Updated Apache httpd packages fix security issues:::&processRunning( "httpd" )
+package:::2006:0353.1:::httpd:::2.0.40-21.21.legacy
+package:::2006:0353.1:::httpd-devel:::2.0.40-21.21.legacy
+package:::2006:0353.1:::httpd-manual:::2.0.40-21.21.legacy
+package:::2006:0353.1:::mod_ssl:::2.0.40-21.21.legacy
+advisory:::2006:0379.1:::1141016400:::H:::FLSA-2006:162750: Updated sudo packages fix security issue:::
+package:::2006:0379.1:::sudo:::1.6.6-3.3.legacy
+advisory:::2006:0384.1:::1141016400:::H:::FLSA-2006:158543: Updated gaim package fixes security issues:::
+package:::2006:0384.1:::gaim:::1.5.0-0.90.1.legacy
+advisory:::2006:0381.1:::1141016400:::M:::FLSA-2006:180036-1: Updated mozilla packages fix security issues:::
+package:::2006:0381.1:::mozilla:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-chat:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-devel:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-dom-inspector:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-js-debugger:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-mail:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-nspr:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-nspr-devel:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-nss:::1.7.12-0.90.2.legacy
+package:::2006:0381.1:::mozilla-nss-devel:::1.7.12-0.90.2.legacy
+advisory:::2006:0375.1:::1141016400:::M:::FLSA-2006:138098: Updated nfs-utils package fixes security issues:::&processRunning( "(rpc.statd|rpc.rquotad)" )
+package:::2006:0375.1:::nfs-utils:::1.0.1-3.9.2.legacy
+advisory:::2006:0377.1:::1141016400:::H:::FLSA-2006:176731: Updated perl packages fix security issue:::
+package:::2006:0377.1:::perl:::5.8.0-90.0.13.legacy
+package:::2006:0377.1:::perl-CGI:::2.81-90.0.13.legacy
+package:::2006:0377.1:::perl-CPAN:::1.61-90.0.13.legacy
+package:::2006:0377.1:::perl-DB_File:::1.804-90.0.13.legacy
+package:::2006:0377.1:::perl-suidperl:::5.8.0-90.0.13.legacy
+advisory:::2006:0424.1:::1141275600:::L:::FLSA-2006:178989: Updated perl-DBI package fixes security issue:::
+package:::2006:0424.1:::perl-DBI:::1.32-5.1.legacy
+advisory:::2006:0425.1:::1141275600:::L:::FLSA-2006:157366: Updated PostgreSQL packages fix security issues:::&processRunning( "postmaster" )
+package:::2006:0425.1:::postgresql:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-contrib:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-pl:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-devel:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-python:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-docs:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-server:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-jdbc:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-tcl:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-libs:::7.3.10-0.90.1.legacy
+package:::2006:0425.1:::postgresql-test:::7.3.10-0.90.1.legacy
+advisory:::2006:0471.1:::1141794000:::M:::FLSA-2006:168264-1: Updated XFree86 packages fix security issues:::
+package:::2006:0471.1:::XFree86-100dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-75dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-base-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-cyrillic-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-devel:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-doc:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-font-utils:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-ISO8859-14-100dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-ISO8859-14-75dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-ISO8859-15-100dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-ISO8859-15-75dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-ISO8859-2-100dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-ISO8859-2-75dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-ISO8859-9-100dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-ISO8859-9-75dpi-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-libs:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-libs-data:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-Mesa-libGL:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-Mesa-libGLU:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-sdk:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-syriac-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-tools:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-truetype-fonts:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-twm:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-xauth:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-xdm:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-xfs:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-Xnest:::4.3.0-2.90.61.legacy
+package:::2006:0471.1:::XFree86-Xvfb:::4.3.0-2.90.61.legacy
+advisory:::2006:0467.1:::1141794000:::M:::FLSA-2006:168516: Updated pcre packages fix a security issue:::
+package:::2006:0467.1:::pcre:::3.9-10.1.legacy
+package:::2006:0467.1:::pcre-devel:::3.9-10.1.legacy
+advisory:::2006:0543.1:::1142830800:::M:::FLSA-2006:157459-1: Updated kernel packages fix security issues:::
+package:::2006:0543.1:::kernel:::2.4.20-46.9.legacy
+package:::2006:0543.1:::kernel-source:::2.4.20-46.9.legacy
+package:::2006:0543.1:::kernel-doc:::2.4.20-46.9.legacy
+package:::2006:0543.1:::kernel-BOOT:::2.4.20-46.9.legacy
+package:::2006:0543.1:::kernel-smp:::2.4.20-46.9.legacy
+package:::2006:0543.1:::kernel-bigmem:::2.4.20-46.9.legacy
+advisory:::2006:0540.1:::1142830800:::M:::FLSA-2006:175404: Updated xpdf package fixes security issues:::
+package:::2006:0540.1:::xpdf:::2.01-11.4.legacy
+package:::2006:0540.1:::xpdf-chinese-simplified:::2.01-11.4.legacy
+package:::2006:0540.1:::xpdf-chinese-traditional:::2.01-11.4.legacy
+package:::2006:0540.1:::xpdf-japanese:::2.01-11.4.legacy
+package:::2006:0540.1:::xpdf-korean:::2.01-11.4.legacy
+advisory:::2006:0542.1:::1142830800:::M:::FLSA-2006:178606: Updated kdelibs packages fix security issues:::
+package:::2006:0542.1:::kdelibs:::3.1-17.1.legacy
+package:::2006:0542.1:::kdelibs-devel:::3.1-17.1.legacy
+advisory:::2006:0538.1:::1142830800:::M:::FLSA-2006:174479: Updated libungif packages fix security issues:::
+package:::2006:0538.1:::libungif:::4.1.0-15.2.legacy
+package:::2006:0538.1:::libungif-devel:::4.1.0-15.2.legacy
+package:::2006:0538.1:::libungif-progs:::4.1.0-15.2.legacy
+advisory:::2006:0536.1:::1142830800:::M:::FLSA-2006:173274: Updated gdk-pixbuf packages fix security issues:::
+package:::2006:0536.1:::gdk-pixbuf:::0.22.0-7.90.4.legacy
+package:::2006:0536.1:::gdk-pixbuf-devel:::0.22.0-7.90.4.legacy
+package:::2006:0536.1:::gdk-pixbuf-gnome:::0.22.0-7.90.4.legacy
+advisory:::2006:0607.2:::1144209600:::H:::FLSA-2006:186277: Updated sendmail packages fix security issue:::netstat --inet -an | awk '{print $4}' | grep ':25$' | grep -v '^127.0.0.1:'
+package:::2006:0607.2:::sendmail:::8.12.11-4.24.3.legacy
+package:::2006:0607.2:::sendmail-cf:::8.12.11-4.24.3.legacy
+package:::2006:0607.2:::sendmail-devel:::8.12.11-4.24.3.legacy
+package:::2006:0607.2:::sendmail-doc:::8.12.11-4.24.3.legacy
+advisory:::2006:0659.1:::1144209600:::M:::FLSA-2006:180159: Updated unzip package fixes security issue:::
+package:::2006:0659.1:::unzip:::5.50-33.1.legacy
+advisory:::2006:0657.1:::1144209600:::M:::FLSA-2005:152912: Updated imap packages fix security issues:::&portOpen( "(109|110|143|220|993|995)" )
+package:::2006:0657.1:::imap:::2001a-18.2.legacy
+package:::2006:0657.1:::imap-devel:::2001a-18.2.legacy
+advisory:::2006:0663.1:::1144209600:::L:::FLSA-2006:184074: Updated pine package fixes security issue:::
+package:::2006:0663.1:::pine:::4.44-19.90.1.legacy
+advisory:::2006:0661.1:::1144209600:::L:::FLSA-2006:183571-1: Updated tar package fixes security issue:::
+package:::2006:0661.1:::tar:::1.13.25-11.1.legacy
+advisory:::2006:0652.1:::1144209600:::L:::FLSA-2006:152896: Updated mod_python package fixes a security issue:::&processRunning( "httpd" )
+package:::2006:0652.1:::mod_python:::3.0.1-4.1.legacy
+advisory:::2006:0654.1:::1144209600:::L:::FLSA-2006:156139: Updated tcpdump packages fix security issues:::
+package:::2006:0654.1:::tcpdump:::3.7.2-7.9.4.legacy
+package:::2006:0654.1:::arpwatch:::2.1a11-7.9.4.legacy
+package:::2006:0654.1:::libpcap:::0.7.2-7.9.4.legacy
+advisory:::2006:0866.1:::1147752000:::H:::FLSA-2006:152904: Updated ncpfs package fixes security issues:::
+package:::2006:0866.1:::ncpfs:::2.2.1-1.1.legacy
+package:::2006:0866.1:::ipxutils:::2.2.1-1.1.legacy
+advisory:::2006:0862.1:::1147752000:::M:::FLSA-2006:152868: Updated tetex packages fix security issues:::
+package:::2006:0862.1:::tetex:::1.0.7-66.3.legacy
+package:::2006:0862.1:::tetex-afm:::1.0.7-66.3.legacy
+package:::2006:0862.1:::tetex-doc:::1.0.7-66.3.legacy
+package:::2006:0862.1:::tetex-dvips:::1.0.7-66.3.legacy
+package:::2006:0862.1:::tetex-fonts:::1.0.7-66.3.legacy
+package:::2006:0862.1:::tetex-latex:::1.0.7-66.3.legacy
+package:::2006:0862.1:::tetex-xdvi:::1.0.7-66.3.legacy
+advisory:::2006:0864.1:::1147752000:::M:::FLSA-2006:152898: Updated emacs packages fix a security issue:::
+package:::2006:0864.1:::emacs:::21.2-34.legacy
+package:::2006:0864.1:::emacs-el:::21.2-34.legacy
+package:::2006:0864.1:::emacs-leim:::21.2-34.legacy
+advisory:::2006:0868.1:::1147752000:::M:::FLSA-2006:152923: Updated xloadimage package fixes security issues:::
+package:::2006:0868.1:::xloadimage:::4.1-27.2.legacy
+advisory:::2006:0870.1:::1147752000:::M:::FLSA-2006:164512: Updated fetchmail packages fix security issues:::
+package:::2006:0870.1:::fetchmail:::6.2.0-3.4.legacy
+advisory:::2006:0872.1:::1147752000:::L:::FLSA-2006:185355: Updated gnupg package fixes security issues:::
+package:::2006:0872.1:::gnupg:::1.2.1-9.2.legacy
+advisory:::2006:1037.1:::1149739200:::M:::FLSA-2006:189137-1: Updated mozilla packages fix security issues:::
+package:::2006:1037.1:::mozilla:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-chat:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-devel:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-dom-inspector:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-js-debugger:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-mail:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-nspr:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-nspr-devel:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-nss:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::mozilla-nss-devel:::1.7.13-0.90.1.legacy
+package:::2006:1037.1:::galeon:::1.2.14-0.90.6.legacy
+advisory:::2006:1021.1:::1149652800:::L:::FLSA-2006:190884: Updated squirrelmail package fixes security:::
+package:::2006:1021.1:::squirrelmail:::1.4.6-3.rh9.1.legacy
+advisory:::2006:1349.1:::1154059200:::L:::FLSA:175040: Updated php packages fix security issues:::&processRunning( "httpd" )
+package:::2006:1349.1:::php:::4.2.2-17.21.legacy
+package:::2006:1349.1:::php-devel:::4.2.2-17.21.legacy
+package:::2006:1349.1:::php-imap:::4.2.2-17.21.legacy
+package:::2006:1349.1:::php-ldap:::4.2.2-17.21.legacy
+package:::2006:1349.1:::php-manual:::4.2.2-17.21.legacy
+package:::2006:1349.1:::php-mysql:::4.2.2-17.21.legacy
+package:::2006:1349.1:::php-odbc:::4.2.2-17.21.legacy
+package:::2006:1349.1:::php-pgsql:::4.2.2-17.21.legacy
+package:::2006:1349.1:::php-snmp:::4.2.2-17.21.legacy
+advisory:::2007:0037.2:::1168491600:::L:::(CIO Override: DUE 2007-03-01) FLEA-2006:173091-1: IBM CIO Issued Security Advisory for DST:::echo $TZ | grep -vq "M3.2.0[\/]*[0-9]*,M11.1.0"
+package:::2007:0037.2:::glibc:::2.3.2-27.9.7.4.legacy
+package:::2007:0037.2:::glibc-common:::2.3.2-27.9.7.4.legacy
+package:::2007:0037.2:::glibc-debug:::2.3.2-27.9.7.4.legacy
+package:::2007:0037.2:::glibc-devel:::2.3.2-27.9.7.4.legacy
+package:::2007:0037.2:::glibc-profile:::2.3.2-27.9.7.4.legacy
+package:::2007:0037.2:::glibc-utils:::2.3.2-27.9.7.4.legacy
+package:::2007:0037.2:::nptl-devel:::2.3.2-27.9.7.4.legacy
+package:::2007:0037.2:::nscd:::2.3.2-27.9.7.4.legacy
+advisory:::2007:0037.2b:::1172034000:::L:::(CIO Override: DUE 2007-03-01) /etc/localtime needs to be updated for DST changes:::/usr/sbin/zdump -v /etc/localtime 2>/dev/null | egrep '2007 .* isdst=1 gmtoff=-(14400|18000|21600|25200|28800|32400)' >/dev/null && ! /usr/sbin/zdump -v /etc/localtime 2>/dev/null | grep "Mar 11 .* 2007" >/dev/null
+package:::2007:0037.2b:::glibc:::99.99.99-ETC_LOCALTIME.UPDATE.REQUIRED

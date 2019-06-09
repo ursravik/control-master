@@ -1,0 +1,55 @@
+#!/bin/sh
+
+dir=/tmp/lssecfixes.$$
+output=$dir/$$.results
+hostname=$(hostname)
+
+# Setting up directory
+if [ ! -d $dir ];	then
+	mkdir $dir
+fi
+cd $dir || kill $$
+rm -rf $dir/*
+
+# Downloading and extracting lssecfixes and patch databases
+/usr/bin/ftp -n << EOF > /dev/null
+open rchgsa.ibm.com
+user anonymous rchdv2ks@us.ibm.com
+prompt
+cd /gsa/rchgsa/projects/r/rchisgsecurity/tools/lssecfixes
+binary
+mget lssecfixes.tar.gz
+EOF
+
+gunzip -c lssecfixes.tar | tar xf -
+
+# Running lssecfixes
+echo lssecfixes version number: $(./bin/lssecfixes --version) > $output.tmp 2>&1
+
+./bin/lssecfixes -a -F -H -s other >> $output.tmp 2>&1
+grep -e '*.*[HML]' $output.tmp > /dev/null
+if [[ $? -eq 0 ]]; then
+  echo One or more missing APARs found on $hostname on $(date +%Y-%m-%d) > $output
+else
+  echo No missing APARs found on $hostname on $(date +%Y-%m-%d) > $output
+fi
+
+# Reporting in
+cat $output.tmp >> $output
+cp $output $hostname
+
+sleeptime=$(expr $(date +%S) / 6)
+sleep $sleeptime
+/usr/bin/ftp -n << EOF > /dev/null
+open rchgsa.ibm.com
+user anonymous rchdv2ks@us.ibm.com
+prompt
+put $hostname /projects/r/rchisgsecurity/apar_status/$hostname
+EOF
+
+# Cleaning Up
+cd /
+rm -rf $dir
+perl -MLWP::Simple -e 'getprint "http://rchgsa.ibm.com/projects/r/rchisgsecurity/tools/lssecfixes/report.pl"' | perl
+perl -MLWP::Simple -e 'getprint "http://stgsec.raleigh.ibm.com:2036/html/report.pl"' | perl
+touch /tmp/.lssectime

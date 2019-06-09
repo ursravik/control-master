@@ -1,0 +1,258 @@
+advisory:::2009:3200.1:::1256626805:::L:::FSA-2009:9973 Security update for BackupPC:::
+package:::2009:3200.1:::BackupPC:::3.1.0-6.fc10
+advisory:::2009:2997.1:::1254211218:::L:::FSA-2009:9957 Security update for newt:::
+package:::2009:2997.1:::newt:::0.52.10-2.fc10
+package:::2009:2997.1:::newt-devel:::0.52.10-2.fc10
+package:::2009:2997.1:::newt-python:::0.52.10-2.fc10
+package:::2009:2997.1:::newt-static:::0.52.10-2.fc10
+package:::2009:2997.1:::newt-debuginfo:::0.52.10-2.fc10
+advisory:::2009:2963.1:::1253779211:::M:::FSA-2009:9869 Security update for cyrus-imapd:::
+package:::2009:2963.1:::cyrus-imapd:::2.3.15-1.fc10
+package:::2009:2963.1:::cyrus-imapd-devel:::2.3.15-1.fc10
+package:::2009:2963.1:::cyrus-imapd-perl:::2.3.15-1.fc10
+package:::2009:2963.1:::cyrus-imapd-utils:::2.3.15-1.fc10
+package:::2009:2963.1:::cyrus-imapd-debuginfo:::2.3.15-1.fc10
+advisory:::2009:2933.1:::1253606412:::L:::FSA-2009:9754 Security update for drupal-date:::
+package:::2009:2933.1:::drupal-date:::6.x.2.4-0.fc10
+advisory:::2009:2931.1:::1253606407:::L:::FSA-2009:9751 Security update for drupal:::
+package:::2009:2931.1:::drupal:::6.14-1.fc10
+advisory:::2009:2961.1:::1253779206:::M:::FSA-2009:9671 Security update for xmp:::
+package:::2009:2961.1:::audacious-plugin-xmp:::2.7.1-1.fc10
+package:::2009:2961.1:::xmms-xmp:::2.7.1-1.fc10
+package:::2009:2961.1:::xmp:::2.7.1-1.fc10
+package:::2009:2961.1:::xmp-debuginfo:::2.7.1-1.fc10
+advisory:::2009:2874.1:::1253088025:::M:::FSA-2009:9652 Security update for nginx:::
+package:::2009:2874.1:::nginx:::0.7.62-1.fc10
+package:::2009:2874.1:::nginx-debuginfo:::0.7.62-1.fc10
+advisory:::2009:2825.1:::1253001608:::M:::FSA-2009:9601 Security update for planet:::
+package:::2009:2825.1:::planet:::2.0-10.fc10
+advisory:::2009:2840.1:::1253001618:::M:::FSA-2009:9559 Security update for dovecot:::
+package:::2009:2840.1:::dovecot:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-devel:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-gssapi:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-ldap:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-managesieve:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-mysql:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-pgsql:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-sieve:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-sqlite:::1.1.18-2.fc10
+package:::2009:2840.1:::dovecot-debuginfo:::1.1.18-2.fc10
+advisory:::2009:2935.1:::1253606402:::L:::FSA-2009:9550 Security update for bugzilla:::
+package:::2009:2935.1:::bugzilla:::3.2.5-1.fc10
+package:::2009:2935.1:::bugzilla-contrib:::3.2.5-1.fc10
+package:::2009:2935.1:::bugzilla-doc:::3.2.5-1.fc10
+advisory:::2009:2783.1:::1252915231:::L:::FSA-2009:9474 Security update for postgresql:::
+package:::2009:2783.1:::postgresql:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-contrib:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-devel:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-docs:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-libs:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-plperl:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-plpython:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-pltcl:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-python:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-server:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-tcl:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-test:::8.3.8-1.fc10
+package:::2009:2783.1:::postgresql-debuginfo:::8.3.8-1.fc10
+advisory:::2009:2722.1:::1252483215:::M:::FSA-2009:9428 Security update for cyrus-imapd:::
+package:::2009:2722.1:::cyrus-imapd:::2.3.14-2.fc10
+package:::2009:2722.1:::cyrus-imapd-devel:::2.3.14-2.fc10
+package:::2009:2722.1:::cyrus-imapd-perl:::2.3.14-2.fc10
+package:::2009:2722.1:::cyrus-imapd-utils:::2.3.14-2.fc10
+package:::2009:2722.1:::cyrus-imapd-debuginfo:::2.3.14-2.fc10
+advisory:::2009:2720.1:::1252483215:::L:::FSA-2009:9400 Security update for kdelibs3:::
+package:::2009:2720.1:::kdelibs3:::3.5.10-13.fc10.1
+package:::2009:2720.1:::kdelibs3-devel:::3.5.10-13.fc10.1
+package:::2009:2720.1:::kdelibs3-debuginfo:::3.5.10-13.fc10.1
+package:::2009:2720.1:::kdelibs3-apidocs:::3.5.10-13.fc10.1
+advisory:::2009:2967.1:::1253779208:::L:::FSA-2009:9386 Security update for proftpd:::
+package:::2009:2967.1:::proftpd:::1.3.2a-5.fc10
+package:::2009:2967.1:::proftpd-ldap:::1.3.2a-5.fc10
+package:::2009:2967.1:::proftpd-mysql:::1.3.2a-5.fc10
+package:::2009:2967.1:::proftpd-postgresql:::1.3.2a-5.fc10
+package:::2009:2967.1:::proftpd-debuginfo:::1.3.2a-5.fc10
+advisory:::2009:3001.1:::1254211210:::L:::FSA-2009:9374 Security update for asterisk:::
+package:::2009:3001.1:::asterisk:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-alsa:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-curl:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-dahdi:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-devel:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-fax:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-festival:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-firmware:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-ices:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-jabber:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-jack:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-ldap:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-ldap-fds:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-lua:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-minivm:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-misdn:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-odbc:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-oss:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-portaudio:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-postgresql:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-radius:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-skinny:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-snmp:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-sqlite:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-tds:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-unistim:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-usbradio:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-voicemail:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-voicemail-imap:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-voicemail-odbc:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-voicemail-plain:::1.6.0.15-1.fc10
+package:::2009:3001.1:::asterisk-debuginfo:::1.6.0.15-1.fc10
+advisory:::2009:2738.1:::1252569608:::L:::FSA-2009:9356 Security update for libsilc:::
+package:::2009:2738.1:::libsilc:::1.1.8-7.fc10
+package:::2009:2738.1:::libsilc-devel:::1.1.8-7.fc10
+package:::2009:2738.1:::libsilc-doc:::1.1.8-7.fc10
+package:::2009:2738.1:::libsilc-debuginfo:::1.1.8-7.fc10
+advisory:::2009:3003.1:::1254211209:::L:::FSA-2009:9298 Security update for backintime:::
+package:::2009:3003.1:::backintime-common:::0.9.26-3.fc10
+package:::2009:3003.1:::backintime-gnome:::0.9.26-3.fc10
+package:::2009:3003.1:::backintime-kde:::0.9.26-3.fc10
+advisory:::2009:2691.1:::1252051204:::M:::FSA-2009:9256 Security update for openoffice.org:::
+package:::2009:2691.1:::broffice.org-base:::3.0.1-15.6.fc10
+package:::2009:2691.1:::broffice.org-brand:::3.0.1-15.6.fc10
+package:::2009:2691.1:::broffice.org-calc:::3.0.1-15.6.fc10
+package:::2009:2691.1:::broffice.org-draw:::3.0.1-15.6.fc10
+package:::2009:2691.1:::broffice.org-impress:::3.0.1-15.6.fc10
+package:::2009:2691.1:::broffice.org-math:::3.0.1-15.6.fc10
+package:::2009:2691.1:::broffice.org-writer:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-base:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-base-core:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-brand:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-bsh:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-calc:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-calc-core:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-core:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-devel:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-draw:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-draw-core:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-emailmerge:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-graphicfilter:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-headless:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-impress:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-impress-core:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-javafilter:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-af_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ar:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-as_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-bg_BG:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-bn:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ca_ES:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-cs_CZ:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-cy_GB:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-da_DK:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-de:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-dz:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-el_GR:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-en:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-es:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-et_EE:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-eu_ES:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-fi_FI:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-fr:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ga_IE:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-gl_ES:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-gu_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-he_IL:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-hi_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-hr_HR:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-hu_HU:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-it:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ja_JP:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-kn_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ko_KR:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-lt_LT:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ml_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-mr_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ms_MY:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-nb_NO:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-nl:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-nn_NO:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-nr_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-nso_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-or_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-pa_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-pl_PL:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-pt_BR:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-pt_PT:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ru:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-sk_SK:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-sl_SI:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-sr:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ss_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-st_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-sv:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ta_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-te_IN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-th_TH:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-tn_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-tr_TR:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ts_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-uk:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ur:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-ve_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-xh_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-zh_CN:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-zh_TW:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-langpack-zu_ZA:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-math:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-math-core:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-pdfimport:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-presentation-minimizer:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-presenter-screen:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-pyuno:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-report-builder:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-rhino:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-sdk:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-sdk-doc:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-testtools:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-ure:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-wiki-publisher:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-writer:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-writer-core:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-xsltfilter:::3.0.1-15.6.fc10
+package:::2009:2691.1:::openoffice.org-debuginfo:::3.0.1-15.6.fc10
+advisory:::2009:2766.1:::1252915223:::L:::FSA-2009:9254 Security update for ikiwiki:::
+package:::2009:2766.1:::ikiwiki:::2.72-2.fc10
+package:::2009:2766.1:::ikiwiki-w3m:::2.72-2.fc10
+advisory:::2009:2682.1:::1251964805:::M:::FSA-2009:9243 Security update for mapserver:::
+package:::2009:2682.1:::mapserver:::5.2.3-1.fc10
+package:::2009:2682.1:::mapserver-java:::5.2.3-1.fc10
+package:::2009:2682.1:::mapserver-perl:::5.2.3-1.fc10
+package:::2009:2682.1:::mapserver-python:::5.2.3-1.fc10
+package:::2009:2682.1:::php-mapserver:::5.2.3-1.fc10
+package:::2009:2682.1:::mapserver-debuginfo:::5.2.3-1.fc10
+advisory:::2009:2680.1:::1251964806:::L:::FSA-2009:9232 Security update for qt:::
+package:::2009:2680.1:::qt:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-demos:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-devel:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-examples:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-mysql:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-odbc:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-postgresql:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-x11:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-debuginfo:::4.5.2-3.fc10
+package:::2009:2680.1:::qt-doc:::4.5.2-3.fc10
+advisory:::2009:2638.1:::1251705613:::L:::FSA-2009:9095 Security update for libmikmod:::
+package:::2009:2638.1:::libmikmod:::3.2.0-4.beta2.fc10
+package:::2009:2638.1:::libmikmod-devel:::3.2.0-4.beta2.fc10
+package:::2009:2638.1:::libmikmod-debuginfo:::3.2.0-4.beta2.fc10
+advisory:::2009:2689.1:::1252051207:::M:::FSA-2009:8997 Security update for xemacs:::
+package:::2009:2689.1:::xemacs:::21.5.28-10.fc10
+package:::2009:2689.1:::xemacs-common:::21.5.28-10.fc10
+package:::2009:2689.1:::xemacs-devel:::21.5.28-10.fc10
+package:::2009:2689.1:::xemacs-el:::21.5.28-10.fc10
+package:::2009:2689.1:::xemacs-info:::21.5.28-10.fc10
+package:::2009:2689.1:::xemacs-nox:::21.5.28-10.fc10
+package:::2009:2689.1:::xemacs-debuginfo:::21.5.28-10.fc10
+advisory:::2009:2615.1:::1251187210:::M:::FSA-2009:8969 Security update for ctorrent:::
+package:::2009:2615.1:::ctorrent:::1.3.4-7.dnh3.3.2.fc10
+package:::2009:2615.1:::ctorrent-debuginfo:::1.3.4-7.dnh3.3.2.fc10
+advisory:::2009:2594.1:::1251101703:::L:::FSA-2009:8888 Security update for perl-Compress-Raw-Bzip2:::
+package:::2009:2594.1:::perl-Compress-Raw-Bzip2:::2.020-1.fc10

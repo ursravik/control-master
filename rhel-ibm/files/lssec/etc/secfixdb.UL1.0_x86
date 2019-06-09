@@ -1,0 +1,526 @@
+advisory:::2005:0876.1:::1113830462:::M:::SUSE Security Announcement: cvs (SUSE-SA:2005:024):::
+package:::2005:0876.1:::cvs:::1.11.1p1-336
+advisory:::2005:0768.1:::1112697241:::M:::SUSE Security Announcement: [SUSE-SA:2005:021]kernel local privilege escalation:::
+package:::2005:0768.1:::k_athlon:::2.4.21-286
+package:::2005:0768.1:::k_debug:::2.4.21-286
+package:::2005:0768.1:::k_deflt:::2.4.21-286
+package:::2005:0768.1:::k_psmp:::2.4.21-286
+package:::2005:0768.1:::k_smp:::2.4.21-286
+package:::2005:0768.1:::kernel-source:::2.4.21-286
+advisory:::2005:0697.1:::1111674420:::M:::[SUSE-SA:2005:019] MySQL vulnerabilities:::
+package:::2005:0697.1:::mysql:::3.23.52-128
+advisory:::2005:0695.1:::1111662361:::M:::[SUSE-SA:2005:018] SUSE Security Announcement: several kernel security problems:::
+package:::2005:0695.1:::k_athlon:::2.4.21-281
+package:::2005:0695.1:::k_debug:::2.4.21-281
+package:::2005:0695.1:::k_deflt:::2.4.21-281
+package:::2005:0695.1:::k_psmp:::2.4.21-281
+package:::2005:0695.1:::k_smp:::2.4.21-281
+package:::2005:0695.1:::kernel-source:::2.4.21-281
+advisory:::2005:0501.1:::1109318416:::L:::SUSE Security Announcement: cyrus-imapd buffer overflows:::
+package:::2005:0501.1:::cyrus-imapd:::2.1.16-58
+advisory:::2005:0547.1:::1109848320:::M:::[SUSE-SA:2005:013] SUSE Security Announcement: cyrus-sasl remote code execution:::
+package:::2005:0547.1:::cyrus-sasl2:::2.1.7-128
+advisory:::2005:0518.1:::1109674800:::L:::[SUSE-SA:2005:012] SUSE Security Announcement: uw-imap authentication bypass:::
+package:::2005:0518.1:::imap:::2001a-243
+advisory:::2005:0487.1:::1109167440:::L:::[suse-security-announce] SUSE Security Announcement: squid remote denial of service:::
+package:::2005:0487.1:::squid:::2.4.STABLE7-293
+advisory:::2005:0411.1:::1108393140:::L:::[suse-security-announce] SUSE Security Announcement: mailman remote file disclosure:::
+package:::2005:0411.1:::mailman:::2.0.14-23
+advisory:::2005:0346.1:::1108031821:::H:::SUSE Security Announcement: squid (SUSE-SA:2005:006):::
+package:::2005:0346.1:::squid:::2.4.STABLE7-290
+advisory:::2005:0346.1:::1108031821:::H:::SUSE Security Announcement: squid (SUSE-SA:2005:006):::
+package:::2005:0346.1:::squid:::2.4.STABLE7-288
+advisory:::2005:0162.1:::1106305501:::L:::[suse-security-announce] SUSE Security Announcement: kernel local privilege escalation:::
+package:::2005:0162.1:::k_athlon:::2.4.21-273
+package:::2005:0162.1:::k_debug:::2.4.21-273
+package:::2005:0162.1:::k_deflt:::2.4.21-273
+package:::2005:0162.1:::k_psmp:::2.4.21-273
+package:::2005:0162.1:::k_smp:::2.4.21-273
+package:::2005:0162.1:::kernel-source:::2.4.21-273
+advisory:::2005:0118.1:::1105962720:::H:::[suse-security-announce] SUSE Security Announcement: php4/mod_php4 (SUSE-SA:2005:002):::
+package:::2005:0118.1:::mod_php4:::4.2.2-485
+package:::2005:0118.1:::mod_php4-core:::4.2.2-485
+package:::2005:0118.1:::mod_php4-servlet:::4.2.2-485
+advisory:::2004:2087.1:::1103709481:::M:::[suse-security-announce] SUSE Security Announcement: samba (SUSE-SA:2004:045):::
+package:::2004:2087.1:::samba:::2.2.8a-230
+package:::2004:2087.1:::samba-client:::2.2.8a-230
+package:::2004:2087.1:::samba-vscan:::0.3.2a-283
+advisory:::2004:2081.1:::1103640841:::H:::SUSE Security Announcement: various kernel problems:::
+package:::2004:2081.1:::k_athlon:::2.4.21-266
+package:::2004:2081.1:::k_debug:::2.4.21-266
+package:::2004:2081.1:::k_deflt:::2.4.21-266
+package:::2004:2081.1:::k_psmp:::2.4.21-266
+package:::2004:2081.1:::k_smp:::2.4.21-266
+package:::2004:2081.1:::kernel-source:::2.4.21-266
+advisory:::2004:1933.1:::1102075680:::M:::[suse-security-announce] SUSE Security Announcement: cyrus-imapd (SUSE-SA:2004:043):::
+package:::2004:1933.1:::cyrus-imapd:::2.1.16-56
+advisory:::2004:1918.1:::1101906120:::H:::[suse-security-announce] SUSE Security Announcement: various kernel problems:::
+package:::2004:1918.1:::k_athlon:::2.4.21-261
+package:::2004:1918.1:::k_debug:::2.4.21-261
+package:::2004:1918.1:::k_deflt:::2.4.21-261
+package:::2004:1918.1:::k_psmp:::2.4.21-261
+package:::2004:1918.1:::k_smp:::2.4.21-261
+package:::2004:1918.1:::kernel-source:::2.4.21-261
+advisory:::2004:1849.1:::1100692261:::L:::[suse-security-announce] SUSE Security Announcement: xshared, XFree86-libs, xorg-x11-libs:::
+package:::2004:1849.1:::xshared:::4.2.0-269
+advisory:::2004:1680.1:::1098780061:::M:::SUSE Security Announcement: xpdf, gpdf, kpdf, pdftohtml, cups:::
+package:::2004:1680.1:::cups:::1.1.15-174
+package:::2004:1680.1:::cups-client:::1.1.15-174
+package:::2004:1680.1:::cups-devel:::1.1.15-174
+package:::2004:1680.1:::cups-libs:::1.1.15-174
+advisory:::2004:1656.1:::1098437041:::M:::[suse-security-announce] SuSE Security Announcement: libtiff (SUSE-SA:2004:038):::
+package:::2004:1656.1:::libtiff:::3.5.7-376
+advisory:::2004:1532.1:::1096967100:::L:::SUSE Security Announcement: samba (SUSE-SA:2004:035):::
+package:::2004:1532.1:::samba:::2.2.8a-224
+package:::2004:1532.1:::samba-client:::2.2.8a-224
+package:::2004:1532.1:::samba-vscan:::0.3.2a-277
+advisory:::2004:1548.1:::1097050800:::M:::[suse-security-announce] SUSE Security Announcement: mozilla (SUSE-SA:2004:036):::
+package:::2004:1548.1:::mozilla:::1.4.1-21
+package:::2004:1548.1:::mozilla-calendar:::1.4.1-21
+package:::2004:1548.1:::mozilla-dom-inspector:::1.4.1-21
+package:::2004:1548.1:::mozilla-irc:::1.4.1-21
+package:::2004:1548.1:::mozilla-mail:::1.4.1-21
+package:::2004:1548.1:::mozilla-spellchecker:::1.4.1-21
+package:::2004:1548.1:::mozilla-venkman:::1.4.1-21
+package:::2004:1548.1:::mozilla-xmlterm:::1.4.1-21
+advisory:::2004:1284.1:::1094029081:::L:::SUSE Security Announcement: kernel (SUSE-SA:2004:028):::
+package:::2004:1284.1:::k_athlon:::2.4.21-251
+package:::2004:1284.1:::k_debug:::2.4.21-251
+package:::2004:1284.1:::k_deflt:::2.4.21-251
+package:::2004:1284.1:::k_psmp:::2.4.21-251
+package:::2004:1284.1:::k_smp:::2.4.21-251
+package:::2004:1284.1:::kernel-source:::2.4.21-251
+advisory:::2004:1423.1:::1095420180:::M:::[suse-security-announce] [SUSE-SA:2004:034] SUSE Security Announcement: XFree86-libs, xshared:::
+package:::2004:1423.1:::xshared:::4.2.0-267
+advisory:::2004:1424.1:::1095420251:::M:::[suse-security-announce] SUSE Security Announcement: gtk2, gdk-pixbuf (SUSE-SA:2004:033):::
+package:::2004:1424.1:::gdk-pixbuf:::0.18.0-604
+package:::2004:1424.1:::gdk-pixbuf-devel:::0.18.0-604
+package:::2004:1424.1:::gtk2:::2.0.6-154
+package:::2004:1424.1:::gtk2-devel:::2.0.6-154
+advisory:::2004:1403.1:::1095254819:::M:::[suse-security-announce] SUSE Security Announcement: cups (SUSE-SA:2004:031):::
+package:::2004:1403.1:::cups:::1.1.15-170
+package:::2004:1403.1:::cups-client:::1.1.15-170
+package:::2004:1403.1:::cups-devel:::1.1.15-170
+package:::2004:1403.1:::cups-libs:::1.1.15-170
+advisory:::2004:1229.1:::1092914763:::M:::[suse-security-announce] SUSE Security Announcement: qt3 (SUSE-SA:2004:027):::
+package:::2004:1229.1:::qt3:::3.0.5-169
+package:::2004:1229.1:::qt3-non-mt:::3.0.5-233
+advisory:::2004:1131.1:::1091626321:::M:::[suse-security-announce] SUSE Security Announcement: libpng (SUSE-SA:2004:023):::
+package:::2004:1131.1:::libpng:::1.2.4-119
+package:::2004:1131.1:::libpng-devel:::1.2.4-119
+advisory:::2004:1203.1:::1092655981:::L:::[suse-security-announce] SUSE Security Announcement: rsync (SUSE-SA:2004:026):::
+package:::2004:1203.1:::rsync:::2.6.2-24
+advisory:::2004:1163.1:::1092053881:::H:::SUSE Security Announcement: kernel (SUSE-SA:2004:024):::
+package:::2004:1163.1:::k_athlon:::2.4.21-238
+package:::2004:1163.1:::k_debug:::2.4.21-238
+package:::2004:1163.1:::k_deflt:::2.4.21-238
+package:::2004:1163.1:::k_psmp:::2.4.21-238
+package:::2004:1163.1:::k_smp:::2.4.21-238
+package:::2004:1163.1:::kernel-source:::2.4.21-238
+advisory:::2004:1025.1:::1090571702:::M:::[suse-security-announce] SUSE Security Announcement: samba (SUSE-SA:2004:022):::
+package:::2004:1025.1:::samba:::2.2.8a-218
+package:::2004:1025.1:::samba-client:::2.2.8a-218
+package:::2004:1025.1:::samba-vscan:::0.3.2a-271
+advisory:::2004:0986.1:::1089964801:::H:::SUSE Security Announcement: php4 (SUSE-SA:2004:021):::
+package:::2004:0986.1:::mod_php4:::4.2.2-479
+package:::2004:0986.1:::mod_php4-core:::4.2.2-479
+package:::2004:0986.1:::mod_php4-servlet:::4.2.2-479
+advisory:::2004:0918.1:::1088766541:::M:::[suse-security-announce] SUSE Security Announcement: kernel (SUSE-SA:2004:020):::
+package:::2004:0918.1:::k_athlon:::2.4.21-231
+package:::2004:0918.1:::k_debug:::2.4.21-231
+package:::2004:0918.1:::k_deflt:::2.4.21-231
+package:::2004:0918.1:::k_psmp:::2.4.21-231
+package:::2004:0918.1:::k_smp:::2.4.21-231
+package:::2004:0918.1:::kernel-source:::2.4.21-231
+advisory:::2004:0876.1:::1087977601:::M:::[suse-security-announce] SUSE Security Announcement: dhcp-server (SuSE-SA:2004:019):::
+package:::2004:0876.1:::dhcp-server:::3.0.1rc9-144
+advisory:::2004:0843.1:::1087378681:::M:::[suse-security-announce] SUSE Security Announcement: kernel (SuSE-SA:2004:017):::
+package:::2004:0843.1:::k_athlon:::2.4.21-226
+package:::2004:0843.1:::k_debug:::2.4.21-226
+package:::2004:0843.1:::k_deflt:::2.4.21-226
+package:::2004:0843.1:::k_psmp:::2.4.21-226
+package:::2004:0843.1:::k_smp:::2.4.21-226
+package:::2004:0843.1:::kernel-source:::2.4.21-226
+advisory:::2004:0783.1:::1086774061:::M:::[suse-security-announce] SUSE Security Announcement: cvs (SuSE-SA:2004:015):::
+package:::2004:0783.1:::cvs:::1.11.1p1-332
+advisory:::2004:0701.1:::1085571242:::M:::[suse-security-announce] SUSE Security Announcement: kdelibs (SuSE-SA:2004:014):::
+package:::2004:0701.1:::kdelibs3:::3.0.3-205
+advisory:::2004:0662.1:::1084958041:::M:::[suse-security-announce] SUSE Security Announcement: cvs (SuSE-SA:2004:013):::
+package:::2004:0662.1:::cvs:::1.11.1p1-329
+advisory:::2004:0639.1:::1084523881:::L:::[suse-security-announce] SUSE Security Announcement: mc (SuSE-SA:2004:012):::
+package:::2004:0639.1:::mc:::4.5.55-758
+advisory:::2004:0585.1:::1083662761:::H:::[suse-security-announce] SUSE Security Announcement: kernel (SuSE-SA:2004:010):::
+package:::2004:0585.1:::k_athlon:::2.4.21-215
+package:::2004:0585.1:::k_debug:::2.4.21-215
+package:::2004:0585.1:::k_deflt:::2.4.21-215
+package:::2004:0585.1:::k_psmp:::2.4.21-215
+package:::2004:0585.1:::k_smp:::2.4.21-215
+package:::2004:0585.1:::kernel-source:::2.4.21-215
+advisory:::2004:0465.1:::1081938300:::L:::[suse-security-announce] SUSE Security Announcement: cvs (SuSE-SA:2004:008):::
+package:::2004:0465.1:::cvs:::1.11.1p1-326
+advisory:::2004:0459.2:::1081937221:::H:::[suse-security-announce] SUSE Security Announcement: Linux Kernel (SuSE-SA:2004:009):::
+package:::2004:0459.2:::k_athlon:::2.4.21-203
+package:::2004:0459.2:::k_debug:::2.4.21-203
+package:::2004:0459.2:::k_deflt:::2.4.21-203
+package:::2004:0459.2:::k_psmp:::2.4.21-203
+package:::2004:0459.2:::k_smp:::2.4.21-203
+package:::2004:0459.2:::kernel-source:::2.4.21-203
+advisory:::2004:0336.1:::1079538851:::L:::SUSE Security Announcement SuSE-SA:2004:007: openssl:::
+package:::2004:0336.1:::openssl:::0.9.6g-114
+advisory:::2004:0247.1:::1077632095:::H:::SUSE Security Announcement SuSE-SA:2004:006: xf86/XFree86:::
+package:::2004:0247.1:::xf86:::4.2.0-257
+advisory:::2004:0215.1:::1077217524:::H:::SUSE Security Announcement SuSE-SA:2004:005: Linux Kernel:::
+package:::2004:0215.1:::k_athlon:::2.4.21-190
+package:::2004:0215.1:::k_debug:::2.4.21-190
+package:::2004:0215.1:::k_deflt:::2.4.21-190
+package:::2004:0215.1:::k_psmp:::2.4.21-190
+package:::2004:0215.1:::k_smp:::2.4.21-190
+package:::2004:0215.1:::kernel-source:::2.4.21-190
+advisory:::2004:0059.1:::1074174188:::L:::SUSE Security Announcement SuSE-SA:2004:002: tcpdump - remote DoS:::
+package:::2004:0059.1:::tcpdump:::3.7.1-351
+advisory:::2003:1537.1:::1070579638:::H:::SUSE Security Announcement SuSE-SA:2003:050: rsync - local privilege escalation:::
+package:::2003:1537.1:::rsync:::2.5.5-258
+advisory:::2003:1272.1:::1065110632:::M:::SuSE Security Announcement SuSE-SA:2003:043: openssl - remote denial-of-service:::
+package:::2003:1272.1:::openssl-devel:::0.9.6g-99
+advisory:::2003:1272.1:::1065110632:::M:::SuSE Security Announcement SuSE-SA:2003:043: openssl - remote denial-of-service:::
+package:::2003:1272.1:::openssl:::0.9.6g-99
+advisory:::2003:1267.1:::1065014974:::M:::SuSE Security Announcement SuSE-SA:2003:042: mysql - remote code execution:::
+package:::2003:1267.1:::mysql:::3.23.52-106
+advisory:::2003:1267.1:::1065014974:::M:::SuSE Security Announcement SuSE-SA:2003:042: mysql - remote code execution:::
+package:::2003:1267.1:::mysql-client:::3.23.52-106
+advisory:::2003:1267.1:::1065014974:::M:::SuSE Security Announcement SuSE-SA:2003:042: mysql - remote code execution:::
+package:::2003:1267.1:::mysql-shared:::3.23.52-106
+advisory:::2003:1267.1:::1065014974:::M:::SuSE Security Announcement SuSE-SA:2003:042: mysql - remote code execution:::
+package:::2003:1267.1:::mysql-devel:::3.23.52-106
+advisory:::2003:1215.1:::1064238522:::M:::SuSE Security Announcement SuSE-SA:2003:040: sendmail, sendmail-tls - local/remote privilege escalation:::
+package:::2003:1215.1:::sendmail:::8.12.6-159
+advisory:::2003:1192.1:::1063917043:::H:::SuSE Security Announcement SuSE-SA:2003:039: openssh (second release) - potential remote privilege escalation:::
+package:::2003:1192.1:::openssh:::3.4p1-215
+advisory:::2003:1165.1:::1063824994:::H:::SuSE Security Announcement SuSE-SA:2003:038: openssh - potential remote privilege escalation:::
+package:::2003:1165.1:::openssh:::3.4p1-214
+advisory:::2003:1099.1:::1062620685:::H:::SuSE Security Announcement SuSE-SA:2003:036: pam_smb - remote privilege escalation:::
+package:::2003:1099.1:::pam_smb:::1.1.6-500
+advisory:::2003:1070.1:::1061991584:::L:::SuSE Security Announcement SuSE-SA:2003:035: sendmail - remote denial-of-service:::
+package:::2003:1070.1:::sendmail:::8.12.6-147
+advisory:::2003:1028.1:::1060721022:::L:::SuSE Security Announcement SuSE-SA:2003:034: kernel - local privilege escalation, remote Denial of Service (DoS):::
+package:::2003:1028.1:::k_athlon:::2.4.19-340
+package:::2003:1028.1:::k_debug:::2.4.19-340
+package:::2003:1028.1:::k_deflt:::2.4.19-340
+package:::2003:1028.1:::k_psmp:::2.4.19-340
+package:::2003:1028.1:::k_smp:::2.4.19-340
+package:::2003:1028.1:::kernel-source:::2.4.19.SuSE-340
+advisory:::2003:0989.1:::1060008041:::M:::SuSE Security Announcement SuSE-SA:2003:033: postfix - remote Denial of Service (DoS) attack:::
+package:::2003:0989.1:::postfix:::1.1.12-12
+advisory:::2003:0896.1:::1058302874:::M:::SuSE Security Announcement SuSE-SA:2003:031: nfs-utils - remote code execution:::
+package:::2003:0896.1:::nfs-utils:::1.0.1-109
+advisory:::2003:0752.1:::1054913470:::L:::SuSE Security Announcement SuSE-SA:2003:028: cups - remote Denial of Service:::
+package:::2003:0752.1:::cups:::1.1.15-98
+package:::2003:0752.1:::cups-client:::1.1.15-98
+package:::2003:0752.1:::cups-devel:::1.1.15-98
+package:::2003:0752.1:::cups-libs:::1.1.15-98
+advisory:::2003:0753.1:::1054914135:::H:::SuSE Security Announcement SuSE-SA:2003:029: pptpd - remote code execution:::
+package:::2003:0753.1:::pptpd:::1.1.2-412
+advisory:::2003:0503.1:::1049757226:::H:::SuSE Security Announcement SuSE-SA:2003:025: samba:::
+package:::2003:0503.1:::samba:::2.2.5-177
+advisory:::2003:0484.1:::1049467169:::L:::SuSE Security Announcement SuSE-SA:2003:024: openssl - remote private-key retrieval:::
+package:::2003:0484.1:::openssl:::0.9.6g-64
+advisory:::2003:0455.1:::1049233283:::M:::SuSE Security Announcement SuSE-SA:2003:023: sendmail, sendmail-tls - local/remote privilege escalation:::
+package:::2003:0455.1:::sendmail:::8.12.6-109
+advisory:::2003:0403.1:::1048629890:::H:::SuSE Security Announcement SuSE-SA:2003:021: kernel - local privilege escalation:::
+package:::2003:0403.1:::k_debug:::2.4.19-213
+advisory:::2003:0403.1:::1048629890:::H:::SuSE Security Announcement SuSE-SA:2003:021: kernel - local privilege escalation:::
+package:::2003:0403.1:::k_smp:::2.4.19-257
+advisory:::2003:0403.1:::1048629890:::H:::SuSE Security Announcement SuSE-SA:2003:021: kernel - local privilege escalation:::
+package:::2003:0403.1:::k_athlon:::2.4.19-263
+advisory:::2003:0403.1:::1048629890:::H:::SuSE Security Announcement SuSE-SA:2003:021: kernel - local privilege escalation:::
+package:::2003:0403.1:::k_psmp:::2.4.19-263
+advisory:::2003:0403.1:::1048629890:::H:::SuSE Security Announcement SuSE-SA:2003:021: kernel - local privilege escalation:::
+package:::2003:0403.1:::k_deflt:::2.4.19-274
+advisory:::2003:0403.1:::1048629890:::H:::SuSE Security Announcement SuSE-SA:2003:021: kernel - local privilege escalation:::
+package:::2003:0403.1:::kernel-source:::2.4.19.SuSE-175
+advisory:::2003:0395.1:::1048537506:::M:::SuSE Security Announcement SuSE-SA:2003:020: mutt - remote system compromise:::
+package:::2003:0395.1:::mutt:::1.4i-217
+advisory:::2003:0385.1:::1048265219:::M:::SuSE Security Announcement SuSE-SA:2003:019: ethereal - local privilege escalation:::
+package:::2003:0385.1:::ethereal:::0.9.6-152
+advisory:::2003:0358.1:::1048084070:::H:::SuSE Security Announcement SuSE-SA:2003:015: samba, samba-client:::
+package:::2003:0358.1:::samba:::2.2.5-160
+advisory:::2003:0358.1:::1048084070:::H:::SuSE Security Announcement SuSE-SA:2003:015: samba, samba-client:::
+package:::2003:0358.1:::samba-client:::2.2.5-160
+advisory:::2003:0384.1:::1048265176:::H:::SuSE Security Announcement SuSE-SA:2003:018: qpopper - remote system compromise:::
+package:::2003:0384.1:::qpopper:::4.0.4-132
+advisory:::2003:0383.1:::1048265127:::L:::SuSE Security Announcement SuSE-SA:2003:017: file - remote system compromise:::
+package:::2003:0383.1:::file:::3.37-206
+advisory:::2003:0256.1:::1046720541:::H:::SuSE Security Announcement SuSE-SA:2003:013: sendmail, sendmail-tls - local privilege escalation:::
+package:::2003:0256.1:::sendmail:::8.12.6-92
+advisory:::2003:0256.1:::1046720541:::H:::SuSE Security Announcement SuSE-SA:2003:013: sendmail, sendmail-tls - local privilege escalation:::
+package:::2003:0256.1:::sendmail-devel:::8.12.6-92
+advisory:::2003:0232.1:::1046301944:::M:::SuSE Security Announcement SuSE-SA:2003:011: openssl - remote attack on encryption:::
+package:::2003:0232.1:::openssl-devel:::0.9.6g-55
+advisory:::2003:0232.1:::1046301944:::M:::SuSE Security Announcement SuSE-SA:2003:011: openssl - remote attack on encryption:::
+package:::2003:0232.1:::openssl:::0.9.6g-55
+advisory:::2003:0067.1:::1043080632:::H:::SuSE Security Announcement SuSE-SA:2003:005: susehelp - remote command execution:::
+package:::2003:0067.1:::susehelp:::2002.09.05-51
+advisory:::2003:0319.1:::1047590809:::M:::SuSE Security Announcement SuSE-SA:2003:0015: tcpdump:::
+package:::2003:0319.1:::fetchmail:::5.9.13-54
+advisory:::2003:0589.1:::1051294899:::M:::SuSE Security Announcement SuSE-SA:2003:0026: KDE - various security vulnerabilities:::
+package:::2003:0589.1:::cups:::1.1.15-69
+advisory:::2003:0005.1:::1041609679:::H:::SuSE Security Announcement SuSE-SA:2003:003: mysql - remote command execution:::
+package:::2003:0005.1:::mysql:::3.23.52-41
+advisory:::2009:0228.1:::1233043208:::L:::[security-announce] SUSE Security Announcement: OpenSSL certificate verification:::
+package:::2009:0228.1:::openssl:::0.9.6g-147
+package:::2009:0228.1:::openssl-devel:::0.9.6g-147
+advisory:::2009:0102.1:::1231833622:::L:::[security-announce] SUSE Security Summary Report: SUSE-SR:2009:001 - libxml2:::
+package:::2009:0102.1:::libxml2:::2.4.23-250
+package:::2009:0102.1:::libxml2-devel:::2.4.23-250
+advisory:::2008:3034.1:::1227859211:::L:::[security-announce] SUSE Security Announcement: yast2-backup (SUSE-SA:2008:054):::
+package:::2008:3034.1:::yast2-backup:::2.6.8-0.1
+advisory:::2008:2117.1:::1219305614:::M:::[security-announce] SUSE Security Announcement: postfix (SUSE-SA:2008:040):::
+package:::2008:2117.1:::postfix:::1.1.12-82
+advisory:::2008:1761.2:::1217232035:::M:::[security-announce] SUSE Security Announcement: bind (SUSE-SA:2008:033):::
+package:::2008:1761.2:::bind9:::9.3.4-0.4
+package:::2008:1761.2:::bind9-devel:::9.3.4-0.4
+package:::2008:1761.2:::bind9-utils:::9.3.4-0.4
+advisory:::2008:1469.1:::1213862401:::H:::SUSE Security Announcement: Samba (SUSE-SA:2008:026):::
+package:::2008:1469.1:::samba:::2.2.8a-256
+package:::2008:1469.1:::samba-client:::2.2.8a-256
+package:::2008:1469.1:::samba-vscan:::0.3.2a-308
+advisory:::2007:2294.1:::1197619265:::L:::SUSE Security Announcement: samba (SUSE-SA:2007:068):::
+package:::2007:2294.1:::samba:::2.2.8a-253
+package:::2007:2294.1:::samba-client:::2.2.8a-253
+package:::2007:2294.1:::samba-vscan:::0.3.2a-305
+advisory:::2007:2195.1:::1196928004:::M:::SUSE Security Announcement: samba (SUSE-SA:2007:065):::
+package:::2007:2195.1:::samba:::2.2.8a-249
+package:::2007:2195.1:::samba-client:::2.2.8a-249
+package:::2007:2195.1:::samba-vscan:::0.3.2a-301
+advisory:::2007:2101.1:::1196150411:::L::: SUSE Security Announcement: pcre (SUSE-SA:2007:062):::
+package:::2007:2101.1:::pcre:::3.9-275
+advisory:::2007:2043.1:::1195200024:::M:::SUSE Security Announcement: xpdf and more (SUSE-SA:2007:060):::
+package:::2007:2043.1:::cups:::1.1.15-208
+package:::2007:2043.1:::cups-client:::1.1.15-208
+package:::2007:2043.1:::cups-devel:::1.1.15-208
+package:::2007:2043.1:::cups-libs:::1.1.15-208
+advisory:::2007:1844.1:::1193989988:::M::: SUSE Security Announcement: IBM Java (SUSE-SA:2007:056):::
+package:::2007:1844.1:::IBMJava2-JRE_1_4:::1.4.2-0.22
+package:::2007:1844.1:::IBMJava2-SDK_1_4:::1.4.2-0.22
+advisory:::2007:1844.1:::1193989988:::M::: SUSE Security Announcement: IBM Java (SUSE-SA:2007:056):::
+package:::2007:1844.1:::IBMJava2-JRE:::1.3.1-246
+package:::2007:1844.1:::IBMJava2-SDK:::1.3.1-246
+advisory:::2007:1721.1:::1192437002:::M::: SUSE Security Announcement: Linux kernel (SUSE-SA:2007:053):::
+package:::2007:1721.1:::k_athlon:::2.4.21-325
+package:::2007:1721.1:::k_debug:::2.4.21-325
+package:::2007:1721.1:::k_deflt:::2.4.21-325
+package:::2007:1721.1:::k_psmp:::2.4.21-325
+package:::2007:1721.1:::k_smp:::2.4.21-325
+package:::2007:1721.1:::kernel-source:::2.4.21-325
+advisory:::2007:1347.1:::1186387213:::L:::SUSE Security Announcement: bind, bind9 (SUSE-SA:2007:047):::
+package:::2007:1347.1:::bind9:::9.2.2-105
+package:::2007:1347.1:::bind9-devel:::9.2.2-105
+package:::2007:1347.1:::bind9-utils:::9.2.2-105
+advisory:::2007:1377.1:::1186646419:::L::: SUSE Security Announcement: Mozilla (SUSE-SA:2007:049):::
+package:::2007:1377.1:::mozilla:::1.8_seamonkey_1.0.9-0.10
+package:::2007:1377.1:::mozilla-calendar:::1.8_seamonkey_1.0.9-0.10
+package:::2007:1377.1:::mozilla-devel:::1.8_seamonkey_1.0.9-0.10
+package:::2007:1377.1:::mozilla-dom-inspector:::1.8_seamonkey_1.0.9-0.10
+package:::2007:1377.1:::mozilla-irc:::1.8_seamonkey_1.0.9-0.10
+package:::2007:1377.1:::mozilla-mail:::1.8_seamonkey_1.0.9-0.10
+package:::2007:1377.1:::mozilla-spellchecker:::1.8_seamonkey_1.0.9-0.10
+package:::2007:1377.1:::mozilla-venkman:::1.8_seamonkey_1.0.9-0.10
+package:::2007:1377.1:::mozilla-xmlterm:::1.8_seamonkey_1.0.9-0.10
+advisory:::2007:1267.1:::1185264025:::M::: SUSE Security Announcement: flash-player (SUSE-SA:2007:046):::
+package:::2007:1267.1:::netscape-plugins:::4.80-116
+advisory:::2007:1331.1:::1186128006:::L:::[security-announce] SUSE Security Announcement: qt3 (SUSE-SA:2007:048):::
+package:::2007:1331.1:::qt3:::3.0.5-180
+package:::2007:1331.1:::qt3-devel:::3.0.5-180
+package:::2007:1331.1:::qt3-mysql:::3.0.5-244
+package:::2007:1331.1:::qt3-non-mt:::3.0.5-244
+package:::2007:1331.1:::qt3-postgresql:::3.0.5-244
+package:::2007:1331.1:::qt3-unixODBC:::3.0.5-244
+advisory:::2007:1268.1:::1185264026:::M:::SUSE Security Announcement: Java security problems (SUSE-SA:2007:045):::
+package:::2007:1268.1:::IBMJava2-JRE_1_4:::1.4.2-0.15
+package:::2007:1268.1:::IBMJava2-SDK_1_4:::1.4.2-0.15
+advisory:::2007:1268.1:::1185264026:::M:::SUSE Security Announcement: Java security problems (SUSE-SA:2007:045):::
+package:::2007:1268.1:::IBMJava2-JRE:::1.3.1-238
+package:::2007:1268.1:::IBMJava2-SDK:::1.3.1-238
+advisory:::2007:1268.1:::1185264026:::M:::SUSE Security Announcement: Java security problems (SUSE-SA:2007:045):::
+package:::2007:1268.1:::java2:::1.3.1-701
+package:::2007:1268.1:::java2-jre:::1.3.1-701
+advisory:::2007:1223.1:::1184313623:::L::: SUSE Security Announcement: php4,php5 (SUSE-SA:2007:044):::
+package:::2007:1223.1:::mod_php4:::4.2.2-530
+package:::2007:1223.1:::mod_php4-core:::4.2.2-530
+package:::2007:1223.1:::mod_php4-devel:::4.2.2-530
+package:::2007:1223.1:::mod_php4-servlet:::4.2.2-530
+advisory:::2007:1159.1:::1183536008:::L::: SUSE Security Announcement: libexif (SUSE-SA:2007:039):::
+package:::2007:1159.1:::libexif:::0.5.3-114
+advisory:::2007:1169.1:::1183708805:::M:::SUSE Security Announcement: freetype2 (SUSE-SA:2007:041):::
+package:::2007:1169.1:::freetype2:::2.0.9-140
+package:::2007:1169.1:::freetype2-devel:::2.0.9-140
+advisory:::2007:1152.1:::1183449605:::L:::SUSE Security Announcement: Mozilla Firefox, Thunderbird,(SUSE-SA:2007:036):::
+package:::2007:1152.1:::mozilla:::1.8_seamonkey_1.0.9-0.3
+package:::2007:1152.1:::mozilla-calendar:::1.8_seamonkey_1.0.9-0.3
+package:::2007:1152.1:::mozilla-devel:::1.8_seamonkey_1.0.9-0.3
+package:::2007:1152.1:::mozilla-dom-inspector:::1.8_seamonkey_1.0.9-0.3
+package:::2007:1152.1:::mozilla-irc:::1.8_seamonkey_1.0.9-0.3
+package:::2007:1152.1:::mozilla-mail:::1.8_seamonkey_1.0.9-0.3
+package:::2007:1152.1:::mozilla-spellchecker:::1.8_seamonkey_1.0.9-0.3
+package:::2007:1152.1:::mozilla-venkman:::1.8_seamonkey_1.0.9-0.3
+package:::2007:1152.1:::mozilla-xmlterm:::1.8_seamonkey_1.0.9-0.3
+advisory:::2007:0843.1:::1180426322:::M:::SUSE Security Announcement: samba security problems:::
+package:::2007:0843.1:::samba:::2.2.8a-241
+package:::2007:0843.1:::samba-client:::2.2.8a-241
+package:::2007:0843.1:::samba-vscan:::0.3.2a-293
+advisory:::2007:0844.1:::1180426561:::M:::SUSE Security Announcement: php4,php5 security problems:::
+package:::2007:0844.1:::mod_php4:::4.2.2-526
+package:::2007:0844.1:::mod_php4-core:::4.2.2-526
+package:::2007:0844.1:::mod_php4-devel:::4.2.2-526
+package:::2007:0844.1:::mod_php4-servlet:::4.2.2-526
+advisory:::2007:0639.1:::1177406341:::M:::SUSE Security Announcement: XFree86,Xorg (SUSE-SA:2007:027):::
+package:::2007:0639.1:::vnc:::3.3.3r2-579
+package:::2007:0639.1:::xloader:::4.2.0-284
+package:::2007:0639.1:::xmodules:::4.2.0-284
+package:::2007:0639.1:::xshared:::4.2.0-284
+advisory:::2007:0529.1:::1175761081:::L:::[suse-security-announce] SUSE Security Announcement: gpg (SUSE-SA:2007:024):::
+package:::2007:0529.1:::gpg:::1.0.7-195
+advisory:::2007:0528.1:::1175760902:::M:::[suse-security-announce] SUSE Security Announcement: Mozilla security problems:::
+package:::2007:0528.1:::mozilla:::1.8_seamonkey_1.0.8-0.3
+package:::2007:0528.1:::mozilla-calendar:::1.8_seamonkey_1.0.8-0.3
+package:::2007:0528.1:::mozilla-devel:::1.8_seamonkey_1.0.8-0.3
+package:::2007:0528.1:::mozilla-dom-inspector:::1.8_seamonkey_1.0.8-0.3
+package:::2007:0528.1:::mozilla-irc:::1.8_seamonkey_1.0.8-0.3
+package:::2007:0528.1:::mozilla-mail:::1.8_seamonkey_1.0.8-0.3
+package:::2007:0528.1:::mozilla-spellchecker:::1.8_seamonkey_1.0.8-0.3
+package:::2007:0528.1:::mozilla-venkman:::1.8_seamonkey_1.0.8-0.3
+package:::2007:0528.1:::mozilla-xmlterm:::1.8_seamonkey_1.0.8-0.3
+advisory:::2007:0159.1:::1170425281:::L:::SUSE Security Announcement: bind remote denial of service:::
+package:::2007:0159.1:::bind9:::9.2.2-101
+advisory:::2007:0129.1:::1169647741:::L:::SUSE Security Announcement: squid (SUSE-SA:2007:012):::
+package:::2007:0129.1:::squid:::2.4.STABLE7-306
+advisory:::2007:0116.1:::1169562422:::M:::SUSE Security Announcement: IBMJava (SUSE-SA:2007:010):::
+package:::2007:0116.1:::IBMJava2-JRE:::1.3.1-237
+package:::2007:0116.1:::IBMJava2-SDK:::1.3.1-237
+advisory:::2007:0076.1:::1168869961:::L:::SUSE Security Announcement: XFree86/Xorg (SUSE-SA:2007:008):::
+package:::2007:0076.1:::xloader:::4.2.0-280
+advisory:::2007:0098.1:::1169117581:::M:::SUSE Security Announcement: w3m (SUSE-SA:2007:005):::
+package:::2007:0098.1:::w3m:::0.3.1-205
+advisory:::2007:0025.1:::1168344121:::M:::SUSE Security Announcement: Sun Java security update:::
+package:::2007:0025.1:::java2:::1.3.1-696
+package:::2007:0025.1:::java2-jre:::1.3.1-696
+advisory:::2006:2315.1:::1166428821:::M:::[suse-security-announce] SUSE Security Announcement: gpg (SUSE-SA:2006:075):::
+package:::2006:2315.1:::gpg:::1.0.7-190
+advisory:::2006:2188.1:::1164787206:::L::: SUSE Security Announcement: openldap2-client (SUSE-SA:2006:072):::
+package:::2006:2188.1:::openldap2-client:::2.1.4-188
+advisory:::2006:2102.1:::1163577607:::L:::[suse-security-announce] SUSE Security Announcement: ethereal (SUSE-SA:2006:065):::
+package:::2006:2102.1:::ethereal:::0.10.13-20
+advisory:::2006:2124.1:::1164009619:::M:::[suse-security-announce] SUSE Security Announcement: php4,php5 (SUSE-SA:2006:067):::
+package:::2006:2124.1:::mod_php4:::4.2.2-517
+package:::2006:2124.1:::mod_php4-core:::4.2.2-517
+package:::2006:2124.1:::mod_php4-devel:::4.2.2-517
+package:::2006:2124.1:::mod_php4-servlet:::4.2.2-517
+advisory:::2006:2076.1:::1163401206:::L:::[suse-security-announce] SUSE Security Announcement: kernel (SUSE-SA:2006:064):::
+package:::2006:2076.1:::k_athlon:::2.4.21-314
+package:::2006:2076.1:::k_debug:::2.4.21-314
+package:::2006:2076.1:::k_deflt:::2.4.21-314
+package:::2006:2076.1:::k_psmp:::2.4.21-314
+package:::2006:2076.1:::k_smp:::2.4.21-314
+package:::2006:2076.1:::kernel-source:::2.4.21-314
+advisory:::2006:1987.1:::1161932403:::M:::[suse-security-announce] SUSE Security Announcement: Qt image handling problems:::
+package:::2006:1987.1:::qt3:::3.0.5-171
+package:::2006:1987.1:::qt3-non-mt:::3.0.5-235
+advisory:::2006:1970.1:::1161608341:::L:::[suse-security-announce] SUSE Security Announcement: openssh (SUSE-SA:2006:062):::
+package:::2006:1970.1:::openssh:::3.4p1-274
+package:::2006:1970.1:::openssh-askpass:::3.4p1-274
+advisory:::2006:1931.1:::1161002342:::M:::SUSE Security Announcement: php4,php5 (SUSE-SA:2006:059):::
+package:::2006:1931.1:::mod_php4:::4.2.2-515
+package:::2006:1931.1:::mod_php4-core:::4.2.2-515
+package:::2006:1931.1:::mod_php4-devel:::4.2.2-515
+package:::2006:1931.1:::mod_php4-servlet:::4.2.2-515
+advisory:::2006:1862.1:::1159883461:::L:::[suse-security-announce] SUSE Security Announcement: openssl security problems:::
+package:::2006:1862.1:::openssl:::0.9.6g-138
+package:::2006:1862.1:::openssl-devel:::0.9.6g-138
+advisory:::2006:1822.1:::1159454762:::M:::SUSE Security Announcement: gzip (SUSE-SA:2006:056):::
+package:::2006:1822.1:::gzip:::1.3-453
+advisory:::2006:1806.1:::1159347002:::L:::SUSE Security Announcement: openssl,mozilla-nss RSA signature [SUSE-SA:2006:055]:::
+package:::2006:1806.1:::openssl:::0.9.6g-136
+package:::2006:1806.1:::openssl-devel:::0.9.6g-136
+advisory:::2006:1804.1:::1159346762:::M:::SUSE Security Announcement: php4,php5 (SUSE-SA:2006:052):::
+package:::2006:1804.1:::mod_php4:::4.2.2-512
+package:::2006:1804.1:::mod_php4-core:::4.2.2-512
+package:::2006:1804.1:::mod_php4-devel:::4.2.2-512
+package:::2006:1804.1:::mod_php4-servlet:::4.2.2-512
+advisory:::2006:1432.1:::1155110426:::M:::[suse-security-announce] SUSE Security Announcement: freetype2 (SUSE-SA:2006:045):::
+package:::2006:1432.1:::freetype2:::2.0.9-135
+package:::2006:1432.1:::freetype2-devel:::2.0.9-135
+advisory:::2006:1431.1:::1155110427:::M:::SUSE Security Announcement: libtiff (SUSE-SA:2006:044):::
+package:::2006:1431.1:::libtiff:::3.5.7-389
+advisory:::2006:1215.1:::1152538801:::M:::SUSE Security Announcement: php4 bugfix update (SUSE-SA:2006:034):::
+package:::2006:1215.1:::mod_php4:::4.2.2-508
+package:::2006:1215.1:::mod_php4-core:::4.2.2-508
+package:::2006:1215.1:::mod_php4-devel:::4.2.2-508
+package:::2006:1215.1:::mod_php4-servlet:::4.2.2-508
+advisory:::2006:1122.1:::1150444812:::L:::[suse-security-announce] SUSE Security Announcement: sendmail remote denial of service:::
+package:::2006:1122.1:::sendmail:::8.12.6-213
+advisory:::2006:1123.1:::1150444814:::M:::[suse-security-announce] SUSE Security Announcement: php4,php5 problems (SUSE-SA:2006:031):::
+package:::2006:1123.1:::mod_php4:::4.2.2-506
+package:::2006:1123.1:::mod_php4-core:::4.2.2-506
+package:::2006:1123.1:::mod_php4-devel:::4.2.2-506
+package:::2006:1123.1:::mod_php4-servlet:::4.2.2-506
+advisory:::2006:0982.1:::1149083702:::M::: SUSE Security Announcement: cron local privilege escalation:::
+package:::2006:0982.1:::cron:::3.0.1-928
+advisory:::2006:0983.1:::1149083761:::L:::SUSE Security Announcement: kernel (SUSE-SA:2006:028):::
+package:::2006:0983.1:::k_athlon:::2.4.21-309
+package:::2006:0983.1:::k_debug:::2.4.21-309
+package:::2006:0983.1:::k_deflt:::2.4.21-309
+package:::2006:0983.1:::k_psmp:::2.4.21-309
+package:::2006:0983.1:::k_smp:::2.4.21-309
+package:::2006:0983.1:::kernel-source:::2.4.21-309
+advisory:::2006:1148.1:::1151308803:::M:::[suse-security-announce] SUSE Security Announcement: mysql remote code execution:::
+package:::2006:1148.1:::mysql:::3.23.52-132
+advisory:::2006:0848.1:::1147186561:::L:::[suse-security-announce] SUSE Security Announcement: php4,php5 various security problems:::
+package:::2006:0848.1:::mod_php4:::4.2.2-503
+package:::2006:0848.1:::mod_php4-core:::4.2.2-503
+package:::2006:0848.1:::mod_php4-devel:::4.2.2-503
+package:::2006:0848.1:::mod_php4-servlet:::4.2.2-503
+advisory:::2006:0748.1:::1145622121:::M:::[suse-security-announce] SUSE Security Announcement: Mozilla Firefox, Mozilla Suite:::
+package:::2006:0748.1:::mozilla:::1.7.8-32
+package:::2006:0748.1:::mozilla-calendar:::1.7.8-32
+package:::2006:0748.1:::mozilla-devel:::1.7.8-32
+package:::2006:0748.1:::mozilla-dom-inspector:::1.7.8-32
+package:::2006:0748.1:::mozilla-irc:::1.7.8-32
+package:::2006:0748.1:::mozilla-mail:::1.7.8-32
+package:::2006:0748.1:::mozilla-spellchecker:::1.7.8-32
+package:::2006:0748.1:::mozilla-venkman:::1.7.8-32
+package:::2006:0748.1:::mozilla-xmlterm:::1.7.8-32
+advisory:::2006:0584.1:::1143097212:::H:::SUSE Security Announcement: sendmail remote code execution:::
+package:::2006:0584.1:::sendmail:::8.12.6-210
+advisory:::2006:0550.1:::1142838029:::H:::SUSE Security Announcement: gpg signature checking problems:::
+package:::2006:0550.1:::gpg:::1.0.7-183
+advisory:::2006:0422.1:::1141282806:::M:::SUSE Security Announcement SUSE-SA:2006:013: gpg,liby2util signature checking:::
+package:::2006:0422.1:::liby2util:::2.6.24-4
+package:::2006:0422.1:::liby2util-devel:::2.6.24-4
+advisory:::2006:0422.1:::1141282806:::M:::SUSE Security Announcement SUSE-SA:2006:013: gpg,liby2util signature checking:::
+package:::2006:0422.1:::gpg:::1.0.7-181
+advisory:::2006:0392.1:::1141110001:::L:::SuSE Security Announcement: heimdal (SUSE-SA:2006:011):::
+package:::2006:0392.1:::heimdal:::0.4e-416
+advisory:::2006:0397.1:::1141110006:::L:::SUSE Security Announcement: kernel various security problems:::
+package:::2006:0397.1:::k_athlon:::2.4.21-306
+package:::2006:0397.1:::k_debug:::2.4.21-306
+package:::2006:0397.1:::k_deflt:::2.4.21-306
+package:::2006:0397.1:::k_psmp:::2.4.21-306
+package:::2006:0397.1:::k_smp:::2.4.21-306
+package:::2006:0397.1:::kernel-source:::2.4.21-306
+advisory:::2005:1228.1:::1118327101:::L:::several kernel security problems[SUSE-SA:2005:029]:::
+package:::2005:1228.1:::k_athlon:::2.4.21-292
+package:::2005:1228.1:::k_debug:::2.4.21-292
+package:::2005:1228.1:::k_deflt:::2.4.21-292
+package:::2005:1228.1:::k_psmp:::2.4.21-292
+package:::2005:1228.1:::k_smp:::2.4.21-292
+package:::2005:1228.1:::kernel-source:::2.4.21-292
+advisory:::2005:0899.1:::1114000322:::L:::[SUSE-SA:2005:027] SUSE Security Announcement: PostgreSQL buffer overflow problems:::
+package:::2005:0899.1:::postgresql:::7.2.7-4
+package:::2005:0899.1:::postgresql-devel:::7.2.7-4
+package:::2005:0899.1:::postgresql-jdbc:::7.2.7-4
+package:::2005:0899.1:::postgresql-libs:::7.2.7-4
+package:::2005:0899.1:::postgresql-odbc:::7.2.7-4
+package:::2005:0899.1:::postgresql-perl:::7.2.7-4
+package:::2005:0899.1:::postgresql-python:::7.2.7-4
+package:::2005:0899.1:::postgresql-server:::7.2.7-4
+package:::2005:0899.1:::postgresql-tcl:::7.2.7-4

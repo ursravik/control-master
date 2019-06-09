@@ -1,0 +1,8 @@
+- hosts: nonoracle
+  become: yes
+  vars:
+    relay_server: relayservername
+    mail_id: emailid
+  
+  roles:
+    - patchcheck

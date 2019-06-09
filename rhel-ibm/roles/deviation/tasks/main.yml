@@ -1,0 +1,81 @@
+#  An important stage in the play, pre and post info collected is comapared and if any deviation found
+#  mail is sent back to the user from control node.
+#  As of now number of mount points and number of routes are checked post reboot you can add more checks in prepatch and postpatch script.
+#  Make sure you capture definite data that you dont expect to change post reboot, diff command is run to comapre. Hence you can test before
+#  including in the script.
+- stat: path=/tmp/postcheck
+  register: postflag
+  
+- block:
+  - name: comparing pre and post patching info
+    shell: |
+     postmount=/tmp/patching-data/postpatch-`uname -n`-mount
+     premount=/tmp/patching-data/prepatch-`uname -n`-mount
+     postroute=/tmp/patching-data/postpatch-`uname -n`-route
+     preroute=/tmp/patching-data/prepatch-`uname -n`-route
+     dfusage=/tmp/patching-data/postpatch-`uname -n`-usage
+
+      [[ -f /tmp/patching-data/patchdiff ]] && rm /tmp/patching-data/patchdiff
+       if [[ -s $dfusage ]];then
+        touch /tmp/patching-data/patchdiff
+        echo "1. File system usage greater than 85%" >> /tmp/patching-data/patchdiff
+        cat $dfusage >> /tmp/patching-data/patchdiff
+        echo "" >> /tmp/patching-data/patchdiff
+       fi
+      [[ -f $dfusage ]] && rm $dfusage
+
+     diff $postmount $premount
+       if [[ $? != 0 ]]; then
+        touch /tmp/patching-data/patchdiff
+        echo "2. Number of mount point is not matching post patching" >> /tmp/patching-data/patchdiff
+        echo "" >> /tmp/patching-data/patchdiff
+       fi
+      [[ -f $postmount ]] && rm $postmount
+      [[ -f $premount  ]] && rm $premount
+
+     diff $postroute $preroute
+       if [[ $? != 0 ]]; then
+        touch /tmp/patching-data/patchdiff
+        echo "3. Number of route's is not matching post patching" >> /tmp/patching-data/patchdiff
+        echo "" >> /tmp/patching-data/patchdiff
+       fi
+     [[ -f $postroute ]] && rm $postroute
+     [[ -f $preroute  ]] && rm $preroute
+    tags: compare
+
+  - stat: path=/tmp/patching-data/patchdiff
+    register: patchdiff
+    tags: compare
+  - local_action:
+      module: file
+      path: /tmp/patchdiff
+      state: absent
+    run_once: True
+    tags: compare
+  - fetch: src=/tmp/patching-data/patchdiff dest=/tmp/patchdiff
+    when: patchdiff.stat.exists
+    tags: compare
+
+  - name: send mail to user with deviations found during checks
+    mail:
+      host: "{{ relay_server }}"
+      port: 25
+      to: "{{ mail_id }}"
+      subject: System {{ ansible_hostname }} has deviations
+      body: "{{ lookup('file', '/tmp/patchdiff/{{ inventory_hostname }}/tmp/patching-data/patchdiff') }}"
+    delegate_to: localhost
+    when: patchdiff.stat.exists
+    tags: compare
+  - name: send mail to user with success status
+    mail: 
+      host: "{{ relay_server }}"
+      port: 25
+      to: "{{ mail_id }}"
+      subject: System {{ ansible_hostname }} Update completed without errors
+      body: "System {{ ansible_hostname }} OS Update completed without errors"
+    delegate_to: localhost
+    when: not patchdiff.stat.exists
+    tags: compare
+
+  when: postflag.stat.exists
+

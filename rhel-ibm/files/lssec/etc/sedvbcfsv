@@ -1,0 +1,2217 @@
+version:::2015.02.27.1
+advisory:::2005:0416.1:::1108468800:::H:::RHSA-2005:025-01: exim security update:::
+package:::2005:0416.1:::exim-mon:::4.43-1.RHEL4.3
+package:::2005:0416.1:::exim:::4.43-1.RHEL4.3
+package:::2005:0416.1:::exim-sa:::4.43-1.RHEL4.3
+package:::2005:0416.1:::exim-doc:::4.43-1.RHEL4.3
+advisory:::2005:0417.1:::1108468800:::H:::RHSA-2005:032-01: php security update:::&processRunning( "httpd" )
+package:::2005:0417.1:::php-ncurses:::4.3.9-3.2
+package:::2005:0417.1:::php-gd:::4.3.9-3.2
+package:::2005:0417.1:::php:::4.3.9-3.2
+package:::2005:0417.1:::php-xmlrpc:::4.3.9-3.2
+package:::2005:0417.1:::php-snmp:::4.3.9-3.2
+package:::2005:0417.1:::php-mysql:::4.3.9-3.2
+package:::2005:0417.1:::php-mbstring:::4.3.9-3.2
+package:::2005:0417.1:::php-pgsql:::4.3.9-3.2
+package:::2005:0417.1:::php-imap:::4.3.9-3.2
+package:::2005:0417.1:::php-pear:::4.3.9-3.2
+package:::2005:0417.1:::php-odbc:::4.3.9-3.2
+package:::2005:0417.1:::php-devel:::4.3.9-3.2
+package:::2005:0417.1:::php-ldap:::4.3.9-3.2
+package:::2005:0417.1:::php-domxml:::4.3.9-3.2
+advisory:::2005:0418.1:::1108468800:::M:::RHSA-2005:033-01: alsa-lib security update:::
+package:::2005:0418.1:::alsa-lib-devel:::1.0.6-5.RHEL4
+package:::2005:0418.1:::alsa-lib:::1.0.6-5.RHEL4
+advisory:::2005:0419.1:::1108468800:::M:::RHSA-2005:034-01: xpdf security update:::
+package:::2005:0419.1:::xpdf:::3.00-11.5
+advisory:::2005:0420.1:::1108468800:::M:::RHSA-2005:035-01: libtiff security update:::
+package:::2005:0420.1:::libtiff:::3.6.1-8
+package:::2005:0420.1:::libtiff-devel:::3.6.1-8
+advisory:::2005:0421.1:::1108468800:::M:::RHSA-2005:036-01: vim security update:::
+package:::2005:0421.1:::vim-minimal:::6.3.046-0.40E.4
+package:::2005:0421.1:::vim-common:::6.3.046-0.40E.4
+package:::2005:0421.1:::vim-X11:::6.3.046-0.40E.4
+package:::2005:0421.1:::vim-enhanced:::6.3.046-0.40E.4
+advisory:::2005:0422.1:::1108468800:::M:::RHSA-2005:037-01: ethereal security update:::
+package:::2005:0422.1:::ethereal:::0.10.9-1.EL4.1
+package:::2005:0422.1:::ethereal-gnome:::0.10.9-1.EL4.1
+advisory:::2005:0423.1:::1108468800:::M:::RHSA-2005:040-01: enscript security update:::
+package:::2005:0423.1:::enscript:::1.6.1-28.3
+advisory:::2005:0424.1:::1108468800:::M:::RHSA-2005:045-01: krb5 security update:::
+package:::2005:0424.1:::krb5-server:::1.3.4-10
+package:::2005:0424.1:::krb5-devel:::1.3.4-10
+package:::2005:0424.1:::krb5-libs:::1.3.4-10
+package:::2005:0424.1:::krb5-workstation:::1.3.4-10
+advisory:::2005:0425.1:::1108468800:::M:::RHSA-2005:053-01: CUPS security update:::&processRunning( "cupsd" )
+package:::2005:0425.1:::cups-devel:::1.1.22-0.rc1.9.6
+package:::2005:0425.1:::cups-libs:::1.1.22-0.rc1.9.6
+package:::2005:0425.1:::cups:::1.1.22-0.rc1.9.6
+advisory:::2005:0426.1:::1108468800:::M:::RHSA-2005:057-01: gpdf security update:::
+package:::2005:0426.1:::gpdf:::2.8.2-4.3
+advisory:::2005:0427.1:::1108468800:::H:::RHSA-2005:060-01: squid security update:::&processRunning( "squid" )
+package:::2005:0427.1:::squid:::2.5.STABLE6-3.4E.3
+advisory:::2005:0428.1:::1108468800:::H:::RHSA-2005:065-01: kdelibs security update:::
+package:::2005:0428.1:::kdelibs-devel:::3.3.1-3.3
+package:::2005:0428.1:::kdelibs:::3.3.1-3.3
+advisory:::2005:0429.1:::1108468800:::M:::RHSA-2005:066-01: kdegraphics security update:::
+package:::2005:0429.1:::kdegraphics-devel:::3.3.1-3.3
+package:::2005:0429.1:::kdegraphics:::3.3.1-3.3
+advisory:::2005:0430.1:::1108468800:::M:::RHSA-2005:071-01: ImageMagick security update:::
+package:::2005:0430.1:::ImageMagick-c++-devel:::6.0.7.1-6
+package:::2005:0430.1:::ImageMagick-devel:::6.0.7.1-6
+package:::2005:0430.1:::ImageMagick-c++:::6.0.7.1-6
+package:::2005:0430.1:::ImageMagick-perl:::6.0.7.1-6
+package:::2005:0430.1:::ImageMagick:::6.0.7.1-6
+advisory:::2005:0431.1:::1108468800:::L:::RHSA-2005:072-01: perl-DBI security update:::
+package:::2005:0431.1:::perl-DBI:::1.40-8
+advisory:::2005:0432.1:::1108468800:::L:::RHSA-2005:073-01: cpio security update:::
+package:::2005:0432.1:::cpio:::2.5-7.EL4.1
+advisory:::2005:0433.1:::1108468800:::L:::RHSA-2005:090-01: htdig security update:::
+package:::2005:0433.1:::htdig:::3.2.0b6-3.40.1
+package:::2005:0433.1:::htdig-web:::3.2.0b6-3.40.1
+advisory:::2005:0434.1:::1108468800:::M:::RHSA-2005:094-01: thunderbird security update:::
+package:::2005:0434.1:::thunderbird:::1.0-1.1.EL4
+advisory:::2005:0435.1:::1108468800:::M:::RHSA-2005:099-01: squirrelmail security update:::
+package:::2005:0435.1:::squirrelmail:::1.4.3a-9.EL4
+advisory:::2005:0436.1:::1108468800:::L:::RHSA-2005:100-01: mod_python security update:::&processRunning( "httpd" )
+package:::2005:0436.1:::mod_python:::3.1.3-5.1
+advisory:::2005:0437.1:::1108468800:::M:::RHSA-2005:103-01: perl security update:::
+package:::2005:0437.1:::perl-suidperl:::5.8.5-12.1.1
+package:::2005:0437.1:::perl:::5.8.5-12.1
+advisory:::2005:0438.1:::1108468800:::L:::RHSA-2005:108-01: python security update:::
+package:::2005:0438.1:::python-tools:::2.3.4-14.1
+package:::2005:0438.1:::python-docs:::2.3.4-14.1
+package:::2005:0438.1:::tkinter:::2.3.4-14.1
+package:::2005:0438.1:::python:::2.3.4-14.1
+package:::2005:0438.1:::python-devel:::2.3.4-14.1
+advisory:::2005:0439.1:::1108468800:::M:::RHSA-2005:110-01: emacs security update:::
+package:::2005:0439.1:::emacs:::21.3-19.EL.1
+package:::2005:0439.1:::emacs-nox:::21.3-19.EL.1
+package:::2005:0439.1:::emacs-leim:::21.3-19.EL.1
+package:::2005:0439.1:::emacs-el:::21.3-19.EL.1
+package:::2005:0439.1:::emacs-common:::21.3-19.EL.1
+advisory:::2005:0440.1:::1108468800:::M:::RHSA-2005:133-01: xemacs security update:::
+package:::2005:0440.1:::xemacs:::21.4.15-10.EL.1
+package:::2005:0440.1:::xemacs-info:::21.4.15-10.EL.1
+package:::2005:0440.1:::xemacs-nox:::21.4.15-10.EL.1
+package:::2005:0440.1:::xemacs-el:::21.4.15-10.EL.1
+package:::2005:0440.1:::xemacs-common:::21.4.15-10.EL.1
+advisory:::2005:0441.1:::1108468800:::L:::RHSA-2005:137-01: mailman security update:::&processRunning( "mailman" )
+package:::2005:0441.1:::mailman:::2.1.5-31.rhel4
+advisory:::2005:0442.1:::1108468800:::L:::RHSA-2005:138-01: postgresql security update:::&processRunning( "postmaster" )
+package:::2005:0442.1:::postgresql-test:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-devel:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-contrib:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-python:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-tcl:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-jdbc:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-server:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-docs:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-libs:::7.4.7-2.RHEL4.1
+package:::2005:0442.1:::postgresql-pl:::7.4.7-2.RHEL4.1
+advisory:::2005:0476.1:::1108728000:::L:::RHSA-2005:092-01: kernel security update:::
+package:::2005:0476.1:::kernel:::2.6.9-5.0.3.EL
+package:::2005:0476.1:::kernel-devel:::2.6.9-5.0.3.EL
+package:::2005:0476.1:::kernel-hugemem:::2.6.9-5.0.3.EL
+package:::2005:0476.1:::kernel-hugemem-devel:::2.6.9-5.0.3.EL
+package:::2005:0476.1:::kernel-smp:::2.6.9-5.0.3.EL
+package:::2005:0476.1:::kernel-smp-devel:::2.6.9-5.0.3.EL
+package:::2005:0476.1:::kernel-doc:::2.6.9-5.0.3.EL
+advisory:::2005:0521.1:::1109678400:::H:::RHSA-2005:176-01: firefox security update:::
+package:::2005:0521.1:::firefox:::1.0.1-1.4.3
+advisory:::2005:0544.1:::1109851200:::M:::RHSA-2005:265-01: RealPlayer security update:::
+package:::2005:0544.1:::RealPlayer:::10.0.3-1
+advisory:::2005:0550.1:::1109851200:::M:::RHSA-2005:271-01: HelixPlayer security update:::
+package:::2005:0550.1:::HelixPlayer:::1.0.3-1
+advisory:::2005:0554.1:::1109937600:::M:::RHSA-2005:277-01: mozilla security update:::
+package:::2005:0554.1:::mozilla:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-chat:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-devel:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-dom-inspector:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-js-debugger:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-mail:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-nspr:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-nspr-devel:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-nss:::1.7.3-19.EL4
+package:::2005:0554.1:::mozilla-nss-devel:::1.7.3-19.EL4
+advisory:::2005:0580.1:::1110456000:::L:::RHSA-2005:215-01: gaim security update:::
+package:::2005:0580.1:::gaim:::1.1.4-1.EL4
+advisory:::2005:0628.1:::1110974400:::M:::RHSA-2005:026-01: tetex security update:::
+package:::2005:0628.1:::tetex:::2.0.2-22.EL4.4
+package:::2005:0628.1:::tetex-afm:::2.0.2-22.EL4.4
+package:::2005:0628.1:::tetex-doc:::2.0.2-22.EL4.4
+package:::2005:0628.1:::tetex-dvips:::2.0.2-22.EL4.4
+package:::2005:0628.1:::tetex-fonts:::2.0.2-22.EL4.4
+package:::2005:0628.1:::tetex-latex:::2.0.2-22.EL4.4
+package:::2005:0628.1:::tetex-xdvi:::2.0.2-22.EL4.4
+advisory:::2005:0630.1:::1110974400:::L:::RHSA-2005:201-01: squid security update:::&processRunning( "squid" )
+package:::2005:0630.1:::squid:::2.5.STABLE6-3.4E.5
+advisory:::2005:0629.1:::1110974400:::L:::RHSA-2005:152-01: postfix security update:::&processRunning( "master" )
+package:::2005:0629.1:::postfix:::2.1.5-4.2.RHEL4
+package:::2005:0629.1:::postfix-pflogsumm:::2.1.5-4.2.RHEL4
+advisory:::2005:0654.1:::1111147200:::H:::RHSA-2005:306-01: ethereal security update:::
+package:::2005:0654.1:::ethereal:::0.10.10-1.EL4.1
+package:::2005:0654.1:::ethereal-gnome:::0.10.10-1.EL4.1
+advisory:::2005:0670.1:::1111406400:::L:::RHSA-2005:235-01: mailman security update:::&processRunning( "mailman" )
+package:::2005:0670.1:::mailman:::2.1.5-33.rhel4
+advisory:::2005:0671.1:::1111406400:::L:::RHSA-2005:300-01: libexif security update:::
+package:::2005:0671.1:::libexif:::0.5.12-5.1
+package:::2005:0671.1:::libexif-devel:::0.5.12-5.1
+advisory:::2005:0681.1:::1111579200:::H:::RHSA-2005:325-01: kdelibs security update:::
+package:::2005:0681.1:::kdelibs-devel:::3.3.1-3.6
+package:::2005:0681.1:::kdelibs:::3.3.1-3.6
+advisory:::2005:0680.1:::1111579200:::M:::RHSA-2005:320-01: ImageMagick security update:::
+package:::2005:0680.1:::ImageMagick-c++-devel:::6.0.7.1-10
+package:::2005:0680.1:::ImageMagick-devel:::6.0.7.1-10
+package:::2005:0680.1:::ImageMagick-c++:::6.0.7.1-10
+package:::2005:0680.1:::ImageMagick-perl:::6.0.7.1-10
+package:::2005:0680.1:::ImageMagick:::6.0.7.1-10
+advisory:::2005:0679.1:::1111579200:::L:::RHSA-2005:232-01: ipsec-tools security update:::
+package:::2005:0679.1:::ipsec-tools:::0.3.3-6
+advisory:::2005:0684.1:::1111665600:::M:::RHSA-2005:335-01: mozilla security update:::
+package:::2005:0684.1:::mozilla:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-chat:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-devel:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-dom-inspector:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-js-debugger:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-mail:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-nspr:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-nspr-devel:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-nss:::1.7.6-1.4.1
+package:::2005:0684.1:::mozilla-nss-devel:::1.7.6-1.4.1
+package:::2005:0684.1:::devhelp:::0.9.2-2.4.3
+package:::2005:0684.1:::devhelp-devel:::0.9.2-2.4.3
+package:::2005:0684.1:::evolution:::2.0.2-14
+package:::2005:0684.1:::evolution-devel:::2.0.2-14
+advisory:::2005:0685.1:::1111665600:::M:::RHSA-2005:336-01: firefox security update:::
+package:::2005:0685.1:::firefox:::1.0.2-1.4.1
+advisory:::2005:0686.1:::1111665600:::M:::RHSA-2005:337-01: thunderbird security update:::
+package:::2005:0686.1:::thunderbird:::1.0.2-1.4.1
+advisory:::2005:0710.1:::1112011200:::M:::RHSA-2005:327-01: telnet security update:::
+package:::2005:0710.1:::telnet:::0.17-31.EL4.2
+package:::2005:0710.1:::telnet-server:::0.17-31.EL4.2
+advisory:::2005:0709.1:::1112011200:::L:::RHSA-2005:334-01: mysql security update:::&processRunning( "mysqld" )
+package:::2005:0709.1:::mysql:::4.1.10a-1.RHEL4.1
+package:::2005:0709.1:::mysql-bench:::4.1.10a-1.RHEL4.1
+package:::2005:0709.1:::mysql-devel:::4.1.10a-1.RHEL4.1
+package:::2005:0709.1:::mysql-server:::4.1.10a-1.RHEL4.1
+advisory:::2005:0735.1:::1112184000:::M:::RHSA-2005:330-01: krb5 security update:::
+package:::2005:0735.1:::krb5-workstation:::1.3.4-12
+package:::2005:0735.1:::krb5-server:::1.3.4-12
+package:::2005:0735.1:::krb5-devel:::1.3.4-12
+package:::2005:0735.1:::krb5-libs:::1.3.4-12
+advisory:::2005:0751.1:::1112356800:::L:::RHSA-2005:344-01: gtk2 security update:::
+package:::2005:0751.1:::gtk2:::2.4.13-14
+package:::2005:0751.1:::gtk2-devel:::2.4.13-14
+advisory:::2005:0772.1:::1112702400:::M:::RHSA-2005:340-01: curl security update:::
+package:::2005:0772.1:::curl:::7.12.1-5.rhel4
+package:::2005:0772.1:::curl-devel:::7.12.1-5.rhel4
+advisory:::2005:0773.1:::1112702400:::L:::RHSA-2005:343-01: gdk-pixbuf security update:::
+package:::2005:0773.1:::gdk-pixbuf:::0.22.0-16.el4
+package:::2005:0773.1:::gdk-pixbuf-devel:::0.22.0-16.el4
+advisory:::2005:0827.1:::1113307200:::L:::RHSA-2005:365-01: gaim security update:::
+package:::2005:0827.1:::gaim:::1.2.1-4.el4
+advisory:::2005:0903.1:::1113998400:::L:::RHSA-2005:332-01: xloadimage security update:::
+package:::2005:0903.1:::xloadimage:::4.1-34.RHEL4
+advisory:::2005:0905.1:::1113998400:::L:::RHSA-2005:366-01: kernel security update:::
+package:::2005:0905.1:::kernel:::2.6.9-5.0.5.EL
+package:::2005:0905.1:::kernel-devel:::2.6.9-5.0.5.EL
+package:::2005:0905.1:::kernel-hugemem:::2.6.9-5.0.5.EL
+package:::2005:0905.1:::kernel-hugemem-devel:::2.6.9-5.0.5.EL
+package:::2005:0905.1:::kernel-smp:::2.6.9-5.0.5.EL
+package:::2005:0905.1:::kernel-smp-devel:::2.6.9-5.0.5.EL
+package:::2005:0905.1:::kernel-doc:::2.6.9-5.0.5.EL
+advisory:::2005:0927.1:::1114084800:::M:::RHSA-2005:363-03: RealPlayer security update:::
+package:::2005:0927.1:::RealPlayer:::10.0.4-0.rc1.1
+advisory:::2005:0925.1:::1114084800:::M:::RHSA-2005:271-01: HelixPlayer security update:::
+package:::2005:0925.1:::HelixPlayer:::1.0.4-1.1.EL4.2
+advisory:::2005:0926.1:::1114084800:::L:::RHSA-2005:383-01: firefox security update:::
+package:::2005:0926.1:::firefox:::1.0.3-1.4.1
+advisory:::2005:0948.1:::1114516800:::M:::RHSA-2005:375-01: openoffice.org security update:::
+package:::2005:0948.1:::openoffice.org:::1.1.2-24.6.0.EL4
+package:::2005:0948.1:::openoffice.org-i18n:::1.1.2-24.6.0.EL4
+package:::2005:0948.1:::openoffice.org-kde:::1.1.2-24.6.0.EL4
+package:::2005:0948.1:::openoffice.org-libs:::1.1.2-24.6.0.EL4
+advisory:::2005:0949.1:::1114516800:::M:::RHSA-2005:387-01: cvs security update:::
+package:::2005:0949.1:::cvs:::1.11.17-7
+advisory:::2005:0955.1:::1114516800:::M:::RHSA-2005:377-01: sharutils security update:::
+package:::2005:0955.1:::sharutils:::4.2.1-22.2
+advisory:::2005:0956.1:::1114516800:::M:::RHSA-2005:386-01: Mozilla security update:::
+package:::2005:0956.1:::mozilla:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-chat:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-devel:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-dom-inspector:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-js-debugger:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-mail:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-nspr:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-nspr-devel:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-nss:::1.7.7-1.4.2
+package:::2005:0956.1:::mozilla-nss-devel:::1.7.7-1.4.2
+package:::2005:0956.1:::devhelp:::0.9.2-2.4.4
+package:::2005:0956.1:::devhelp-devel:::0.9.2-2.4.4
+advisory:::2005:1033.1:::1115208000:::L:::RHSA-2005:381-01: nasm security update:::
+package:::2005:1033.1:::nasm:::0.98.38-3.EL4
+package:::2005:1033.1:::nasm-doc:::0.98.38-3.EL4
+package:::2005:1033.1:::nasm-rdoff:::0.98.38-3.EL4
+advisory:::2005:1035.1:::1115208000:::M:::RHSA-2005:406-01: PHP security update:::&processRunning( "httpd" )
+package:::2005:1035.1:::php:::4.3.9-3.6
+package:::2005:1035.1:::php-devel:::4.3.9-3.6
+package:::2005:1035.1:::php-domxml:::4.3.9-3.6
+package:::2005:1035.1:::php-gd:::4.3.9-3.6
+package:::2005:1035.1:::php-imap:::4.3.9-3.6
+package:::2005:1035.1:::php-ldap:::4.3.9-3.6
+package:::2005:1035.1:::php-mbstring:::4.3.9-3.6
+package:::2005:1035.1:::php-mysql:::4.3.9-3.6
+package:::2005:1035.1:::php-ncurses:::4.3.9-3.6
+package:::2005:1035.1:::php-odbc:::4.3.9-3.6
+package:::2005:1035.1:::php-pear:::4.3.9-3.6
+package:::2005:1035.1:::php-pgsql:::4.3.9-3.6
+package:::2005:1035.1:::php-snmp:::4.3.9-3.6
+package:::2005:1035.1:::php-xmlrpc:::4.3.9-3.6
+advisory:::2005:1034.1:::1115208000:::M:::RHSA-2005:397-01: evolution security update:::
+package:::2005:1034.1:::evolution:::2.0.2-16
+package:::2005:1034.1:::evolution-devel:::2.0.2-16
+advisory:::2005:0926.2:::1115640000:::H:::RHSA-2005:383-01: firefox security update:::
+package:::2005:0926.2:::firefox:::1.0.3-1.4.1
+advisory:::2005:1069.1:::1115812800:::L:::RHSA-2005:417-02: tcpdump security update:::
+package:::2005:1069.1:::arpwatch:::2.1a13-9.RHEL4
+package:::2005:1069.1:::libpcap:::0.8.3-9.RHEL4
+package:::2005:1069.1:::tcpdump:::3.8.2-9.RHEL4
+advisory:::2005:1071.1:::1115812800:::M:::RHSA-2005:429-01: gaim security update:::
+package:::2005:1071.1:::gaim:::1.2.1-6.el4
+advisory:::2005:1068.1:::1115812800:::M:::RHSA-2005:412-01: openmotif security update:::
+package:::2005:1068.1:::openmotif:::2.2.3-9.RHEL4.1
+package:::2005:1068.1:::openmotif-devel:::2.2.3-9.RHEL4.1
+package:::2005:1068.1:::openmotif21:::2.1.30-11.RHEL4.4
+advisory:::2005:1117.1:::1116417600:::M:::RHSA-2005:408-01: cyrus-imapd security update:::
+package:::2005:1117.1:::cyrus-imapd:::2.2.12-3.RHEL4.1
+package:::2005:1117.1:::cyrus-imapd-devel:::2.2.12-3.RHEL4.1
+package:::2005:1117.1:::cyrus-imapd-murder:::2.2.12-3.RHEL4.1
+package:::2005:1117.1:::cyrus-imapd-nntp:::2.2.12-3.RHEL4.1
+package:::2005:1117.1:::cyrus-imapd-utils:::2.2.12-3.RHEL4.1
+package:::2005:1117.1:::perl-Cyrus:::2.2.12-3.RHEL4.1
+advisory:::2005:1118.1:::1116417600:::M:::RHSA-2005:393-01: kdelibs security update:::
+package:::2005:1118.1:::kdelibs-devel:::3.3.1-3.10
+package:::2005:1118.1:::kdelibs:::3.3.1-3.10
+advisory:::2005:1146.1:::1116849600:::L:::RHSA-2005:435-01: mozilla security update:::
+package:::2005:1146.1:::mozilla:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-chat:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-devel:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-dom-inspector:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-js-debugger:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-mail:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-nss:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-nss-devel:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-nspr:::1.7.8-1.4.1
+package:::2005:1146.1:::mozilla-nspr-devel:::1.7.8-1.4.1
+advisory:::2005:1147.1:::1116849600:::L:::RHSA-2005:434-01: firefox security update:::
+package:::2005:1147.1:::firefox:::1.0.4-1.4.1
+advisory:::2005:1157.1:::1116936000:::M:::RHSA-2005:427-01: ethereal security update:::
+package:::2005:1157.1:::ethereal:::0.10.11-1.EL4.1
+package:::2005:1157.1:::ethereal-gnome:::0.10.11-1.EL4.1
+advisory:::2005:1160.1:::1117022400:::M:::RHSA-2005:413-01: ImageMagick security update:::
+package:::2005:1160.1:::ImageMagick:::6.0.7.1-11
+package:::2005:1160.1:::ImageMagick-c++:::6.0.7.1-11
+package:::2005:1160.1:::ImageMagick-c++-devel:::6.0.7.1-11
+package:::2005:1160.1:::ImageMagick-devel:::6.0.7.1-11
+package:::2005:1160.1:::ImageMagick-perl:::6.0.7.1-11
+advisory:::2005:1182.1:::1117627200:::M:::RHSA-2005:433-01: postgresql security update:::&processRunning( "postmaster" )
+package:::2005:1182.1:::postgresql:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-contrib:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-devel:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-docs:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-jdbc:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-libs:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-pl:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-python:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-server:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-tcl:::7.4.8-1.RHEL4.1
+package:::2005:1182.1:::postgresql-test:::7.4.8-1.RHEL4.1
+advisory:::2005:1181.1:::1117627200:::L:::RHSA-2005:430-01: gnutls security update:::
+package:::2005:1181.1:::gnutls:::1.0.20-3.2.1
+package:::2005:1181.1:::gnutls-devel:::1.0.20-3.2.1
+advisory:::2005:1188.1:::1117713600:::L:::RHSA-2005:476-01: openssl security update:::
+package:::2005:1188.1:::openssl:::0.9.7a-43.2
+package:::2005:1188.1:::openssl-devel:::0.9.7a-43.2
+package:::2005:1188.1:::openssl-perl:::0.9.7a-43.2
+package:::2005:1188.1:::openssl096b:::0.9.6b-22.3
+advisory:::2005:1190.1:::1117713600:::L:::RHSA-2005:480-01: ImageMagick security update:::
+package:::2005:1190.1:::ImageMagick:::6.0.7.1-12
+package:::2005:1190.1:::ImageMagick-c++:::6.0.7.1-12
+package:::2005:1190.1:::ImageMagick-c++-devel:::6.0.7.1-12
+package:::2005:1190.1:::ImageMagick-devel:::6.0.7.1-12
+package:::2005:1190.1:::ImageMagick-perl:::6.0.7.1-12
+advisory:::2005:1208.1:::1118232000:::L:::RHSA-2005:165-01: rsh security update:::
+package:::2005:1208.1:::rsh:::0.17-25.3
+package:::2005:1208.1:::rsh-server:::0.17-25.3
+advisory:::2005:1209.1:::1118232000:::L:::RHSA-2005:420-01: Updated kernel packages available for Red Hat:::
+package:::2005:1209.1:::kernel:::2.6.9-11.EL
+package:::2005:1209.1:::kernel-devel:::2.6.9-11.EL
+package:::2005:1209.1:::kernel-hugemem:::2.6.9-11.EL
+package:::2005:1209.1:::kernel-hugemem-devel:::2.6.9-11.EL
+package:::2005:1209.1:::kernel-smp:::2.6.9-11.EL
+package:::2005:1209.1:::kernel-smp-devel:::2.6.9-11.EL
+package:::2005:1209.1:::kernel-doc:::2.6.9-11.EL
+advisory:::2005:1219.1:::1118232000:::M:::RHSA-2005:198-01: xorg-x11 security update:::
+package:::2005:1219.1:::xorg-x11:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-Xdmx:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-Xnest:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-Xvfb:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-devel:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-doc:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-font-utils:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-libs:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-sdk:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-tools:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-twm:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-xauth:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-xdm:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::xorg-x11-xfs:::6.8.2-1.EL.13.6
+package:::2005:1219.1:::fonts-xorg-100dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-75dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-ISO8859-14-100dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-ISO8859-14-75dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-ISO8859-15-100dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-ISO8859-15-75dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-ISO8859-2-100dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-ISO8859-2-75dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-ISO8859-9-100dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-ISO8859-9-75dpi:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-base:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-cyrillic:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-syriac:::6.8.1.1-1.EL.1
+package:::2005:1219.1:::fonts-xorg-truetype:::6.8.1.1-1.EL.1
+advisory:::2005:1218.1:::1118232000:::L:::RHSA-2005:102-01: dbus security update:::
+package:::2005:1218.1:::dbus:::0.22-12.EL.2
+package:::2005:1218.1:::dbus-devel:::0.22-12.EL.2
+package:::2005:1218.1:::dbus-glib:::0.22-12.EL.2
+package:::2005:1218.1:::dbus-python:::0.22-12.EL.2
+package:::2005:1218.1:::dbus-x11:::0.22-12.EL.2
+advisory:::2005:1245.1:::1118664000:::M:::RHSA-2005:499-01: gedit security update:::
+package:::2005:1245.1:::gedit:::2.8.1-4
+package:::2005:1245.1:::gedit-devel:::2.8.1-4
+advisory:::2005:1253.1:::1118664000:::M:::RHSA-2005:506-01: mikmod security update:::
+package:::2005:1253.1:::mikmod:::3.1.6-32.EL4
+package:::2005:1253.1:::mikmod-devel:::3.1.6-32.EL4
+advisory:::2005:1241.1:::1118664000:::L:::RHSA-2005:502-01: sysreport security update:::
+package:::2005:1241.1:::sysreport:::1.3.15-2
+advisory:::2005:1242.1:::1118664000:::L:::RHSA-2005:357-01: gzip security update:::
+package:::2005:1242.1:::gzip:::1.3.3-15.rhel4
+advisory:::2005:1256.1:::1118664000:::L:::RHSA-2005:410-01: gftp security update:::
+package:::2005:1256.1:::gftp:::2.0.17-5
+advisory:::2005:1255.1:::1118664000:::L:::RHSA-2005:505-01: tcpdump security update:::
+package:::2005:1255.1:::arpwatch:::2.1a13-10.RHEL4
+package:::2005:1255.1:::libpcap:::0.8.3-10.RHEL4
+package:::2005:1255.1:::tcpdump:::3.8.2-10.RHEL4
+advisory:::2005:1273.1:::1118750400:::L:::RHSA-2005:504-00: telnet security update:::
+package:::2005:1273.1:::telnet:::0.17-31.EL4.3
+package:::2005:1273.1:::telnet-server:::0.17-31.EL4.3
+advisory:::2005:1272.1:::1118750400:::L:::RHSA-2005:415-01: squid security update:::&processRunning( "squid" )
+package:::2005:1272.1:::squid:::2.5.STABLE6-3.4E.9
+advisory:::2005:1290.1:::1118923200:::L:::RHSA-2005:474-01: bzip2 security update:::
+package:::2005:1290.1:::bzip2:::1.0.2-13.EL4.2
+package:::2005:1290.1:::bzip2-devel:::1.0.2-13.EL4.2
+package:::2005:1290.1:::bzip2-libs:::1.0.2-13.EL4.2
+advisory:::2005:1300.1:::1119009600:::L:::RHSA-2005:518-01: gaim security update:::
+package:::2005:1300.1:::gaim:::1.3.1-0.el4
+advisory:::2005:1345.1:::1119528000:::L:::RHSA-2005:498-01: spamassassin security update:::
+package:::2005:1345.1:::spamassassin:::3.0.4-1.el4
+advisory:::2005:1346.1:::1119528000:::M:::RHSA-2005:517-01: HelixPlayer security update:::
+package:::2005:1346.1:::HelixPlayer:::1.0.5-0.EL4.1
+advisory:::2005:1347.1:::1119528000:::M:::RHSA-2005:523-01: RealPlayer security update:::
+package:::2005:1347.1:::RealPlayer:::10.0.5-1
+advisory:::2005:1366.1:::1120046400:::L:::RHSA-2005:535-04: sudo security update:::
+package:::2005:1366.1:::sudo:::1.6.7p5-30.1.1
+advisory:::2005:1415.1:::1120651200:::M:::RHSA-2005:523-02: RealPlayer security update:::
+package:::2005:1415.1:::RealPlayer:::10.0.5-2
+advisory:::2005:1416.1:::1120651200:::L:::RHSA-2005:569-01: zlib security update:::
+package:::2005:1416.1:::zlib:::1.2.1.2-1.1
+package:::2005:1416.1:::zlib-devel:::1.2.1.2-1.1
+advisory:::2005:1431.1:::1120824000:::M:::RHSA-2005:564-01: php security update:::&processRunning( "httpd" )
+package:::2005:1431.1:::php:::4.3.9-3.7
+package:::2005:1431.1:::php-devel:::4.3.9-3.7
+package:::2005:1431.1:::php-domxml:::4.3.9-3.7
+package:::2005:1431.1:::php-gd:::4.3.9-3.7
+package:::2005:1431.1:::php-imap:::4.3.9-3.7
+package:::2005:1431.1:::php-ldap:::4.3.9-3.7
+package:::2005:1431.1:::php-mbstring:::4.3.9-3.7
+package:::2005:1431.1:::php-mysql:::4.3.9-3.7
+package:::2005:1431.1:::php-ncurses:::4.3.9-3.7
+package:::2005:1431.1:::php-odbc:::4.3.9-3.7
+package:::2005:1431.1:::php-pear:::4.3.9-3.7
+package:::2005:1431.1:::php-pgsql:::4.3.9-3.7
+package:::2005:1431.1:::php-snmp:::4.3.9-3.7
+package:::2005:1431.1:::php-xmlrpc:::4.3.9-3.7
+advisory:::2005:1454.1:::1121083200:::M:::RHSA-2005:575-01: Adobe Acrobat Reader security update:::
+package:::2005:1454.1:::acroread:::7.0.0-4.2.0.EL4
+package:::2005:1454.1:::acroread-plugin:::7.0.0-4.2.0.EL4
+advisory:::2005:1487.1:::1121169600:::L:::RHSA-2005:567-02: krb5 security update:::
+package:::2005:1487.1:::krb5-workstation:::1.3.4-17
+package:::2005:1487.1:::krb5-server:::1.3.4-17
+package:::2005:1487.1:::krb5-devel:::1.3.4-17
+package:::2005:1487.1:::krb5-libs:::1.3.4-17
+advisory:::2005:1576.1:::1121947200:::M:::RHSA-2005:586-01: firefox security update:::
+package:::2005:1576.1:::firefox:::1.0.6-1.4.1
+advisory:::2005:1600.1:::1122033600:::M:::RHSA-2005:639-01: kdenetwork security update:::
+package:::2005:1600.1:::kdenetwork:::3.3.1-2.3
+package:::2005:1600.1:::kdenetwork-devel:::3.3.1-2.3
+package:::2005:1600.1:::kdenetwork-nowlistening:::3.3.1-2.3
+advisory:::2005:1601.1:::1122033600:::M:::RHSA-2005:601-01: thunderbird security update:::
+package:::2005:1601.1:::thunderbird:::1.0.6-1.4.1
+advisory:::2005:1598.1:::1122033600:::L:::RHSA-2005:584-01: zlib security update:::
+package:::2005:1598.1:::zlib:::1.2.1.2-1.2
+package:::2005:1598.1:::zlib-devel:::1.2.1.2-1.2
+advisory:::2005:1599.1:::1122033600:::M:::RHSA-2005:587-01: mozilla security update:::
+package:::2005:1599.1:::devhelp:::0.9.2-2.4.6
+package:::2005:1599.1:::devhelp-devel:::0.9.2-2.4.6
+package:::2005:1599.1:::mozilla:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-chat:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-devel:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-dom-inspector:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-js-debugger:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-mail:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-nss:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-nss-devel:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-nspr:::1.7.10-1.4.1
+package:::2005:1599.1:::mozilla-nspr-devel:::1.7.10-1.4.1
+advisory:::2005:1597.1:::1122033600:::L:::RHSA-2005:378-01: cpio security update:::
+package:::2005:1597.1:::cpio:::2.5-8.RHEL4
+advisory:::2005:1619.1:::1122292800:::M:::RHSA-2005:640-01: fetchmail security update:::
+package:::2005:1619.1:::fetchmail:::6.2.5-6.el4.2
+advisory:::2005:1618.1:::1122292800:::M:::RHSA-2005:582-01: httpd security update:::&processRunning( "httpd" )
+package:::2005:1618.1:::httpd:::2.0.52-12.1.ent
+package:::2005:1618.1:::httpd-devel:::2.0.52-12.1.ent
+package:::2005:1618.1:::httpd-manual:::2.0.52-12.1.ent
+package:::2005:1618.1:::httpd-suexec:::2.0.52-12.1.ent
+package:::2005:1618.1:::mod_ssl:::2.0.52-12.1.ent
+advisory:::2005:1636.1:::1122465600:::L:::RHSA-2005:612-01: kdelibs security update:::
+package:::2005:1636.1:::kdelibs-devel:::3.3.1-3.11
+package:::2005:1636.1:::kdelibs:::3.3.1-3.11
+advisory:::2005:1686.1:::1123070400:::L:::RHSA-2005:595-01: SquirrelMail security update:::
+package:::2005:1686.1:::squirrelmail:::1.4.3a-11.EL4
+advisory:::2005:1699.1:::1123243200:::M:::RHSA-2005:543-01: ruby security update:::
+package:::2005:1699.1:::irb:::1.8.1-7.EL4.1
+package:::2005:1699.1:::ruby:::1.8.1-7.EL4.1
+package:::2005:1699.1:::ruby-devel:::1.8.1-7.EL4.1
+package:::2005:1699.1:::ruby-docs:::1.8.1-7.EL4.1
+package:::2005:1699.1:::ruby-libs:::1.8.1-7.EL4.1
+package:::2005:1699.1:::ruby-mode:::1.8.1-7.EL4.1
+package:::2005:1699.1:::ruby-tcltk:::1.8.1-7.EL4.1
+advisory:::2005:1698.1:::1123243200:::L:::RHSA-2005:595-02: squirrelmail security update:::
+package:::2005:1698.1:::squirrelmail:::1.4.3a-12.EL4
+advisory:::2005:1715.1:::1123588800:::L:::RHSA-2005:598-01: sysreport security update:::
+package:::2005:1715.1:::sysreport:::1.3.15-5
+advisory:::2005:1718.1:::1123588800:::L:::RHSA-2005:706-01: cups security update:::&processRunning( "cupsd" )
+package:::2005:1718.1:::cups:::1.1.22-0.rc1.9.7
+package:::2005:1718.1:::cups-devel:::1.1.22-0.rc1.9.7
+package:::2005:1718.1:::cups-libs:::1.1.22-0.rc1.9.7
+advisory:::2005:1716.1:::1123588800:::L:::RHSA-2005:670-01: xpdf security update:::
+package:::2005:1716.1:::xpdf:::3.00-11.8
+advisory:::2005:1717.1:::1123588800:::L:::RHSA-2005:671-01: kdegraphics security update:::
+package:::2005:1717.1:::kdegraphics-devel:::3.3.1-3.4
+package:::2005:1717.1:::kdegraphics:::3.3.1-3.4
+advisory:::2005:1728.1:::1123675200:::H:::RHSA-2005:687-01: ethereal security update:::
+package:::2005:1728.1:::ethereal:::0.10.12-1.EL4.1
+package:::2005:1728.1:::ethereal-gnome:::0.10.12-1.EL4.1
+advisory:::2005:1727.1:::1123675200:::M:::RHSA-2005:627-01: gaim security update:::
+package:::2005:1727.1:::gaim:::1.3.1-0.el4.3
+advisory:::2005:1729.1:::1123675200:::L:::RHSA-2005:708-01: gpdf security update:::
+package:::2005:1729.1:::gpdf:::2.8.2-4.4
+advisory:::2005:1780.1:::1124280000:::M:::RHSA-2005:750-01: Adobe Acrobat Reader security update:::
+package:::2005:1780.1:::acroread:::7.0.1-1.2.0.EL4
+package:::2005:1780.1:::acroread-plugin:::7.0.1-1.2.0.EL4
+advisory:::2005:1804.1:::1124452800:::M:::RHSA-2005:748-01: php security update:::&processRunning( "httpd" )
+package:::2005:1804.1:::php:::4.3.9-3.8
+package:::2005:1804.1:::php-devel:::4.3.9-3.8
+package:::2005:1804.1:::php-domxml:::4.3.9-3.8
+package:::2005:1804.1:::php-gd:::4.3.9-3.8
+package:::2005:1804.1:::php-imap:::4.3.9-3.8
+package:::2005:1804.1:::php-ldap:::4.3.9-3.8
+package:::2005:1804.1:::php-mbstring:::4.3.9-3.8
+package:::2005:1804.1:::php-mysql:::4.3.9-3.8
+package:::2005:1804.1:::php-ncurses:::4.3.9-3.8
+package:::2005:1804.1:::php-odbc:::4.3.9-3.8
+package:::2005:1804.1:::php-pear:::4.3.9-3.8
+package:::2005:1804.1:::php-pgsql:::4.3.9-3.8
+package:::2005:1804.1:::php-snmp:::4.3.9-3.8
+package:::2005:1804.1:::php-xmlrpc:::4.3.9-3.8
+advisory:::2005:1808.1:::1124712000:::L:::RHSA-2005:743-01: netpbm security update:::
+package:::2005:1808.1:::netpbm:::10.25-2.EL4.1
+package:::2005:1808.1:::netpbm-devel:::10.25-2.EL4.1
+package:::2005:1808.1:::netpbm-progs:::10.25-2.EL4.1
+advisory:::2005:1809.1:::1124712000:::L:::RHSA-2005:745-01: vim security update:::
+package:::2005:1809.1:::vim-X11:::6.3.046-0.40E.7
+package:::2005:1809.1:::vim-common:::6.3.046-0.40E.7
+package:::2005:1809.1:::vim-enhanced:::6.3.046-0.40E.7
+package:::2005:1809.1:::vim-minimal:::6.3.046-0.40E.7
+advisory:::2005:1870.1:::1125403200:::M:::RHSA-2005:267-01: Evolution security update:::
+package:::2005:1870.1:::evolution:::2.0.2-16.3
+package:::2005:1870.1:::evolution-devel:::2.0.2-16.3
+advisory:::2005:1922.1:::1126180800:::L:::RHSA-2005:756-01: cvs security update:::
+package:::2005:1922.1:::cvs:::1.11.17-8
+advisory:::2005:1923.1:::1126180800:::L:::RHSA-2005:608-01: httpd security update:::&processRunning( "httpd" )
+package:::2005:1923.1:::httpd:::2.0.52-12.2.ent
+package:::2005:1923.1:::httpd-devel:::2.0.52-12.2.ent
+package:::2005:1923.1:::httpd-manual:::2.0.52-12.2.ent
+package:::2005:1923.1:::httpd-suexec:::2.0.52-12.2.ent
+package:::2005:1923.1:::mod_ssl:::2.0.52-12.2.ent
+advisory:::2005:1945.1:::1126180800:::M:::RHSA-2005:761-02: pcre security update:::
+package:::2005:1945.1:::pcre:::4.5-3.2.RHEL4
+package:::2005:1945.1:::pcre-devel:::4.5-3.2.RHEL4
+advisory:::2005:1952.1:::1126267200:::L:::RHSA-2005:358-01: exim security update:::
+package:::2005:1952.1:::exim-mon:::4.43-1.RHEL4.5
+package:::2005:1952.1:::exim:::4.43-1.RHEL4.5
+package:::2005:1952.1:::exim-sa:::4.43-1.RHEL4.5
+package:::2005:1952.1:::exim-doc:::4.43-1.RHEL4.5
+advisory:::2005:1957.1:::1126526400:::M:::RHSA-2005:768-01: firefox security update:::
+package:::2005:1957.1:::firefox:::1.0.6-1.4.2
+advisory:::2005:1958.1:::1126526400:::M:::RHSA-2005:769-01: mozilla security update:::
+package:::2005:1958.1:::mozilla:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-chat:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-devel:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-dom-inspector:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-js-debugger:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-mail:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-nss:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-nss-devel:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-nspr:::1.7.10-1.4.2
+package:::2005:1958.1:::mozilla-nspr-devel:::1.7.10-1.4.2
+advisory:::2005:1976.1:::1126699200:::L:::RHSA-2005:396-01: xorg-x11 security update:::
+package:::2005:1976.1:::xorg-x11:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-Xdmx:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-Xnest:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-Xvfb:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-devel:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-doc:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-font-utils:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-libs:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-sdk:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-tools:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-twm:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-xauth:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-xdm:::6.8.2-1.EL.13.16
+package:::2005:1976.1:::xorg-x11-xfs:::6.8.2-1.EL.13.16
+advisory:::2005:2001.1:::1127131200:::L:::RHSA-2005:766-01: squid security update:::&processRunning( "squid" )
+package:::2005:2001.1:::squid:::2.5.STABLE6-3.4E.11
+advisory:::2005:2042.1:::1127476800:::M:::RHSA-2005:789-01: mozilla security update:::test ! -f /etc/c4eb-release
+package:::2005:2042.1:::devhelp:::0.9.2-2.4.7
+package:::2005:2042.1:::devhelp-devel:::0.9.2-2.4.7
+package:::2005:2042.1:::mozilla:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-chat:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-devel:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-dom-inspector:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-js-debugger:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-mail:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-nss:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-nss-devel:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-nspr:::1.7.12-1.4.1
+package:::2005:2042.1:::mozilla-nspr-devel:::1.7.12-1.4.1
+advisory:::2005:2041.1:::1127476800:::M:::RHSA-2005:785-01: firefox security update:::
+package:::2005:2041.1:::firefox:::1.0.7-1.4.1
+advisory:::2005:2067.1:::1127908800:::M:::RHSA-2005:762-02: RealPlayer security update:::
+package:::2005:2067.1:::RealPlayer:::10.0.6-2
+advisory:::2005:2070.1:::1127908800:::M:::RHSA-2005:788-01: HelixPlayer security update:::
+package:::2005:2070.1:::HelixPlayer:::1.0.6-0.EL4.1
+advisory:::2005:2069.1:::1127908800:::L:::RHSA-2005:772-01: cups security update:::&processRunning( "cupsd" )
+package:::2005:2069.1:::cups:::1.1.22-0.rc1.9.8
+package:::2005:2069.1:::cups-devel:::1.1.22-0.rc1.9.8
+package:::2005:2069.1:::cups-libs:::1.1.22-0.rc1.9.8
+advisory:::2005:2068.1:::1127908800:::L:::RHSA-2005:771-01: wget security update:::
+package:::2005:2068.1:::wget:::1.10.1-2.4E.1
+advisory:::2005:2131.1:::1128513600:::M:::RHSA-2005:673-01: binutils security update:::
+package:::2005:2131.1:::binutils:::2.15.92.0.2-15
+advisory:::2005:2128.1:::1128513600:::L:::RHSA-2005:395-01: net-snmp security update:::&processRunning( "(snmpd|snmptrapd)" )
+package:::2005:2128.1:::net-snmp:::5.1.2-11.EL4.6
+package:::2005:2128.1:::net-snmp-devel:::5.1.2-11.EL4.6
+package:::2005:2128.1:::net-snmp-libs:::5.1.2-11.EL4.6
+package:::2005:2128.1:::net-snmp-perl:::5.1.2-11.EL4.6
+package:::2005:2128.1:::net-snmp-utils:::5.1.2-11.EL4.6
+advisory:::2005:2129.1:::1128513600:::L:::RHSA-2005:514-01: Updated kernel packages available for Red Hat:::
+package:::2005:2129.1:::kernel:::2.6.9-22.EL
+package:::2005:2129.1:::kernel-devel:::2.6.9-22.EL
+package:::2005:2129.1:::kernel-hugemem:::2.6.9-22.EL
+package:::2005:2129.1:::kernel-hugemem-devel:::2.6.9-22.EL
+package:::2005:2129.1:::kernel-smp:::2.6.9-22.EL
+package:::2005:2129.1:::kernel-smp-devel:::2.6.9-22.EL
+package:::2005:2129.1:::kernel-doc:::2.6.9-22.EL
+advisory:::2005:2130.1:::1128513600:::L:::RHSA-2005:527-01: openssh security update:::&processRunning( "sshd" )
+package:::2005:2130.1:::openssh:::3.9p1-8.RHEL4.9
+package:::2005:2130.1:::openssh-askpass:::3.9p1-8.RHEL4.9
+package:::2005:2130.1:::openssh-askpass-gnome:::3.9p1-8.RHEL4.9
+package:::2005:2130.1:::openssh-clients:::3.9p1-8.RHEL4.9
+package:::2005:2130.1:::openssh-server:::3.9p1-8.RHEL4.9
+advisory:::2005:2132.1:::1128513600:::L:::RHSA-2005:674-01: perl security update:::
+package:::2005:2132.1:::perl:::5.8.5-16.RHEL4
+package:::2005:2132.1:::perl-suidperl:::5.8.5-16.RHEL4
+advisory:::2005:2133.1:::1128513600:::L:::RHSA-2005:685-01: mysql security update:::&processRunning( "mysqld" )
+package:::2005:2133.1:::mysql:::4.1.12-3.RHEL4.1
+package:::2005:2133.1:::mysql-bench:::4.1.12-3.RHEL4.1
+package:::2005:2133.1:::mysql-devel:::4.1.12-3.RHEL4.1
+package:::2005:2133.1:::mysql-server:::4.1.12-3.RHEL4.1
+advisory:::2005:2135.1:::1128600000:::L:::RHSA-2005:709-01: gdb security update:::
+package:::2005:2135.1:::gdb:::6.3.0.0-1.63
+advisory:::2005:2138.1:::1128600000:::L:::RHSA-2005:346-01: slocate security update:::
+package:::2005:2138.1:::slocate:::2.7-13.el4.6
+advisory:::2005:2137.1:::1128600000:::L:::RHSA-2005:361-01: vixie-cron security update:::
+package:::2005:2137.1:::vixie-cron:::4.1-36.EL4
+advisory:::2005:2148.1:::1128686400:::M:::RHSA-2005:791-01: thunderbird security update:::
+package:::2005:2148.1:::thunderbird:::1.0.7-1.4.1
+advisory:::2005:2194.1:::1129032000:::L:::RHSA-2005:782-01: util-linux and mount security update:::
+package:::2005:2194.1:::util-linux:::2.12a-16.EL4.12
+advisory:::2005:2195.1:::1129032000:::L:::RHSA-2005:799-01: ruby security update:::
+package:::2005:2195.1:::irb:::1.8.1-7.EL4.2
+package:::2005:2195.1:::ruby:::1.8.1-7.EL4.2
+package:::2005:2195.1:::ruby-devel:::1.8.1-7.EL4.2
+package:::2005:2195.1:::ruby-docs:::1.8.1-7.EL4.2
+package:::2005:2195.1:::ruby-libs:::1.8.1-7.EL4.2
+package:::2005:2195.1:::ruby-mode:::1.8.1-7.EL4.2
+package:::2005:2195.1:::ruby-tcltk:::1.8.1-7.EL4.2
+advisory:::2005:2196.1:::1129032000:::L:::RHSA-2005:800-01: openssl security update:::
+package:::2005:2196.1:::openssl:::0.9.7a-43.4
+package:::2005:2196.1:::openssl-devel:::0.9.7a-43.4
+package:::2005:2196.1:::openssl-perl:::0.9.7a-43.4
+package:::2005:2196.1:::openssl096b:::0.9.6b-22.4
+advisory:::2005:2251.1:::1129550400:::M:::RHSA-2005:803-01: lynx security update:::
+package:::2005:2251.1:::lynx:::2.8.5-18.1
+advisory:::2005:2250.1:::1129550400:::L:::RHSA-2005:767-01: openldap and nss_ldap security update:::
+package:::2005:2250.1:::compat-openldap:::2.1.30-4
+package:::2005:2250.1:::nss_ldap:::226-10
+package:::2005:2250.1:::openldap:::2.2.13-4
+package:::2005:2250.1:::openldap-clients:::2.2.13-4
+package:::2005:2250.1:::openldap-devel:::2.2.13-4
+package:::2005:2250.1:::openldap-servers:::2.2.13-4
+package:::2005:2250.1:::openldap-servers-sql:::2.2.13-4
+advisory:::2005:2267.1:::1129636800:::M:::RHSA-2005:793-01: netpbm security update:::
+package:::2005:2267.1:::netpbm:::10.25-2.EL4.2
+package:::2005:2267.1:::netpbm-devel:::10.25-2.EL4.2
+package:::2005:2267.1:::netpbm-progs:::10.25-2.EL4.2
+advisory:::2005:2265.1:::1129636800:::L:::RHSA-2005:802-01: xloadimage security update:::
+package:::2005:2265.1:::xloadimage:::4.1-36.RHEL4
+advisory:::2005:2320.1:::1130328000:::M:::RHSA-2005:809-01: ethereal security update:::
+package:::2005:2320.1:::ethereal:::0.10.13-1.EL4.1
+package:::2005:2320.1:::ethereal-gnome:::0.10.13-1.EL4.1
+advisory:::2005:2339.1:::1130414400:::L:::RHSA-2005:805-01: pam security update:::
+package:::2005:2339.1:::pam:::0.77-66.13
+package:::2005:2339.1:::pam-devel:::0.77-66.13
+advisory:::2005:2340.1:::1130414400:::L:::RHSA-2005:808-02: kernel security update:::
+package:::2005:2340.1:::kernel:::2.6.9-22.0.1.EL
+package:::2005:2340.1:::kernel-devel:::2.6.9-22.0.1.EL
+package:::2005:2340.1:::kernel-hugemem:::2.6.9-22.0.1.EL
+package:::2005:2340.1:::kernel-hugemem-devel:::2.6.9-22.0.1.EL
+package:::2005:2340.1:::kernel-smp:::2.6.9-22.0.1.EL
+package:::2005:2340.1:::kernel-smp-devel:::2.6.9-22.0.1.EL
+package:::2005:2340.1:::kernel-doc:::2.6.9-22.0.1.EL
+advisory:::2005:2373.1:::1131019200:::M:::RHSA-2005:812-00: wget security update:::
+package:::2005:2373.1:::wget:::1.10.2-0.40E
+advisory:::2005:2372.1:::1131019200:::M:::RHSA-2005:807-00: curl security update:::
+package:::2005:2372.1:::curl:::7.12.1-6.rhel4
+package:::2005:2372.1:::curl-devel:::7.12.1-6.rhel4
+advisory:::2005:2371.1:::1131019200:::L:::RHSA-2005:830-00: openssl096b security update:::
+package:::2005:2371.1:::openssl096b:::0.9.6b-22.42
+advisory:::2005:2386.1:::1131105600:::M:::RHSA-2005:828-01: libungif security update:::
+package:::2005:2386.1:::libungif:::4.1.3-1.el4.2
+package:::2005:2386.1:::libungif-devel:::4.1.3-1.el4.2
+package:::2005:2386.1:::libungif-progs:::4.1.3-1.el4.2
+advisory:::2005:2442.1:::1131624000:::M:::RHSA-2005:835-00: flash-plugin security update:::
+package:::2005:2442.1:::flash-plugin:::7.0.61-1.EL4
+advisory:::2005:2451.1:::1131710400:::L:::RHSA-2005:825-01: lm_sensors security update:::
+package:::2005:2451.1:::lm_sensors:::2.8.7-2.40.3
+package:::2005:2451.1:::lm_sensors-devel:::2.8.7-2.40.3
+advisory:::2005:2452.1:::1131710400:::L:::RHSA-2005:831-01: php security update:::&processRunning( "httpd" )
+package:::2005:2452.1:::php:::4.3.9-3.9
+package:::2005:2452.1:::php-devel:::4.3.9-3.9
+package:::2005:2452.1:::php-domxml:::4.3.9-3.9
+package:::2005:2452.1:::php-gd:::4.3.9-3.9
+package:::2005:2452.1:::php-imap:::4.3.9-3.9
+package:::2005:2452.1:::php-ldap:::4.3.9-3.9
+package:::2005:2452.1:::php-mbstring:::4.3.9-3.9
+package:::2005:2452.1:::php-mysql:::4.3.9-3.9
+package:::2005:2452.1:::php-ncurses:::4.3.9-3.9
+package:::2005:2452.1:::php-odbc:::4.3.9-3.9
+package:::2005:2452.1:::php-pear:::4.3.9-3.9
+package:::2005:2452.1:::php-pgsql:::4.3.9-3.9
+package:::2005:2452.1:::php-snmp:::4.3.9-3.9
+package:::2005:2452.1:::php-xmlrpc:::4.3.9-3.9
+advisory:::2005:2458.1:::1131969600:::M:::RHSA-2005:839-01: lynx security update:::
+package:::2005:2458.1:::lynx:::2.8.5-18.2
+advisory:::2005:2483.1:::1132056000:::M:::RHSA-2005:810-01: gdk-pixbuf security update:::
+package:::2005:2483.1:::gdk-pixbuf:::0.22.0-17.el4.3
+package:::2005:2483.1:::gdk-pixbuf-devel:::0.22.0-17.el4.3
+advisory:::2005:2484.1:::1132056000:::M:::RHSA-2005:811-01: gtk2 security update:::
+package:::2005:2484.1:::gtk2:::2.4.13-18
+package:::2005:2484.1:::gtk2-devel:::2.4.13-18
+advisory:::2005:2585.1:::1133870400:::M:::RHSA-2005:840-01: xpdf security update:::
+package:::2005:2585.1:::xpdf:::3.00-11.9
+advisory:::2005:2586.1:::1133870400:::L:::RHSA-2005:848-01: libc-client security update:::
+package:::2005:2586.1:::libc-client:::2002e-14
+package:::2005:2586.1:::libc-client-devel:::2002e-14
+advisory:::2005:2683.1:::1135166400:::M:::RHSA-2005:880-01: perl security update:::
+package:::2005:2683.1:::perl:::5.8.5-24.RHEL4
+package:::2005:2683.1:::perl-suidperl:::5.8.5-24.RHEL4
+advisory:::2005:2684.1:::1135166400:::M:::RHSA-2005:875-01: curl security update:::
+package:::2005:2684.1:::curl:::7.12.1-8.rhel4
+package:::2005:2684.1:::curl-devel:::7.12.1-8.rhel4
+advisory:::2005:2686.1:::1135166400:::M:::RHSA-2005:867-01: gpdf security update:::
+package:::2005:2686.1:::gpdf:::2.8.2-7.3
+advisory:::2005:2685.1:::1135166400:::M:::RHSA-2005:868-01: kdegraphics security update:::
+package:::2005:2685.1:::kdegraphics-devel:::3.3.1-3.6
+package:::2005:2685.1:::kdegraphics:::3.3.1-3.6
+advisory:::2005:2680.1:::1135166400:::L:::RHSA-2005:864-01: udev security update:::
+package:::2005:2680.1:::udev:::039-10.10.EL4.3
+advisory:::2005:2681.1:::1135166400:::M:::RHSA-2005:840-02: xpdf security update:::
+package:::2005:2681.1:::xpdf:::3.00-11.10
+advisory:::2005:2687.1:::1135166400:::M:::RHSA-2005:878-01: cups security update:::&processRunning( "cupsd" )
+package:::2005:2687.1:::cups:::1.1.22-0.rc1.9.9
+package:::2005:2687.1:::cups-devel:::1.1.22-0.rc1.9.9
+package:::2005:2687.1:::cups-libs:::1.1.22-0.rc1.9.9
+advisory:::2006:0025.1:::1136808000:::M:::RHSA-2006:0164-01: mod_auth_pgsql security update:::&processRunning( "httpd" )
+package:::2006:0025.1:::mod_auth_pgsql:::2.0.1-7.1
+advisory:::2006:0024.1:::1136808000:::L:::RHSA-2006:0159-01: httpd security update:::&processRunning( "httpd" )
+package:::2006:0024.1:::httpd:::2.0.52-22.ent
+package:::2006:0024.1:::httpd-devel:::2.0.52-22.ent
+package:::2006:0024.1:::httpd-manual:::2.0.52-22.ent
+package:::2006:0024.1:::httpd-suexec:::2.0.52-22.ent
+package:::2006:0024.1:::mod_ssl:::2.0.52-22.ent
+advisory:::2006:0086.1:::1136980800:::M:::RHSA-2006:0156-01: ethereal security update:::
+package:::2006:0086.1:::ethereal:::0.10.14-1.EL4.1
+package:::2006:0086.1:::ethereal-gnome:::0.10.14-1.EL4.1
+advisory:::2006:0084.1:::1136980800:::M:::RHSA-2006:0163-01: cups security update:::&processRunning( "cupsd" )
+package:::2006:0084.1:::cups:::1.1.22-0.rc1.9.10
+package:::2006:0084.1:::cups-devel:::1.1.22-0.rc1.9.10
+package:::2006:0084.1:::cups-libs:::1.1.22-0.rc1.9.10
+advisory:::2006:0085.1:::1136980800:::M:::RHSA-2006:0177-01: gpdf security update:::
+package:::2006:0085.1:::gpdf:::2.8.2-7.4
+advisory:::2006:0131.1:::1137499200:::M:::RHSA-2006:0101-01: kernel security update:::
+package:::2006:0131.1:::kernel:::2.6.9-22.0.2.EL
+package:::2006:0131.1:::kernel-devel:::2.6.9-22.0.2.EL
+package:::2006:0131.1:::kernel-hugemem:::2.6.9-22.0.2.EL
+package:::2006:0131.1:::kernel-hugemem-devel:::2.6.9-22.0.2.EL
+package:::2006:0131.1:::kernel-smp:::2.6.9-22.0.2.EL
+package:::2006:0131.1:::kernel-smp-devel:::2.6.9-22.0.2.EL
+package:::2006:0131.1:::kernel-doc:::2.6.9-22.0.2.EL
+advisory:::2006:0143.1:::1137758400:::M:::RHSA-2006:0184-01: kdelibs security update:::
+package:::2006:0143.1:::kdelibs:::3.3.1-3.14
+package:::2006:0143.1:::kdelibs-devel:::3.3.1-3.14
+advisory:::2006:0144.1:::1137758400:::M:::RHSA-2006:0160-01: tetex security update:::
+package:::2006:0144.1:::tetex:::2.0.2-22.EL4.7
+package:::2006:0144.1:::tetex-afm:::2.0.2-22.EL4.7
+package:::2006:0144.1:::tetex-doc:::2.0.2-22.EL4.7
+package:::2006:0144.1:::tetex-dvips:::2.0.2-22.EL4.7
+package:::2006:0144.1:::tetex-fonts:::2.0.2-22.EL4.7
+package:::2006:0144.1:::tetex-latex:::2.0.2-22.EL4.7
+package:::2006:0144.1:::tetex-xdvi:::2.0.2-22.EL4.7
+advisory:::2006:0248.1:::1138795200:::M:::RHSA-2006:0194-01: gd security update:::
+package:::2006:0248.1:::gd:::2.0.28-4.4E.1
+package:::2006:0248.1:::gd-devel:::2.0.28-4.4E.1
+package:::2006:0248.1:::gd-progs:::2.0.28-4.4E.1
+advisory:::2006:0252.1:::1138881600:::M:::RHSA-2006:0199-01: mozilla security update:::test ! -f /etc/c4eb-release
+package:::2006:0252.1:::mozilla:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-chat:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-devel:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-dom-inspector:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-js-debugger:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-mail:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-nss:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-nss-devel:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-nspr:::1.7.12-1.4.2
+package:::2006:0252.1:::mozilla-nspr-devel:::1.7.12-1.4.2
+advisory:::2006:0253.1:::1138881600:::M:::RHSA-2006:0200-01: firefox security update:::
+package:::2006:0253.1:::firefox:::1.0.7-1.4.3
+advisory:::2006:0294.1:::1139832000:::L:::RHSA-2006:0207-01: gnutls security update:::
+package:::2006:0294.1:::gnutls:::1.0.20-3.2.2
+package:::2006:0294.1:::gnutls-devel:::1.0.20-3.2.2
+advisory:::2006:0303.1:::1139918400:::M:::RHSA-2006:0201-01: xpdf security update:::
+package:::2006:0303.1:::xpdf:::3.00-11.12
+advisory:::2006:0302.1:::1139918400:::M:::RHSA-2006:0205-01: libpng security update:::
+package:::2006:0302.1:::libpng:::1.2.7-1.el4.2
+package:::2006:0302.1:::libpng-devel:::1.2.7-1.el4.2
+advisory:::2006:0301.1:::1139918400:::M:::RHSA-2006:0206-01: kdegraphics security update:::
+package:::2006:0301.1:::kdegraphics:::3.3.1-3.7
+package:::2006:0301.1:::kdegraphics-devel:::3.3.1-3.7
+advisory:::2006:0334.1:::1140177600:::M:::RHSA-2006:0178-01: ImageMagick security update:::
+package:::2006:0334.1:::ImageMagick:::6.0.7.1-14
+package:::2006:0334.1:::ImageMagick-c++:::6.0.7.1-14
+package:::2006:0334.1:::ImageMagick-c++-devel:::6.0.7.1-14
+package:::2006:0334.1:::ImageMagick-devel:::6.0.7.1-14
+package:::2006:0334.1:::ImageMagick-perl:::6.0.7.1-14
+advisory:::2006:0417.1:::1141214400:::M:::RHSA-2006:0232-01: tar security update:::
+package:::2006:0417.1:::tar:::1.14-9.RHEL4
+advisory:::2006:0457.1:::1141732800:::M:::RHSA-2006:0044-01: openssh security update:::
+package:::2006:0457.1:::openssh:::3.9p1-8.RHEL4.12
+package:::2006:0457.1:::openssh-askpass:::3.9p1-8.RHEL4.12
+package:::2006:0457.1:::openssh-askpass-gnome:::3.9p1-8.RHEL4.12
+package:::2006:0457.1:::openssh-clients:::3.9p1-8.RHEL4.12
+package:::2006:0457.1:::openssh-server:::3.9p1-8.RHEL4.12
+advisory:::2006:0456.1:::1141732800:::L:::RHSA-2006:0016-01: initscripts security update:::
+package:::2006:0456.1:::initscripts:::7.93.24.EL-1.1
+advisory:::2006:0460.1:::1141732800:::L:::RHSA-2006:0132-01: Updated kernel packages available for Red Hat:::
+package:::2006:0460.1:::kernel:::2.6.9-34.EL
+package:::2006:0460.1:::kernel-devel:::2.6.9-34.EL
+package:::2006:0460.1:::kernel-hugemem:::2.6.9-34.EL
+package:::2006:0460.1:::kernel-hugemem-devel:::2.6.9-34.EL
+package:::2006:0460.1:::kernel-smp:::2.6.9-34.EL
+package:::2006:0460.1:::kernel-smp-devel:::2.6.9-34.EL
+package:::2006:0460.1:::kernel-doc:::2.6.9-34.EL
+package:::2006:0460.1:::kernel-largesmp:::2.6.9-34.EL
+package:::2006:0460.1:::kernel-largesmp-devel:::2.6.9-34.EL
+advisory:::2006:0458.1:::1141732800:::L:::RHSA-2006:0052-01: squid security update:::&processRunning( "squid" )
+package:::2006:0458.1:::squid:::2.5.STABLE6-3.4E.12
+advisory:::2006:0459.1:::1141732800:::L:::RHSA-2006:0129-01: spamassassin security update:::
+package:::2006:0459.1:::spamassassin:::3.0.5-3.el4
+advisory:::2006:0472.1:::1141819200:::L:::RHSA-2006:0204-01: mailman security update:::&processRunning( "mailman" )
+package:::2006:0472.1:::mailman:::2.1.5.1-34.rhel4.2
+advisory:::2006:0485.1:::1141992000:::M:::RHSA-2006:0197-01: python security update:::
+package:::2006:0485.1:::python:::2.3.4-14.2
+package:::2006:0485.1:::python-devel:::2.3.4-14.2
+package:::2006:0485.1:::python-docs:::2.3.4-14.2
+package:::2006:0485.1:::python-tools:::2.3.4-14.2
+package:::2006:0485.1:::tkinter:::2.3.4-14.2
+advisory:::2006:0486.1:::1141992000:::M:::RHSA-2006:0262-01: kdegraphics security update:::
+package:::2006:0486.1:::kdegraphics:::3.3.1-3.9
+package:::2006:0486.1:::kdegraphics-devel:::3.3.1-3.9
+advisory:::2006:0518.1:::1142424000:::L:::RHSA-2006:0266-01: gnupg security update:::
+package:::2006:0518.1:::gnupg:::1.2.6-3
+advisory:::2006:0522.1:::1142510400:::M:::RHSA-2006:0268-01: flash-plugin security update:::
+package:::2006:0522.1:::flash-plugin:::7.0.63-1.EL4
+advisory:::2006:0578.1:::1143115200:::H:::RHSA-2006:0264-01: sendmail security update:::netstat --inet -an | awk '{print $4}' | grep ':25$' | grep -v '^127.0.0.1:'
+package:::2006:0578.1:::sendmail:::8.13.1-3.RHEL4.3
+package:::2006:0578.1:::sendmail-cf:::8.13.1-3.RHEL4.3
+package:::2006:0578.1:::sendmail-devel:::8.13.1-3.RHEL4.3
+package:::2006:0578.1:::sendmail-doc:::8.13.1-3.RHEL4.3
+advisory:::2006:0592.1:::1143115200:::M:::RHSA-2006:0257-01: RealPlayer security update:::
+package:::2006:0592.1:::RealPlayer:::10.0.7-2
+advisory:::2006:0642.1:::1144152000:::M:::RHSA-2006:0272-01: openmotif security update:::
+package:::2006:0642.1:::openmotif:::2.2.3-10.RHEL4.1
+package:::2006:0642.1:::openmotif-debuginfo:::2.2.3-10.RHEL4.1
+package:::2006:0642.1:::openmotif-devel:::2.2.3-10.RHEL4.1
+package:::2006:0642.1:::openmotif21:::2.1.30-11.RHEL4.5
+package:::2006:0642.1:::openmotif21-debuginfo:::2.1.30-11.RHEL4.5
+advisory:::2006:0724.1:::1145275200:::M:::RHSA-2006:0328-01: Firefox security update:::
+package:::2006:0724.1:::firefox:::1.0.8-1.4.1
+package:::2006:0724.1:::firefox-debuginfo:::1.0.8-1.4.1
+advisory:::2006:0735.1:::1145448000:::L:::RHSA-2006:0329-01: Mozilla security update:::
+package:::2006:0735.1:::devhelp:::0.9.2-2.4.8
+package:::2006:0735.1:::devhelp-debuginfo:::0.9.2-2.4.8
+package:::2006:0735.1:::devhelp-devel:::0.9.2-2.4.8
+package:::2006:0735.1:::mozilla:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-chat:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-debuginfo:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-devel:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-dom-inspector:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-js-debugger:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-mail:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-nss:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-nss-devel:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-nspr:::1.7.13-1.4.1
+package:::2006:0735.1:::mozilla-nspr-devel:::1.7.13-1.4.1
+advisory:::2006:0745.1:::1145620800:::M:::RHSA-2006:0330-01: thunderbird security update:::
+package:::2006:0745.1:::thunderbird:::1.0.8-1.4.1
+package:::2006:0745.1:::thunderbird-debuginfo:::1.0.8-1.4.1
+advisory:::2006:0768.1:::1145966400:::M:::RHSA-2006:0276-01: php security update:::&processRunning( "httpd" )
+package:::2006:0768.1:::php:::4.3.9-3.12
+package:::2006:0768.1:::php-debuginfo:::4.3.9-3.12
+package:::2006:0768.1:::php-devel:::4.3.9-3.12
+package:::2006:0768.1:::php-domxml:::4.3.9-3.12
+package:::2006:0768.1:::php-gd:::4.3.9-3.12
+package:::2006:0768.1:::php-imap:::4.3.9-3.12
+package:::2006:0768.1:::php-ldap:::4.3.9-3.12
+package:::2006:0768.1:::php-mbstring:::4.3.9-3.12
+package:::2006:0768.1:::php-mysql:::4.3.9-3.12
+package:::2006:0768.1:::php-ncurses:::4.3.9-3.12
+package:::2006:0768.1:::php-odbc:::4.3.9-3.12
+package:::2006:0768.1:::php-pear:::4.3.9-3.12
+package:::2006:0768.1:::php-pgsql:::4.3.9-3.12
+package:::2006:0768.1:::php-snmp:::4.3.9-3.12
+package:::2006:0768.1:::php-xmlrpc:::4.3.9-3.12
+advisory:::2006:0767.1:::1145966400:::L:::RHSA-2006:0267-01: ipsec-tools security update:::
+package:::2006:0767.1:::ipsec-tools:::0.3.3-6.rhel4.1
+package:::2006:0767.1:::ipsec-tools-debuginfo:::0.3.3-6.rhel4.1
+advisory:::2006:0814.1:::1146657600:::M:::RHSA-2006:0420-01: ethereal security update:::
+package:::2006:0814.1:::ethereal:::0.99.0-EL4.2
+package:::2006:0814.1:::ethereal-debuginfo:::0.99.0-EL4.2
+package:::2006:0814.1:::ethereal-gnome:::0.99.0-EL4.2
+advisory:::2006:0812.1:::1146657600:::M:::RHSA-2006:0280-01: dia security update:::
+package:::2006:0812.1:::dia:::0.94-5.4
+package:::2006:0812.1:::dia-debuginfo:::0.94-5.4
+advisory:::2006:0813.1:::1146657600:::L:::RHSA-2006:0283-01: squirrelmail security update:::
+package:::2006:0813.1:::squirrelmail:::1.4.6-5.el4
+advisory:::2006:0821.1:::1146830400:::M:::RHSA-2006:0451-01: xorg-x11 security update:::
+package:::2006:0821.1:::xorg-x11:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-Xdmx:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-Xnest:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-Xvfb:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-devel:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-doc:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-font-utils:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-libs:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-sdk:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-tools:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-twm:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-xauth:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-xdm:::6.8.2-1.EL.13.25.1
+package:::2006:0821.1:::xorg-x11-xfs:::6.8.2-1.EL.13.25.1
+advisory:::2006:0842.1:::1147176000:::M:::RHSA-2006:0425-01: libtiff security update:::
+package:::2006:0842.1:::libtiff:::3.6.1-10
+package:::2006:0842.1:::libtiff-debuginfo:::3.6.1-10
+package:::2006:0842.1:::libtiff-devel:::3.6.1-10
+advisory:::2006:0841.1:::1147176000:::L:::RHSA-2006:0427-01: ruby security update:::
+package:::2006:0841.1:::irb:::1.8.1-7.EL4.3
+package:::2006:0841.1:::ruby:::1.8.1-7.EL4.3
+package:::2006:0841.1:::ruby-debuginfo:::1.8.1-7.EL4.3
+package:::2006:0841.1:::ruby-devel:::1.8.1-7.EL4.3
+package:::2006:0841.1:::ruby-docs:::1.8.1-7.EL4.3
+package:::2006:0841.1:::ruby-libs:::1.8.1-7.EL4.3
+package:::2006:0841.1:::ruby-mode:::1.8.1-7.EL4.3
+package:::2006:0841.1:::ruby-tcltk:::1.8.1-7.EL4.3
+advisory:::2006:0938.1:::1148472000:::L:::RHSA-2006:0493-01: kernel security update:::
+package:::2006:0938.1:::kernel:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-debuginfo:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-devel:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-hugemem:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-hugemem-devel:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-smp:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-smp-devel:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-doc:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-largesmp:::2.6.9-34.0.1.EL
+package:::2006:0938.1:::kernel-largesmp-devel:::2.6.9-34.0.1.EL
+advisory:::2006:0944.1:::1148558400:::L:::RHSA-2006:0526-02: postgresql security update:::&processRunning( "postmaster" )
+package:::2006:0944.1:::postgresql:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-contrib:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-debuginfo:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-devel:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-docs:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-jdbc:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-libs:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-pl:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-python:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-server:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-tcl:::7.4.13-2.RHEL4.1
+package:::2006:0944.1:::postgresql-test:::7.4.13-2.RHEL4.1
+advisory:::2006:0986.1:::1149163200:::M:::RHSA-2006:0525-01: quagga security update:::
+package:::2006:0986.1:::quagga:::0.98.3-2.4E
+package:::2006:0986.1:::quagga-contrib:::0.98.3-2.4E
+package:::2006:0986.1:::quagga-debuginfo:::0.98.3-2.4E
+package:::2006:0986.1:::quagga-devel:::0.98.3-2.4E
+advisory:::2006:0988.1:::1149163200:::M:::RHSA-2006:0541-02: dia security update:::
+package:::2006:0988.1:::dia:::0.94-5.7.1
+package:::2006:0988.1:::dia-debuginfo:::0.94-5.7.1
+advisory:::2006:1014.1:::1149681600:::M:::RHSA-2006:0543-01: spamassassin security:::
+package:::2006:1014.1:::spamassassin:::3.0.6-1.el4
+package:::2006:1014.1:::spamassassin-debuginfo:::3.0.6-1.el4
+advisory:::2006:1063.1:::1150113600:::M:::RHSA-2006:0544-01: mysql security update:::&processRunning( "mysqld" )
+package:::2006:1063.1:::mysql:::4.1.20-1.RHEL4.1
+package:::2006:1063.1:::mysql-bench:::4.1.20-1.RHEL4.1
+package:::2006:1063.1:::mysql-debuginfo:::4.1.20-1.RHEL4.1
+package:::2006:1063.1:::mysql-devel:::4.1.20-1.RHEL4.1
+package:::2006:1063.1:::mysql-server:::4.1.20-1.RHEL4.1
+advisory:::2006:1062.1:::1150113600:::L:::RHSA-2006:0486-01: mailman security update:::&processRunning( "mailman" )
+package:::2006:1062.1:::mailman:::2.1.5.1-34.rhel4.3
+package:::2006:1062.1:::mailman-debuginfo:::2.1.5.1-34.rhel4.3
+advisory:::2006:1096.1:::1150372800:::L:::RHSA-2006:0515-01: sendmail security update:::netstat --inet -an | awk '{print $4}' | grep ':25$' | grep -v '^127.0.0.1:'
+package:::2006:1096.1:::sendmail:::8.13.1-3.RHEL4.5
+package:::2006:1096.1:::sendmail-cf:::8.13.1-3.RHEL4.5
+package:::2006:1096.1:::sendmail-debuginfo:::8.13.1-3.RHEL4.5
+package:::2006:1096.1:::sendmail-devel:::8.13.1-3.RHEL4.5
+package:::2006:1096.1:::sendmail-doc:::8.13.1-3.RHEL4.5
+advisory:::2006:1097.1:::1150372800:::L:::RHSA-2006:0548-01: kdebase security update:::
+package:::2006:1097.1:::kdebase:::3.3.1-5.12
+package:::2006:1097.1:::kdebase-debuginfo:::3.3.1-5.12
+package:::2006:1097.1:::kdebase-devel:::3.3.1-5.12
+advisory:::2006:1192.1:::1152100800:::M:::RHSA-2006:0573-01: openoffice.org security update:::
+package:::2006:1192.1:::openoffice.org:::1.1.2-34.6.0.EL4
+package:::2006:1192.1:::openoffice.org-debuginfo:::1.1.2-34.6.0.EL4
+package:::2006:1192.1:::openoffice.org-kde:::1.1.2-34.6.0.EL4
+package:::2006:1192.1:::openoffice.org-i18n:::1.1.2-34.6.0.EL4
+package:::2006:1192.1:::openoffice.org-libs:::1.1.2-34.6.0.EL4
+advisory:::2006:1191.1:::1152100800:::L:::RHSA-2006:0547-01: squirrelmail security update:::
+package:::2006:1191.1:::squirrelmail:::1.4.6-7.el4
+advisory:::2006:1211.1:::1152532800:::L:::RHSA-2006:0574-01: kernel security update:::
+package:::2006:1211.1:::kernel:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-debuginfo:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-devel:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-hugemem:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-hugemem-devel:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-smp:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-smp-devel:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-doc:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-largesmp:::2.6.9-34.0.2.EL
+package:::2006:1211.1:::kernel-largesmp-devel:::2.6.9-34.0.2.EL
+advisory:::2006:1248.1:::1152792000:::M:::RHSA-2006:0577-01: mutt security update:::
+package:::2006:1248.1:::mutt:::1.4.1-11.rhel4
+package:::2006:1248.1:::mutt-debuginfo:::1.4.1-11.rhel4
+advisory:::2006:1247.1:::1152792000:::M:::RHSA-2006:0568-01: php security update:::&processRunning( "httpd" )
+package:::2006:1247.1:::php:::4.3.9-3.15
+package:::2006:1247.1:::php-debuginfo:::4.3.9-3.15
+package:::2006:1247.1:::php-devel:::4.3.9-3.15
+package:::2006:1247.1:::php-domxml:::4.3.9-3.15
+package:::2006:1247.1:::php-gd:::4.3.9-3.15
+package:::2006:1247.1:::php-imap:::4.3.9-3.15
+package:::2006:1247.1:::php-ldap:::4.3.9-3.15
+package:::2006:1247.1:::php-mbstring:::4.3.9-3.15
+package:::2006:1247.1:::php-mysql:::4.3.9-3.15
+package:::2006:1247.1:::php-ncurses:::4.3.9-3.15
+package:::2006:1247.1:::php-odbc:::4.3.9-3.15
+package:::2006:1247.1:::php-pear:::4.3.9-3.15
+package:::2006:1247.1:::php-pgsql:::4.3.9-3.15
+package:::2006:1247.1:::php-snmp:::4.3.9-3.15
+package:::2006:1247.1:::php-xmlrpc:::4.3.9-3.15
+advisory:::2006:1249.1:::1152792000:::M:::RHSA-2006:0539-01: vixie-cron security update:::
+package:::2006:1249.1:::vixie-cron:::4.1-44.EL4
+package:::2006:1249.1:::vixie-cron-debuginfo:::4.1-44.EL4
+advisory:::2006:1277.1:::1153310400:::M:::RHSA-2006:0500-01: freetype security update:::
+package:::2006:1277.1:::freetype:::2.1.9-1.rhel4.4
+package:::2006:1277.1:::freetype-debuginfo:::2.1.9-1.rhel4.4
+package:::2006:1277.1:::freetype-demos:::2.1.9-1.rhel4.4
+package:::2006:1277.1:::freetype-devel:::2.1.9-1.rhel4.4
+package:::2006:1277.1:::freetype-utils:::2.1.9-1.rhel4.4
+advisory:::2006:1278.1:::1153310400:::L:::RHSA-2006:0571-01: gnupg security update:::
+package:::2006:1278.1:::gnupg:::1.2.6-5
+package:::2006:1278.1:::gnupg-debuginfo:::1.2.6-5
+advisory:::2006:1280.1:::1153310400:::M:::RHSA-2006:0598-01: gimp security update:::
+package:::2006:1280.1:::gimp:::2.0.5-6
+package:::2006:1280.1:::gimp-debuginfo:::2.0.5-6
+package:::2006:1280.1:::gimp-devel:::2.0.5-6
+advisory:::2006:1279.1:::1153310400:::M:::RHSA-2006:0597-01: libwmf security update:::
+package:::2006:1279.1:::libwmf:::0.2.8.3-5.3
+package:::2006:1279.1:::libwmf-debuginfo:::0.2.8.3-5.3
+package:::2006:1279.1:::libwmf-devel:::0.2.8.3-5.3
+advisory:::2006:1337.1:::1153915200:::L:::RHSA-2006:0591-01: samba security update:::&processRunning( "smbd" )
+package:::2006:1337.1:::samba:::3.0.10-1.4E.6.2
+package:::2006:1337.1:::samba-client:::3.0.10-1.4E.6.2
+package:::2006:1337.1:::samba-common:::3.0.10-1.4E.6.2
+package:::2006:1337.1:::samba-debuginfo:::3.0.10-1.4E.6.2
+package:::2006:1337.1:::samba-swat:::3.0.10-1.4E.6.2
+advisory:::2006:1346.1:::1154088000:::L:::RHSA-2006:0604-01: ruby security update:::
+package:::2006:1346.1:::irb:::1.8.1-7.EL4.6
+package:::2006:1346.1:::ruby:::1.8.1-7.EL4.6
+package:::2006:1346.1:::ruby-debuginfo:::1.8.1-7.EL4.6
+package:::2006:1346.1:::ruby-devel:::1.8.1-7.EL4.6
+package:::2006:1346.1:::ruby-docs:::1.8.1-7.EL4.6
+package:::2006:1346.1:::ruby-libs:::1.8.1-7.EL4.6
+package:::2006:1346.1:::ruby-mode:::1.8.1-7.EL4.6
+package:::2006:1346.1:::ruby-tcltk:::1.8.1-7.EL4.6
+advisory:::2006:1350.1:::1154347200:::M:::RHSA-2006:0610-01: firefox security update:::
+package:::2006:1350.1:::firefox:::1.5.0.5-0.el4.1
+package:::2006:1350.1:::firefox-debuginfo:::1.5.0.5-0.el4.1
+advisory:::2006:1351.1:::1154347200:::M:::RHSA-2006:0611-01: thunderbird security update:::
+package:::2006:1351.1:::thunderbird:::1.5.0.5-0.el4.1
+package:::2006:1351.1:::thunderbird-debuginfo:::1.5.0.5-0.el4.1
+advisory:::2006:1380.1:::1154606400:::M:::RHSA-2006:0603-01: libtiff security update:::
+package:::2006:1380.1:::libtiff:::3.6.1-12
+package:::2006:1380.1:::libtiff-debuginfo:::3.6.1-12
+package:::2006:1380.1:::libtiff-devel:::3.6.1-12
+advisory:::2006:1381.1:::1154606400:::M:::RHSA-2006:0609-01: seamonkey security update:::
+package:::2006:1381.1:::devhelp:::0.10-0.2.el4
+package:::2006:1381.1:::devhelp-debuginfo:::0.10-0.2.el4
+package:::2006:1381.1:::devhelp-devel:::0.10-0.2.el4
+package:::2006:1381.1:::mozilla:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-chat:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-debuginfo:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-devel:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-dom-inspector:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-js-debugger:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-mail:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-nss:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-nss-devel:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-nspr:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::mozilla-nspr-devel:::99.99.99-REPLACED.BY.SEAMONKEY
+package:::2006:1381.1:::seamonkey:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-chat:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-debuginfo:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-devel:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-dom-inspector:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-js-debugger:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-mail:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-nss:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-nss-devel:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-nspr:::1.0.3-0.el4.1
+package:::2006:1381.1:::seamonkey-nspr-devel:::1.0.3-0.el4.1
+advisory:::2006:1392.1:::1154606400:::L:::RHSA-2006:0615-01: gnupg security update:::
+package:::2006:1392.1:::gnupg:::1.2.6-6
+package:::2006:1392.1:::gnupg-debuginfo:::1.2.6-6
+advisory:::2006:1429.1:::1155124800:::L:::RHSA-2006:0612-01: krb5 security update:::
+package:::2006:1429.1:::krb5-debuginfo:::1.3.4-33
+package:::2006:1429.1:::krb5-devel:::1.3.4-33
+package:::2006:1429.1:::krb5-libs:::1.3.4-33
+package:::2006:1429.1:::krb5-server:::1.3.4-33
+package:::2006:1429.1:::krb5-workstation:::1.3.4-33
+advisory:::2006:1471.1:::1155297600:::M:::RHSA-2006:0575-01: Updated kernel packages available for Red Hat:::
+package:::2006:1471.1:::kernel:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-debuginfo:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-devel:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-hugemem:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-hugemem-devel:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-smp:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-smp-devel:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-doc:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-largesmp:::2.6.9-42.EL
+package:::2006:1471.1:::kernel-largesmp-devel:::2.6.9-42.EL
+advisory:::2006:1472.1:::1155297600:::L:::RHSA-2006:0582-01: kdebase security fix:::
+package:::2006:1472.1:::kdebase:::3.3.1-5.13
+package:::2006:1472.1:::kdebase-debuginfo:::3.3.1-5.13
+package:::2006:1472.1:::kdebase-devel:::3.3.1-5.13
+advisory:::2006:1473.1:::1155297600:::L:::RHSA-2006:0605-01: perl security update:::
+package:::2006:1473.1:::perl:::5.8.5-36.RHEL4
+package:::2006:1473.1:::perl-debuginfo:::5.8.5-36.RHEL4
+package:::2006:1473.1:::perl-suidperl:::5.8.5-36.RHEL4
+advisory:::2006:1470.1:::1155297600:::L:::RHSA-2006:0393-01: ntp security update:::&processRunning( "ntpd" )
+package:::2006:1470.1:::ntp:::4.2.0.a.20040617-4.EL4.1
+package:::2006:1470.1:::ntp-debuginfo:::4.2.0.a.20040617-4.EL4.1
+advisory:::2006:1469.1:::1155297600:::L:::RHSA-2006:0354-01: elfutils security update:::
+package:::2006:1469.1:::elfutils:::0.97.1-3
+package:::2006:1469.1:::elfutils-debuginfo:::0.97.1-3
+package:::2006:1469.1:::elfutils-devel:::0.97.1-3
+package:::2006:1469.1:::elfutils-libelf:::0.97.1-3
+package:::2006:1469.1:::elfutils-libelf-devel:::0.97.1-3
+advisory:::2006:1474.1:::1155297600:::L:::RHSA-2006:0619-01: httpd security update:::&processRunning( "httpd" )
+package:::2006:1474.1:::httpd:::2.0.52-28.ent
+package:::2006:1474.1:::httpd-debuginfo:::2.0.52-28.ent
+package:::2006:1474.1:::httpd-devel:::2.0.52-28.ent
+package:::2006:1474.1:::httpd-manual:::2.0.52-28.ent
+package:::2006:1474.1:::httpd-suexec:::2.0.52-28.ent
+package:::2006:1474.1:::mod_ssl:::2.0.52-28.ent
+advisory:::2006:1510.1:::1155816000:::M:::RHSA-2006:0602-01: wireshark security update (was ethereal):::
+package:::2006:1510.1:::ethereal:::99.99.99-REPLACED.BY.WIRESHARK
+package:::2006:1510.1:::ethereal-debuginfo:::99.99.99-REPLACED.BY.WIRESHARK
+package:::2006:1510.1:::ethereal-gnome:::99.99.99-REPLACED.BY.WIRESHARK
+package:::2006:1510.1:::wireshark:::0.99.2-EL4.1
+package:::2006:1510.1:::wireshark-debuginfo:::0.99.2-EL4.1
+package:::2006:1510.1:::wireshark-gnome:::0.99.2-EL4.1
+advisory:::2006:1527.1:::1156248000:::M:::RHSA-2006:0634-01: xorg-x11 security update:::
+package:::2006:1527.1:::xorg-x11:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-Xdmx:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-Xnest:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-Xvfb:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-devel:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-doc:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-font-utils:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-libs:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-sdk:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-tools:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-twm:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-xauth:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-xdm:::6.8.2-1.EL.13.37
+package:::2006:1527.1:::xorg-x11-xfs:::6.8.2-1.EL.13.37
+advisory:::2006:1534.1:::1156334400:::M:::RHSA-2006:0617-01: kernel security update:::
+package:::2006:1534.1:::kernel:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-debuginfo:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-devel:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-hugemem:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-hugemem-devel:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-smp:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-smp-devel:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-doc:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-largesmp:::2.6.9-42.0.2.EL
+package:::2006:1534.1:::kernel-largesmp-devel:::2.6.9-42.0.2.EL
+advisory:::2006:1549.1:::1156507200:::M:::RHSA-2006:0633-03: ImageMagick security update:::
+package:::2006:1549.1:::ImageMagick:::6.0.7.1-16
+package:::2006:1549.1:::ImageMagick-c++:::6.0.7.1-16
+package:::2006:1549.1:::ImageMagick-c++-devel:::6.0.7.1-16
+package:::2006:1549.1:::ImageMagick-debuginfo:::6.0.7.1-16
+package:::2006:1549.1:::ImageMagick-devel:::6.0.7.1-16
+package:::2006:1549.1:::ImageMagick-perl:::6.0.7.1-16
+advisory:::2006:1639.1:::1157976000:::L:::RHSA-2006:0661-01: openssl security update:::
+package:::2006:1639.1:::openssl:::0.9.7a-43.11
+package:::2006:1639.1:::openssl-debuginfo:::0.9.7a-43.11
+package:::2006:1639.1:::openssl-devel:::0.9.7a-43.11
+package:::2006:1639.1:::openssl-perl:::0.9.7a-43.11
+package:::2006:1639.1:::openssl096b:::0.9.6b-22.43
+package:::2006:1639.1:::openssl096b-debuginfo:::0.9.6b-22.43
+advisory:::2006:1638.1:::1157976000:::L:::RHSA-2006:0600-01: mailman security update:::&processRunning( "mailman" )
+package:::2006:1638.1:::mailman:::2.1.5.1-34.rhel4.5
+package:::2006:1638.1:::mailman-debuginfo:::2.1.5.1-34.rhel4.5
+advisory:::2006:1700.1:::1158148800:::M:::RHSA-2006:0663-01: ncompress security update:::
+package:::2006:1700.1:::ncompress:::4.2.4-43.rhel4
+package:::2006:1700.1:::ncompress-debuginfo:::4.2.4-43.rhel4
+advisory:::2006:1701.1:::1158148800:::M:::RHSA-2006:0665-01: xorg-x11 security update:::
+package:::2006:1701.1:::xorg-x11:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-Xdmx:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-Xnest:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-Xvfb:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-devel:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-doc:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-font-utils:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-libs:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-sdk:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-tools:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-twm:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-xauth:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-xdm:::6.8.2-1.EL.13.37.2
+package:::2006:1701.1:::xorg-x11-xfs:::6.8.2-1.EL.13.37.2
+advisory:::2006:1702.1:::1158148800:::M:::RHSA-2006:0674-01: flash-plugin security update:::
+package:::2006:1702.1:::flash-plugin:::7.0.68-1.el4
+advisory:::2006:1699.1:::1158148800:::L:::RHSA-2006:0658-01: wireshark security update:::
+package:::2006:1699.1:::wireshark:::0.99.3-EL4.2
+package:::2006:1699.1:::wireshark-debuginfo:::0.99.3-EL4.2
+package:::2006:1699.1:::wireshark-gnome:::0.99.3-EL4.2
+advisory:::2006:1729.1:::1158321600:::M:::RHSA-2006:0676-01: seamonkey security update:::
+package:::2006:1729.1:::devhelp:::0.10-0.4.el4
+package:::2006:1729.1:::devhelp-debuginfo:::0.10-0.4.el4
+package:::2006:1729.1:::devhelp-devel:::0.10-0.4.el4
+package:::2006:1729.1:::seamonkey:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-chat:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-debuginfo:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-devel:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-dom-inspector:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-js-debugger:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-mail:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-nspr:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-nspr-devel:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-nss:::1.0.5-0.1.el4
+package:::2006:1729.1:::seamonkey-nss-devel:::1.0.5-0.1.el4
+advisory:::2006:1730.1:::1158321600:::M:::RHSA-2006:0675-01: firefox security update:::
+package:::2006:1730.1:::firefox:::1.5.0.7-0.1.el4
+package:::2006:1730.1:::firefox-debuginfo:::1.5.0.7-0.1.el4
+advisory:::2006:1728.1:::1158321600:::M:::RHSA-2006:0677-01: thunderbird security update:::
+package:::2006:1728.1:::thunderbird:::1.5.0.7-0.1.el4
+package:::2006:1728.1:::thunderbird-debuginfo:::1.5.0.7-0.1.el4
+advisory:::2006:1732.1:::1158321600:::L:::RHSA-2006:0680-01: gnutls security update:::
+package:::2006:1732.1:::gnutls:::1.0.20-3.2.3
+package:::2006:1732.1:::gnutls-debuginfo:::1.0.20-3.2.3
+package:::2006:1732.1:::gnutls-devel:::1.0.20-3.2.3
+advisory:::2006:1748.1:::1158667200:::L:::RHSA-2006:0667-01: gzip security update:::
+package:::2006:1748.1:::gzip:::1.3.3-16.rhel4
+package:::2006:1748.1:::gzip-debuginfo:::1.3.3-16.rhel4
+advisory:::2006:1759.1:::1158840000:::M:::RHSA-2006:0669-01: php security update:::&processRunning( "httpd" )
+package:::2006:1759.1:::php:::4.3.9-3.18
+package:::2006:1759.1:::php-debuginfo:::4.3.9-3.18
+package:::2006:1759.1:::php-devel:::4.3.9-3.18
+package:::2006:1759.1:::php-domxml:::4.3.9-3.18
+package:::2006:1759.1:::php-gd:::4.3.9-3.18
+package:::2006:1759.1:::php-imap:::4.3.9-3.18
+package:::2006:1759.1:::php-ldap:::4.3.9-3.18
+package:::2006:1759.1:::php-mbstring:::4.3.9-3.18
+package:::2006:1759.1:::php-mysql:::4.3.9-3.18
+package:::2006:1759.1:::php-ncurses:::4.3.9-3.18
+package:::2006:1759.1:::php-odbc:::4.3.9-3.18
+package:::2006:1759.1:::php-pear:::4.3.9-3.18
+package:::2006:1759.1:::php-pgsql:::4.3.9-3.18
+package:::2006:1759.1:::php-snmp:::4.3.9-3.18
+package:::2006:1759.1:::php-xmlrpc:::4.3.9-3.18
+advisory:::2006:1814.1:::1159358400:::L:::RHSA-2006:0668-01: squirrelmail security update:::
+package:::2006:1814.1:::squirrelmail:::1.4.8-2.el4
+advisory:::2006:1835.1:::1159531200:::M:::RHSA-2006:0697-01: openssh security update:::
+package:::2006:1835.1:::openssh:::3.9p1-8.RHEL4.17
+package:::2006:1835.1:::openssh-askpass:::3.9p1-8.RHEL4.17
+package:::2006:1835.1:::openssh-askpass-gnome:::3.9p1-8.RHEL4.17
+package:::2006:1835.1:::openssh-clients:::3.9p1-8.RHEL4.17
+package:::2006:1835.1:::openssh-debuginfo:::3.9p1-8.RHEL4.17
+package:::2006:1835.1:::openssh-server:::3.9p1-8.RHEL4.17
+advisory:::2006:1836.1:::1159531200:::L:::RHSA-2006:0695-01: openssl security update:::
+package:::2006:1836.1:::openssl:::0.9.7a-43.14
+package:::2006:1836.1:::openssl-debuginfo:::0.9.7a-43.14
+package:::2006:1836.1:::openssl-devel:::0.9.7a-43.14
+package:::2006:1836.1:::openssl-perl:::0.9.7a-43.14
+package:::2006:1836.1:::openssl096b:::0.9.6b-22.46
+package:::2006:1836.1:::openssl096b-debuginfo:::0.9.6b-22.46
+advisory:::2006:1879.1:::1160136000:::L:::RHSA-2006:0689-01: kernel security update:::
+package:::2006:1879.1:::kernel:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-debuginfo:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-devel:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-doc:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-hugemem:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-hugemem-devel:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-smp:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-smp-devel:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-largesmp:::2.6.9-42.0.3.EL
+package:::2006:1879.1:::kernel-largesmp-devel:::2.6.9-42.0.3.EL
+advisory:::2006:1898.1:::1160481600:::M:::RHSA-2006:0713-01: python security update:::
+package:::2006:1898.1:::python:::2.3.4-14.3
+package:::2006:1898.1:::python-debuginfo:::2.3.4-14.3
+package:::2006:1898.1:::python-devel:::2.3.4-14.3
+package:::2006:1898.1:::python-docs:::2.3.4-14.3
+package:::2006:1898.1:::python-tools:::2.3.4-14.3
+package:::2006:1898.1:::tkinter:::2.3.4-14.3
+advisory:::2006:1951.1:::1161172800:::M:::RHSA-2006:0720-01: kdelibs security update:::
+package:::2006:1951.1:::kdelibs:::3.3.1-6.RHEL4
+package:::2006:1951.1:::kdelibs-debuginfo:::3.3.1-6.RHEL4
+package:::2006:1951.1:::kdelibs-devel:::3.3.1-6.RHEL4
+advisory:::2006:2012.1:::1162382400:::M:::RHSA-2006:0725-01: qt security update:::
+package:::2006:2012.1:::qt:::3.3.3-10.RHEL4
+package:::2006:2012.1:::qt-MySQL:::3.3.3-10.RHEL4
+package:::2006:2012.1:::qt-ODBC:::3.3.3-10.RHEL4
+package:::2006:2012.1:::qt-PostgreSQL:::3.3.3-10.RHEL4
+package:::2006:2012.1:::qt-config:::3.3.3-10.RHEL4
+package:::2006:2012.1:::qt-debuginfo:::3.3.3-10.RHEL4
+package:::2006:2012.1:::qt-designer:::3.3.3-10.RHEL4
+package:::2006:2012.1:::qt-devel:::3.3.3-10.RHEL4
+advisory:::2006:2034.1:::1162900800:::M:::RHSA-2006:0730-01: php security update:::&processRunning( "httpd" )
+package:::2006:2034.1:::php:::4.3.9-3.22
+package:::2006:2034.1:::php-debuginfo:::4.3.9-3.22
+package:::2006:2034.1:::php-devel:::4.3.9-3.22
+package:::2006:2034.1:::php-domxml:::4.3.9-3.22
+package:::2006:2034.1:::php-gd:::4.3.9-3.22
+package:::2006:2034.1:::php-imap:::4.3.9-3.22
+package:::2006:2034.1:::php-ldap:::4.3.9-3.22
+package:::2006:2034.1:::php-mbstring:::4.3.9-3.22
+package:::2006:2034.1:::php-mysql:::4.3.9-3.22
+package:::2006:2034.1:::php-ncurses:::4.3.9-3.22
+package:::2006:2034.1:::php-odbc:::4.3.9-3.22
+package:::2006:2034.1:::php-pear:::4.3.9-3.22
+package:::2006:2034.1:::php-pgsql:::4.3.9-3.22
+package:::2006:2034.1:::php-snmp:::4.3.9-3.22
+package:::2006:2034.1:::php-xmlrpc:::4.3.9-3.22
+advisory:::2006:2044.1:::1162987200:::M:::RHSA-2006:0734-01: seamonkey security update:::
+package:::2006:2044.1:::devhelp:::0.10-0.5.el4
+package:::2006:2044.1:::devhelp-debuginfo:::0.10-0.5.el4
+package:::2006:2044.1:::devhelp-devel:::0.10-0.5.el4
+package:::2006:2044.1:::seamonkey:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-chat:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-debuginfo:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-devel:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-dom-inspector:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-js-debugger:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-mail:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-nspr:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-nspr-devel:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-nss:::1.0.6-0.1.el4
+package:::2006:2044.1:::seamonkey-nss-devel:::1.0.6-0.1.el4
+advisory:::2006:2040.1:::1162987200:::M:::RHSA-2006:0727-01: texinfo security update:::
+package:::2006:2040.1:::info:::4.7-5.el4.2
+package:::2006:2040.1:::texinfo:::4.7-5.el4.2
+package:::2006:2040.1:::texinfo-debuginfo:::4.7-5.el4.2
+advisory:::2006:2041.1:::1162987200:::L:::RHSA-2006:0729-01: ruby security update:::
+package:::2006:2041.1:::irb:::1.8.1-7.EL4.8
+package:::2006:2041.1:::ruby:::1.8.1-7.EL4.8
+package:::2006:2041.1:::ruby-debuginfo:::1.8.1-7.EL4.8
+package:::2006:2041.1:::ruby-devel:::1.8.1-7.EL4.8
+package:::2006:2041.1:::ruby-docs:::1.8.1-7.EL4.8
+package:::2006:2041.1:::ruby-libs:::1.8.1-7.EL4.8
+package:::2006:2041.1:::ruby-mode:::1.8.1-7.EL4.8
+package:::2006:2041.1:::ruby-tcltk:::1.8.1-7.EL4.8
+advisory:::2006:2042.1:::1162987200:::M:::RHSA-2006:0733-02: firefox security update:::
+package:::2006:2042.1:::firefox:::1.5.0.8-0.1.el4
+package:::2006:2042.1:::firefox-debuginfo:::1.5.0.8-0.1.el4
+advisory:::2006:2043.1:::1162987200:::M:::RHSA-2006:0735-01: thunderbird security update:::
+package:::2006:2043.1:::thunderbird:::1.5.0.8-0.1.el4
+package:::2006:2043.1:::thunderbird-debuginfo:::1.5.0.8-0.1.el4
+advisory:::2006:2067.1:::1163160000:::M:::RHSA-2006:0726-01: wireshark security update:::
+package:::2006:2067.1:::wireshark:::0.99.4-EL4.1
+package:::2006:2067.1:::wireshark-debuginfo:::0.99.4-EL4.1
+package:::2006:2067.1:::wireshark-gnome:::0.99.4-EL4.1
+advisory:::2006:2107.1:::1163592000:::L:::RHSA-2006:0738-01: openssh security update:::&processRunning( "sshd" )
+package:::2006:2107.1:::openssh:::3.9p1-8.RHEL4.17.1
+package:::2006:2107.1:::openssh-askpass:::3.9p1-8.RHEL4.17.1
+package:::2006:2107.1:::openssh-askpass-gnome:::3.9p1-8.RHEL4.17.1
+package:::2006:2107.1:::openssh-clients:::3.9p1-8.RHEL4.17.1
+package:::2006:2107.1:::openssh-debuginfo:::3.9p1-8.RHEL4.17.1
+package:::2006:2107.1:::openssh-server:::3.9p1-8.RHEL4.17.1
+advisory:::2006:2106.1:::1163592000:::L:::RHSA-2006:0719-01: nss_ldap security update:::
+package:::2006:2106.1:::nss_ldap:::226-17
+package:::2006:2106.1:::nss_ldap-debuginfo:::226-17
+advisory:::2006:2113.1:::1163678400:::L:::RHSA-2006:0742-01: elinks security update:::
+package:::2006:2113.1:::elinks:::0.9.2-3.3
+package:::2006:2113.1:::elinks-debuginfo:::0.9.2-3.3
+advisory:::2006:2223.1:::1165406400:::M:::RHSA-2006:0754-01: gnupg security update:::
+package:::2006:2223.1:::gnupg:::1.2.6-8
+package:::2006:2223.1:::gnupg-debuginfo:::1.2.6-8
+advisory:::2006:2224.1:::1165406400:::L:::RHSA-2006:0746-01: mod_auth_kerb security update:::&processRunning( "httpd" )
+package:::2006:2224.1:::mod_auth_kerb:::5.0-1.3
+package:::2006:2224.1:::mod_auth_kerb-debuginfo:::5.0-1.3
+advisory:::2006:2331.1:::1166616000:::L:::RHSA-2006:0758-01: firefox security update:::
+package:::2006:2331.1:::firefox:::1.5.0.9-0.1.el4
+package:::2006:2331.1:::firefox-debuginfo:::1.5.0.9-0.1.el4
+advisory:::2006:2333.1:::1166616000:::L:::RHSA-2006:0760-01: thunderbird security update:::
+package:::2006:2333.1:::thunderbird:::1.5.0.9-0.1.el4
+package:::2006:2333.1:::thunderbird-debuginfo:::1.5.0.9-0.1.el4
+advisory:::2006:2332.1:::1166616000:::L:::RHSA-2006:0759-01: seamonkey security update:::
+package:::2006:2332.1:::devhelp:::0.10-0.6.el4
+package:::2006:2332.1:::devhelp-debuginfo:::0.10-0.6.el4
+package:::2006:2332.1:::devhelp-devel:::0.10-0.6.el4
+package:::2006:2332.1:::seamonkey:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-chat:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-debuginfo:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-devel:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-dom-inspector:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-js-debugger:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-mail:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-nspr:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-nspr-devel:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-nss:::1.0.7-0.1.el4
+package:::2006:2332.1:::seamonkey-nss-devel:::1.0.7-0.1.el4
+advisory:::2006:2330.1:::1166616000:::L:::RHSA-2006:0749-01: tar security update:::
+package:::2006:2330.1:::tar:::1.14-12.RHEL4
+package:::2006:2330.1:::tar-debuginfo:::1.14-12.RHEL4
+advisory:::2007:0007.1:::1167998400:::M:::RHSA-2007:0001-01: openoffice.org security update:::
+package:::2007:0007.1:::openoffice.org:::1.1.5-6.6.0.EL4
+package:::2007:0007.1:::openoffice.org-debuginfo:::1.1.5-6.6.0.EL4
+package:::2007:0007.1:::openoffice.org-i18n:::1.1.5-6.6.0.EL4
+package:::2007:0007.1:::openoffice.org-kde:::1.1.5-6.6.0.EL4
+package:::2007:0007.1:::openoffice.org-libs:::1.1.5-6.6.0.EL4
+advisory:::2007:0021.1:::1168344000:::L:::RHSA-2007:0009-01: flash-plugin security update:::
+package:::2007:0021.1:::flash-plugin:::7.0.69-1.el4
+advisory:::2007:0037.2:::1168516800:::L:::(CIO Override: DUE 2007-03-01) RHEA-2005:656-6: IBM CIO Issued Security Advisory for DST:::echo $TZ | grep -vq "M3.2.0[\/]*[0-9]*,M11.1.0"
+package:::2007:0037.2:::tzdata:::2005m-1.EL4
+advisory:::2007:0046.1:::1168516800:::M:::RHSA-2007:0003-01: xorg-x11 security update:::
+package:::2007:0046.1:::xorg-x11:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-Xdmx:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-Xnest:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-Xvfb:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-devel:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-doc:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-font-utils:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-libs:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-sdk:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-tools:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-twm:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-xauth:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-xdm:::6.8.2-1.EL.13.37.5
+package:::2007:0046.1:::xorg-x11-xfs:::6.8.2-1.EL.13.37.5
+advisory:::2007:0048.1:::1168516800:::M:::RHSA-2007:0017-01: Adobe Acrobat Reader security update:::
+package:::2007:0048.1:::acroread:::7.0.9-1.2.0.EL4
+package:::2007:0048.1:::acroread-plugin:::7.0.9-1.2.0.EL4
+advisory:::2007:0047.1:::1168516800:::M:::RHSA-2007:0011-01: libgsf security update:::
+package:::2007:0047.1:::libgsf:::1.10.1-2
+package:::2007:0047.1:::libgsf-debuginfo:::1.10.1-2
+package:::2007:0047.1:::libgsf-devel:::1.10.1-2
+advisory:::2007:0132.1:::1169640000:::L:::RHSA-2007:0019-02: gtk2 security update:::
+package:::2007:0132.1:::gtk2:::2.4.13-22
+package:::2007:0132.1:::gtk2-debuginfo:::2.4.13-22
+package:::2007:0132.1:::gtk2-devel:::2.4.13-22
+advisory:::2007:0154.1:::1170244800:::M:::RHSA-2007:0014-01: kernel security update:::
+package:::2007:0154.1:::kernel:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-debuginfo:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-devel:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-doc:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-hugemem:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-hugemem-devel:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-smp:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-smp-devel:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-largesmp:::2.6.9-42.0.8.EL
+package:::2007:0154.1:::kernel-largesmp-devel:::2.6.9-42.0.8.EL
+advisory:::2007:0155.1:::1170244800:::L:::RHSA-2007:0018-01: fetchmail security update:::
+package:::2007:0155.1:::fetchmail:::6.2.5-6.el4.5
+package:::2007:0155.1:::fetchmail-debuginfo:::6.2.5-6.el4.5
+advisory:::2007:0156.1:::1170244800:::L:::RHSA-2007:0022-01: squirrelmail security update:::
+package:::2007:0156.1:::squirrelmail:::1.4.8-4.el4
+advisory:::2007:0182.1:::1170849600:::L:::RHSA-2007:0044-01: bind security update:::&processRunning( "named" )
+package:::2007:0182.1:::bind:::9.2.4-24.EL4
+package:::2007:0182.1:::bind-chroot:::9.2.4-24.EL4
+package:::2007:0182.1:::bind-debuginfo:::9.2.4-24.EL4
+package:::2007:0182.1:::bind-devel:::9.2.4-24.EL4
+package:::2007:0182.1:::bind-libs:::9.2.4-24.EL4
+package:::2007:0182.1:::bind-utils:::9.2.4-24.EL4
+advisory:::2007:0202.1:::1171022400:::M:::RHSA-2007:0062-02: java-1.4.2-ibm security update:::
+package:::2007:0202.1:::java-1.4.2-ibm:::1.4.2.7-1jpp.4.el4
+package:::2007:0202.1:::java-1.4.2-ibm-demo:::1.4.2.7-1jpp.4.el4
+package:::2007:0202.1:::java-1.4.2-ibm-devel:::1.4.2.7-1jpp.4.el4
+package:::2007:0202.1:::java-1.4.2-ibm-javacomm:::1.4.2.7-1jpp.4.el4
+package:::2007:0202.1:::java-1.4.2-ibm-jdbc:::1.4.2.7-1jpp.4.el4
+package:::2007:0202.1:::java-1.4.2-ibm-plugin:::1.4.2.7-1jpp.4.el4
+package:::2007:0202.1:::java-1.4.2-ibm-src:::1.4.2.7-1jpp.4.el4
+advisory:::2007:0206.1:::1171022400:::M:::RHSA-2007:0073-01: java-1.5.0-ibm security update:::
+package:::2007:0206.1:::java-1.5.0-ibm:::1.5.0.3-1jpp.3.el4
+package:::2007:0206.1:::java-1.5.0-ibm-demo:::1.5.0.3-1jpp.3.el4
+package:::2007:0206.1:::java-1.5.0-ibm-devel:::1.5.0.3-1jpp.3.el4
+package:::2007:0206.1:::java-1.5.0-ibm-javacomm:::1.5.0.3-1jpp.3.el4
+package:::2007:0206.1:::java-1.5.0-ibm-jdbc:::1.5.0.3-1jpp.3.el4
+package:::2007:0206.1:::java-1.5.0-ibm-plugin:::1.5.0.3-1jpp.3.el4
+package:::2007:0206.1:::java-1.5.0-ibm-src:::1.5.0.3-1jpp.3.el4
+advisory:::2007:0201.1:::1171022400:::L:::RHSA-2007:0008-01: dbus security update:::
+package:::2007:0201.1:::dbus:::0.22-12.EL.8
+package:::2007:0201.1:::dbus-devel:::0.22-12.EL.8
+package:::2007:0201.1:::dbus-debuginfo:::0.22-12.EL.8
+package:::2007:0201.1:::dbus-glib:::0.22-12.EL.8
+package:::2007:0201.1:::dbus-python:::0.22-12.EL.8
+package:::2007:0201.1:::dbus-x11:::0.22-12.EL.8
+advisory:::2007:0203.1:::1171022400:::L:::RHSA-2007:0064-01: postgresql security update:::&processRunning( "postmaster" )
+package:::2007:0203.1:::postgresql:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-contrib:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-debuginfo:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-devel:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-docs:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-jdbc:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-libs:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-pl:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-python:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-server:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-tcl:::7.4.16-1.RHEL4.1
+package:::2007:0203.1:::postgresql-test:::7.4.16-1.RHEL4.1
+advisory:::2007:0244.1:::1171627200:::M:::RHSA-2007:0015-01: ImageMagick security update:::
+package:::2007:0244.1:::ImageMagick:::6.0.7.1-16.0.3
+package:::2007:0244.1:::ImageMagick-c++:::6.0.7.1-16.0.3
+package:::2007:0244.1:::ImageMagick-c++-devel:::6.0.7.1-16.0.3
+package:::2007:0244.1:::ImageMagick-debuginfo:::6.0.7.1-16.0.3
+package:::2007:0244.1:::ImageMagick-devel:::6.0.7.1-16.0.3
+package:::2007:0244.1:::ImageMagick-perl:::6.0.7.1-16.0.3
+advisory:::2007:0245.1:::1171627200:::L:::RHSA-2007:0060-01: samba security update:::&processRunning( "smbd" )
+package:::2007:0245.1:::samba:::3.0.10-1.4E.11
+package:::2007:0245.1:::samba-client:::3.0.10-1.4E.11
+package:::2007:0245.1:::samba-common:::3.0.10-1.4E.11
+package:::2007:0245.1:::samba-debuginfo:::3.0.10-1.4E.11
+package:::2007:0245.1:::samba-swat:::3.0.10-1.4E.11
+advisory:::2007:0255.1:::1171972800:::M:::RHSA-2007:0076-01: php security update:::&processRunning( "httpd" )
+package:::2007:0255.1:::php:::4.3.9-3.22.3
+package:::2007:0255.1:::php-debuginfo:::4.3.9-3.22.3
+package:::2007:0255.1:::php-devel:::4.3.9-3.22.3
+package:::2007:0255.1:::php-domxml:::4.3.9-3.22.3
+package:::2007:0255.1:::php-gd:::4.3.9-3.22.3
+package:::2007:0255.1:::php-imap:::4.3.9-3.22.3
+package:::2007:0255.1:::php-ldap:::4.3.9-3.22.3
+package:::2007:0255.1:::php-mbstring:::4.3.9-3.22.3
+package:::2007:0255.1:::php-mysql:::4.3.9-3.22.3
+package:::2007:0255.1:::php-ncurses:::4.3.9-3.22.3
+package:::2007:0255.1:::php-odbc:::4.3.9-3.22.3
+package:::2007:0255.1:::php-pear:::4.3.9-3.22.3
+package:::2007:0255.1:::php-pgsql:::4.3.9-3.22.3
+package:::2007:0255.1:::php-snmp:::4.3.9-3.22.3
+package:::2007:0255.1:::php-xmlrpc:::4.3.9-3.22.3
+advisory:::2007:0037.2b:::1172059200:::L:::(CIO Override: DUE 2007-03-01) /etc/localtime needs to be updated for DST changes:::/usr/sbin/zdump -v /etc/localtime 2>/dev/null | egrep '2007 .* isdst=1 gmtoff=-(14400|18000|21600|25200|28800|32400)' >/dev/null && ! /usr/sbin/zdump -v /etc/localtime 2>/dev/null | grep "Mar 11 .* 2007" >/dev/null
+package:::2007:0037.2b:::tzdata:::999999-ETC_LOCALTIME.UPDATE.REQUIRED
+advisory:::2007:0260.1:::1172059200:::M:::RHSA-2007:0086-01: gnomemeeting security update:::
+package:::2007:0260.1:::gnomemeeting:::1.0.2-9
+package:::2007:0260.1:::gnomemeeting-debuginfo:::1.0.2-9
+advisory:::2007:0270.1:::1172232000:::L:::RHSA-2007:0074-01: spamassassin security update:::
+package:::2007:0270.1:::spamassassin:::3.1.8-2.el4
+package:::2007:0270.1:::spamassassin-debuginfo:::3.1.8-2.el4
+advisory:::2007:0277.1:::1172491200:::M:::RHSA-2007:0077-01: seamonkey security update:::
+package:::2007:0277.1:::devhelp:::0.10-0.7.el4
+package:::2007:0277.1:::devhelp-debuginfo:::0.10-0.7.el4
+package:::2007:0277.1:::devhelp-devel:::0.10-0.7.el4
+package:::2007:0277.1:::seamonkey:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-chat:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-debuginfo:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-devel:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-dom-inspector:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-js-debugger:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-mail:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-nspr:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-nspr-devel:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-nss:::1.0.8-0.1.el4
+package:::2007:0277.1:::seamonkey-nss-devel:::1.0.8-0.1.el4
+advisory:::2007:0278.1:::1172491200:::M:::RHSA-2007:0079-01: Firefox security update:::
+package:::2007:0278.1:::firefox:::1.5.0.10-0.1.el4
+package:::2007:0278.1:::firefox-debuginfo:::1.5.0.10-0.1.el4
+advisory:::2007:0281.1:::1172577600:::L:::RHSA-2007:0085-01: kernel security update:::
+package:::2007:0281.1:::kernel:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-debuginfo:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-devel:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-doc:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-hugemem:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-hugemem-devel:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-smp:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-smp-devel:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-largesmp:::2.6.9-42.0.10.EL
+package:::2007:0281.1:::kernel-largesmp-devel:::2.6.9-42.0.10.EL
+advisory:::2007:0307.1:::1172836800:::H:::RHSA-2007:0078-01: thunderbird security update:::
+package:::2007:0307.1:::thunderbird:::1.5.0.10-0.1.el4
+package:::2007:0307.1:::thunderbird-debuginfo:::1.5.0.10-0.1.el4
+advisory:::2007:0321.1:::1173182400:::L:::RHSA-2007:0106-01: gnupg security update:::
+package:::2007:0321.1:::gnupg:::1.2.6-9
+package:::2007:0321.1:::gnupg-debuginfo:::1.2.6-9
+advisory:::2007:0364.1:::1173960000:::L:::RHSA-2007:0066-01: wireshark security update:::
+package:::2007:0364.1:::wireshark:::0.99.5-EL4.1
+package:::2007:0364.1:::wireshark-debuginfo:::0.99.5-EL4.1
+package:::2007:0364.1:::wireshark-gnome:::0.99.5-EL4.1
+advisory:::2007:0455.1:::1174651200:::M:::RHSA-2007:0033-01: openoffice.org security update:::
+package:::2007:0455.1:::openoffice.org:::1.1.5-10.6.0.EL4
+package:::2007:0455.1:::openoffice.org-debuginfo:::1.1.5-10.6.0.EL4
+package:::2007:0455.1:::openoffice.org-i18n:::1.1.5-10.6.0.EL4
+package:::2007:0455.1:::openoffice.org-kde:::1.1.5-10.6.0.EL4
+package:::2007:0455.1:::openoffice.org-libs:::1.1.5-10.6.0.EL4
+advisory:::2007:0469.1:::1174910400:::L:::RHSA-2007:0124-01: file security update:::
+package:::2007:0469.1:::file:::4.10-3.EL4.5
+package:::2007:0469.1:::file-debuginfo:::4.10-3.EL4.5
+advisory:::2007:0498.1:::1175688000:::M:::RHSA-2007:0095-01: krb5 security update:::
+package:::2007:0498.1:::krb5-debuginfo:::1.3.4-46
+package:::2007:0498.1:::krb5-devel:::1.3.4-46
+package:::2007:0498.1:::krb5-libs:::1.3.4-46
+package:::2007:0498.1:::krb5-server:::1.3.4-46
+package:::2007:0498.1:::krb5-workstation:::1.3.4-46
+advisory:::2007:0504.1:::1175688000:::L:::RHSA-2007:0152-01: mysql security update:::&processRunning( "mysqld" )
+package:::2007:0504.1:::mysql:::4.1.20-2.RHEL4.1
+package:::2007:0504.1:::mysql-bench:::4.1.20-2.RHEL4.1
+package:::2007:0504.1:::mysql-debuginfo:::4.1.20-2.RHEL4.1
+package:::2007:0504.1:::mysql-devel:::4.1.20-2.RHEL4.1
+package:::2007:0504.1:::mysql-server:::4.1.20-2.RHEL4.1
+advisory:::2007:0500.1:::1175688000:::L:::RHSA-2007:0126-01: xorg-x11 security update:::
+package:::2007:0500.1:::xorg-x11:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-Xdmx:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-Xnest:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-Xvfb:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-devel:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-doc:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-font-utils:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-libs:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-sdk:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-tools:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-twm:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-xauth:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-xdm:::6.8.2-1.EL.13.37.7
+package:::2007:0500.1:::xorg-x11-xfs:::6.8.2-1.EL.13.37.7
+advisory:::2007:0582.1:::1176724800:::M:::RHSA-2007:0150-01: freetype security update:::
+package:::2007:0582.1:::freetype:::2.1.9-5.el4
+package:::2007:0582.1:::freetype-debuginfo:::2.1.9-5.el4
+package:::2007:0582.1:::freetype-demos:::2.1.9-5.el4
+package:::2007:0582.1:::freetype-devel:::2.1.9-5.el4
+package:::2007:0582.1:::freetype-utils:::2.1.9-5.el4
+advisory:::2007:0591.1:::1176811200:::M:::RHSA-2007:0155-01: php security update:::&processRunning( "httpd" )
+package:::2007:0591.1:::php:::4.3.9-3.22.4
+package:::2007:0591.1:::php-debuginfo:::4.3.9-3.22.4
+package:::2007:0591.1:::php-devel:::4.3.9-3.22.4
+package:::2007:0591.1:::php-domxml:::4.3.9-3.22.4
+package:::2007:0591.1:::php-gd:::4.3.9-3.22.4
+package:::2007:0591.1:::php-imap:::4.3.9-3.22.4
+package:::2007:0591.1:::php-ldap:::4.3.9-3.22.4
+package:::2007:0591.1:::php-mbstring:::4.3.9-3.22.4
+package:::2007:0591.1:::php-mysql:::4.3.9-3.22.4
+package:::2007:0591.1:::php-ncurses:::4.3.9-3.22.4
+package:::2007:0591.1:::php-odbc:::4.3.9-3.22.4
+package:::2007:0591.1:::php-pear:::4.3.9-3.22.4
+package:::2007:0591.1:::php-pgsql:::4.3.9-3.22.4
+package:::2007:0591.1:::php-snmp:::4.3.9-3.22.4
+package:::2007:0591.1:::php-xmlrpc:::4.3.9-3.22.4
+advisory:::2007:0580.1:::1176724800:::L:::RHSA-2007:0123-01: cups security update:::&processRunning( "cupsd" )
+package:::2007:0580.1:::cups:::1.1.22-0.rc1.9.18
+package:::2007:0580.1:::cups-debuginfo:::1.1.22-0.rc1.9.18
+package:::2007:0580.1:::cups-devel:::1.1.22-0.rc1.9.18
+package:::2007:0580.1:::cups-libs:::1.1.22-0.rc1.9.18
+advisory:::2007:0651.1:::1177502400:::L:::RHSA-2007:0166-01: java-1.4.2-ibm security update:::
+package:::2007:0651.1:::java-1.4.2-ibm:::1.4.2.8-1jpp.1.el4
+package:::2007:0651.1:::java-1.4.2-ibm-demo:::1.4.2.8-1jpp.1.el4
+package:::2007:0651.1:::java-1.4.2-ibm-devel:::1.4.2.8-1jpp.1.el4
+package:::2007:0651.1:::java-1.4.2-ibm-javacomm:::1.4.2.8-1jpp.1.el4
+package:::2007:0651.1:::java-1.4.2-ibm-jdbc:::1.4.2.8-1jpp.1.el4
+package:::2007:0651.1:::java-1.4.2-ibm-plugin:::1.4.2.8-1jpp.1.el4
+package:::2007:0651.1:::java-1.4.2-ibm-src:::1.4.2.8-1jpp.1.el4
+advisory:::2007:0660.1:::1177588800:::L:::RHSA-2007:0167-01: java-1.5.0-ibm security update:::
+package:::2007:0660.1:::java-1.5.0-ibm:::1.5.0.4-1jpp.3.el4
+package:::2007:0660.1:::java-1.5.0-ibm-demo:::1.5.0.4-1jpp.3.el4
+package:::2007:0660.1:::java-1.5.0-ibm-devel:::1.5.0.4-1jpp.3.el4
+package:::2007:0660.1:::java-1.5.0-ibm-javacomm:::1.5.0.4-1jpp.3.el4
+package:::2007:0660.1:::java-1.5.0-ibm-jdbc:::1.5.0.4-1jpp.3.el4
+package:::2007:0660.1:::java-1.5.0-ibm-plugin:::1.5.0.4-1jpp.3.el4
+package:::2007:0660.1:::java-1.5.0-ibm-src:::1.5.0.4-1jpp.3.el4
+advisory:::2007:0698.1:::1178107200:::L:::RHSA-2007:0208-02: w3c-libwww security and bug fix update:::
+package:::2007:0698.1:::w3c-libwww:::5.4.0-10.1.RHEL4.2
+package:::2007:0698.1:::w3c-libwww-apps:::5.4.0-10.1.RHEL4.2
+package:::2007:0698.1:::w3c-libwww-debuginfo:::5.4.0-10.1.RHEL4.2
+package:::2007:0698.1:::w3c-libwww-devel:::5.4.0-10.1.RHEL4.2
+advisory:::2007:0694.1:::1178107200:::L:::RHSA-2007:0244-02: busybox security update:::
+package:::2007:0694.1:::busybox:::1.00.rc1-7.el4
+package:::2007:0694.1:::busybox-anaconda:::1.00.rc1-7.el4
+package:::2007:0694.1:::busybox-debuginfo:::1.00.rc1-7.el4
+advisory:::2007:0690.1:::1178107200:::L:::RHSA-2007:0257-02: openssh security and bug fix update:::
+package:::2007:0690.1:::openssh:::3.9p1-8.RHEL4.20
+package:::2007:0690.1:::openssh-askpass:::3.9p1-8.RHEL4.20
+package:::2007:0690.1:::openssh-askpass-gnome:::3.9p1-8.RHEL4.20
+package:::2007:0690.1:::openssh-clients:::3.9p1-8.RHEL4.20
+package:::2007:0690.1:::openssh-debuginfo:::3.9p1-8.RHEL4.20
+package:::2007:0690.1:::openssh-server:::3.9p1-8.RHEL4.20
+advisory:::2007:0695.1:::1178107200:::L:::RHSA-2007:0235-02: util-linux security and bug fix update:::
+package:::2007:0695.1:::util-linux:::2.12a-16.EL4.25
+package:::2007:0695.1:::util-linux-debuginfo:::2.12a-16.EL4.25
+advisory:::2007:0696.1:::1178107200:::L:::RHSA-2007:0229-02: gdb security and bug fix update:::
+package:::2007:0696.1:::gdb:::6.3.0.0-1.143.el4
+package:::2007:0696.1:::gdb-debuginfo:::6.3.0.0-1.143.el4
+advisory:::2007:0691.1:::1178107200:::L:::RHSA-2007:0252-02: sendmail security and bug fix update:::netstat --inet -an | awk '{print $4}' | grep ':25$' | grep -v '^127.0.0.1:'
+package:::2007:0691.1:::sendmail:::8.13.1-3.2.el4
+package:::2007:0691.1:::sendmail-cf:::8.13.1-3.2.el4
+package:::2007:0691.1:::sendmail-debuginfo:::8.13.1-3.2.el4
+package:::2007:0691.1:::sendmail-devel:::8.13.1-3.2.el4
+package:::2007:0691.1:::sendmail-doc:::8.13.1-3.2.el4
+advisory:::2007:0693.1:::1178107200:::L:::RHSA-2007:0245-02: cpio security and bug fix update:::
+package:::2007:0693.1:::cpio:::2.5-13.RHEL4
+package:::2007:0693.1:::cpio-debuginfo:::2.5-13.RHEL4
+advisory:::2007:0697.1:::1178107200:::L:::RHSA-2007:0220-02: gcc security and bug fix update:::
+package:::2007:0697.1:::cpp:::3.4.6-8
+package:::2007:0697.1:::gcc:::3.4.6-8
+package:::2007:0697.1:::gcc-c++:::3.4.6-8
+package:::2007:0697.1:::gcc-debuginfo:::3.4.6-8
+package:::2007:0697.1:::gcc-g77:::3.4.6-8
+package:::2007:0697.1:::gcc-gnat:::3.4.6-8
+package:::2007:0697.1:::gcc-java:::3.4.6-8
+package:::2007:0697.1:::gcc-objc:::3.4.6-8
+package:::2007:0697.1:::libf2c:::3.4.6-8
+package:::2007:0697.1:::libgcc:::3.4.6-8
+package:::2007:0697.1:::libgcj:::3.4.6-8
+package:::2007:0697.1:::libgcj-devel:::3.4.6-8
+package:::2007:0697.1:::libgnat:::3.4.6-8
+package:::2007:0697.1:::libobjc:::3.4.6-8
+package:::2007:0697.1:::libstdc++:::3.4.6-8
+package:::2007:0697.1:::libstdc++-devel:::3.4.6-8
+advisory:::2007:0699.1:::1178107200:::L:::RHSA-2007:0203-02: unzip security and bug fix update:::
+package:::2007:0699.1:::unzip:::5.51-9.EL4.5
+package:::2007:0699.1:::unzip-debuginfo:::5.51-9.EL4.5
+advisory:::2007:0687.1:::1178107200:::L:::RHSA-2007:0310-02: openldap security update:::&processRunning( "slapd" )
+package:::2007:0687.1:::compat-openldap:::2.1.30-7.4E
+package:::2007:0687.1:::openldap:::2.2.13-7.4E
+package:::2007:0687.1:::openldap-clients:::2.2.13-7.4E
+package:::2007:0687.1:::openldap-debuginfo:::2.2.13-7.4E
+package:::2007:0687.1:::openldap-devel:::2.2.13-7.4E
+package:::2007:0687.1:::openldap-servers:::2.2.13-7.4E
+package:::2007:0687.1:::openldap-servers-sql:::2.2.13-7.4E
+advisory:::2007:0689.1:::1178107200:::L:::RHSA-2007:0276-02: shadow-utils security and bug fix update:::
+package:::2007:0689.1:::shadow-utils:::4.0.3-61.RHEL4
+package:::2007:0689.1:::shadow-utils-debuginfo:::4.0.3-61.RHEL4
+advisory:::2007:0688.1:::1178107200:::L:::RHSA-2007:0286-02: gdm security and bug fix update:::
+package:::2007:0688.1:::gdm:::2.6.0.5-7.rhel4.15
+package:::2007:0688.1:::gdm-debuginfo:::2.6.0.5-7.rhel4.15
+advisory:::2007:0707.1:::1178193600:::L:::RHSA-2007:0322-01: xscreensaver security update:::
+package:::2007:0707.1:::xscreensaver:::4.18-5.rhel4.14
+package:::2007:0707.1:::xscreensaver-debuginfo:::4.18-5.rhel4.14
+advisory:::2007:0738.1:::1178712000:::M:::RHSA-2007:0336-01: postgresql security update:::&processRunning( "postmaster" )
+package:::2007:0738.1:::postgresql:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-contrib:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-debuginfo:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-devel:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-docs:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-jdbc:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-libs:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-pl:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-python:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-server:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-tcl:::7.4.17-1.RHEL4.1
+package:::2007:0738.1:::postgresql-test:::7.4.17-1.RHEL4.1
+advisory:::2007:0753.1:::1178798400:::M:::RHSA-2007:0349-01: php security update:::&processRunning( "httpd" )
+package:::2007:0753.1:::php:::4.3.9-3.22.5
+package:::2007:0753.1:::php-debuginfo:::4.3.9-3.22.5
+package:::2007:0753.1:::php-devel:::4.3.9-3.22.5
+package:::2007:0753.1:::php-domxml:::4.3.9-3.22.5
+package:::2007:0753.1:::php-gd:::4.3.9-3.22.5
+package:::2007:0753.1:::php-imap:::4.3.9-3.22.5
+package:::2007:0753.1:::php-ldap:::4.3.9-3.22.5
+package:::2007:0753.1:::php-mbstring:::4.3.9-3.22.5
+package:::2007:0753.1:::php-mysql:::4.3.9-3.22.5
+package:::2007:0753.1:::php-ncurses:::4.3.9-3.22.5
+package:::2007:0753.1:::php-odbc:::4.3.9-3.22.5
+package:::2007:0753.1:::php-pear:::4.3.9-3.22.5
+package:::2007:0753.1:::php-pgsql:::4.3.9-3.22.5
+package:::2007:0753.1:::php-snmp:::4.3.9-3.22.5
+package:::2007:0753.1:::php-xmlrpc:::4.3.9-3.22.5
+advisory:::2007:0772.1:::1179230400:::M:::RHSA-2007:0354-01: samba security update:::&processRunning( "(smbd|nmbd)" )
+package:::2007:0772.1:::samba:::3.0.10-1.4E.12.2
+package:::2007:0772.1:::samba-client:::3.0.10-1.4E.12.2
+package:::2007:0772.1:::samba-common:::3.0.10-1.4E.12.2
+package:::2007:0772.1:::samba-debuginfo:::3.0.10-1.4E.12.2
+package:::2007:0772.1:::samba-swat:::3.0.10-1.4E.12.2
+advisory:::2007:0770.1:::1179230400:::L:::RHSA-2007:0065-01: bluez-utils security update:::&processRunning( "hidd" )
+package:::2007:0770.1:::bluez-utils:::2.10-2.2
+package:::2007:0770.1:::bluez-utils-cups:::2.10-2.2
+package:::2007:0770.1:::bluez-utils-debuginfo:::2.10-2.2
+advisory:::2007:0811.1:::1179489600:::L:::RHSA-2007:0356-01: libpng security update:::
+package:::2007:0811.1:::libpng:::1.2.7-3.el4
+package:::2007:0811.1:::libpng-debuginfo:::1.2.7-3.el4
+package:::2007:0811.1:::libpng-devel:::1.2.7-3.el4
+package:::2007:0811.1:::libpng10:::1.0.16-3
+package:::2007:0811.1:::libpng10-debuginfo:::1.0.16-3
+package:::2007:0811.1:::libpng10-devel:::1.0.16-3
+advisory:::2007:0810.1:::1179489600:::L:::RHSA-2007:0353-01: evolution security update:::
+package:::2007:0810.1:::evolution:::2.0.2-35.0.2.el4
+package:::2007:0810.1:::evolution-debuginfo:::2.0.2-35.0.2.el4
+package:::2007:0810.1:::evolution-devel:::2.0.2-35.0.2.el4
+advisory:::2007:0812.1:::1179489600:::L:::RHSA-2007:0358-01: squirrelmail security update:::
+package:::2007:0812.1:::squirrelmail:::1.4.8-4.0.1.el4
+advisory:::2007:0809.1:::1179489600:::L:::RHSA-2007:0345-01: vixie-cron security update:::
+package:::2007:0809.1:::vixie-cron:::4.1-47.EL4
+package:::2007:0809.1:::vixie-cron-debuginfo:::4.1-47.EL4
+advisory:::2007:0824.1:::1179748800:::M:::RHSA-2007:0343-01: gimp security update:::
+package:::2007:0824.1:::gimp:::2.0.5-6.2.el4
+package:::2007:0824.1:::gimp-debuginfo:::2.0.5-6.2.el4
+package:::2007:0824.1:::gimp-devel:::2.0.5-6.2.el4
+advisory:::2007:0847.1:::1180526400:::L:::RHSA-2007:0389-01: quagga security update:::
+package:::2007:0847.1:::quagga:::0.98.3-2.4.0.1.el4
+package:::2007:0847.1:::quagga-contrib:::0.98.3-2.4.0.1.el4
+package:::2007:0847.1:::quagga-debuginfo:::0.98.3-2.4.0.1.el4
+package:::2007:0847.1:::quagga-devel:::0.98.3-2.4.0.1.el4
+advisory:::2007:0848.1:::1180526400:::M:::RHSA-2007:0391-01: file security update:::
+package:::2007:0848.1:::file:::4.10-3.0.2.el4
+package:::2007:0848.1:::file-debuginfo:::4.10-3.0.2.el4
+advisory:::2007:0856.1:::1180612800:::M:::RHSA-2007:0402-01: seamonkey security update:::
+package:::2007:0856.1:::devhelp:::0.10-0.8.el4
+package:::2007:0856.1:::devhelp-debuginfo:::0.10-0.8.el4
+package:::2007:0856.1:::devhelp-devel:::0.10-0.8.el4
+package:::2007:0856.1:::seamonkey:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-chat:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-debuginfo:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-devel:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-dom-inspector:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-js-debugger:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-mail:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-nspr:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-nspr-devel:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-nss:::1.0.9-2.el4
+package:::2007:0856.1:::seamonkey-nss-devel:::1.0.9-2.el4
+advisory:::2007:0854.1:::1180612800:::M:::RHSA-2007:0400-01: firefox security update:::
+package:::2007:0854.1:::firefox:::1.5.0.12-0.1.el4
+package:::2007:0854.1:::firefox-debuginfo:::1.5.0.12-0.1.el4
+advisory:::2007:0855.1:::1180612800:::M:::RHSA-2007:0401-01: thunderbird security update:::
+package:::2007:0855.1:::thunderbird:::1.5.0.12-0.1.el4
+package:::2007:0855.1:::thunderbird-debuginfo:::1.5.0.12-0.1.el4
+advisory:::2007:0924.1:::1180958400:::M:::RHSA-2007:0386-01: mutt security update:::
+package:::2007:0924.1:::mutt:::1.4.1-12.0.3.el4
+package:::2007:0924.1:::mutt-debuginfo:::1.4.1-12.0.3.el4
+advisory:::2007:0964.1:::1181217600:::M:::RHSA-2007:0385-01: fetchmail security update:::
+package:::2007:0964.1:::fetchmail:::6.2.5-6.0.1.el4
+package:::2007:0964.1:::fetchmail-debuginfo:::6.2.5-6.0.1.el4
+advisory:::2007:0976.1:::1181563200:::M:::RHSA-2007:0403-01: freetype security update:::
+package:::2007:0976.1:::freetype:::2.1.9-6.el4
+package:::2007:0976.1:::freetype-debuginfo:::2.1.9-6.el4
+package:::2007:0976.1:::freetype-demos:::2.1.9-6.el4
+package:::2007:0976.1:::freetype-devel:::2.1.9-6.el4
+package:::2007:0976.1:::freetype-utils:::2.1.9-6.el4
+advisory:::2007:1018.1:::1181822400:::L:::RHSA-2007:0494-01: kdebase security update:::
+package:::2007:1018.1:::kdebase:::3.3.1-5.19.rhel4
+package:::2007:1018.1:::kdebase-debuginfo:::3.3.1-5.19.rhel4
+package:::2007:1018.1:::kdebase-devel:::3.3.1-5.19.rhel4
+advisory:::2007:1025.1:::1181822400:::L:::RHSA-2007:0395-01: mod_perl security update:::&processRunning( "httpd" )
+package:::2007:1025.1:::mod_perl:::1.99_16-4.5
+package:::2007:1025.1:::mod_perl-debuginfo:::1.99_16-4.5
+package:::2007:1025.1:::mod_perl-devel:::1.99_16-4.5
+advisory:::2007:1016.1:::1181822400:::L:::RHSA-2007:0406-01: openoffice.org security update:::
+package:::2007:1016.1:::openoffice.org:::1.1.5-10.6.0.1.EL4
+package:::2007:1016.1:::openoffice.org-debuginfo:::1.1.5-10.6.0.1.EL4
+package:::2007:1016.1:::openoffice.org-i18n:::1.1.5-10.6.0.1.EL4
+package:::2007:1016.1:::openoffice.org-kde:::1.1.5-10.6.0.1.EL4
+package:::2007:1016.1:::openoffice.org-libs:::1.1.5-10.6.0.1.EL4
+package:::2007:1016.1:::openoffice.org2-base:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-calc:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-core:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-debuginfo:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-draw:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-emailmerge:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-graphicfilter:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-impress:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-javafilter:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-af_ZA:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-ar:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-bg_BG:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-bn:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-ca_ES:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-cs_CZ:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-cy_GB:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-da_DK:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-de:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-el_GR:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-es:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-et_EE:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-eu_ES:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-fi_FI:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-fr:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-ga_IE:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-gl_ES:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-gu_IN:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-he_IL:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-hi_IN:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-hr_HR:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-hu_HU:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-it:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-ja_JP:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-ko_KR:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-lt_LT:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-ms_MY:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-nb_NO:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-nl:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-nn_NO:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-pa_IN:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-pl_PL:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-pt_BR:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-pt_PT:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-ru:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-sk_SK:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-sl_SI:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-sr_CS:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-sv:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-ta_IN:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-th_TH:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-tr_TR:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-zh_CN:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-zh_TW:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-langpack-zu_ZA:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-math:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-pyuno:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-testtools:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-writer:::2.0.4-5.7.0.1.0
+package:::2007:1016.1:::openoffice.org2-xsltfilter:::2.0.4-5.7.0.1.0
+advisory:::2007:1017.1:::1181822400:::L:::RHSA-2007:0492-01: spamassassin security update:::
+package:::2007:1017.1:::spamassassin:::3.1.9-1.el4
+package:::2007:1017.1:::spamassassin-debuginfo:::3.1.9-1.el4
+advisory:::2007:1028.1:::1181908800:::L:::RHSA-2007:0501-01: libexif integer overflow:::
+package:::2007:1028.1:::libexif:::0.5.12-5.1.0.2
+package:::2007:1028.1:::libexif-debuginfo:::0.5.12-5.1.0.2
+package:::2007:1028.1:::libexif-devel:::0.5.12-5.1.0.2
+advisory:::2007:1091.1:::1182859200:::M:::RHSA-2007:0509-01: evolution security update:::
+package:::2007:1091.1:::evolution:::2.0.2-35.0.4.el4
+package:::2007:1091.1:::evolution-debuginfo:::2.0.2-35.0.4.el4
+package:::2007:1091.1:::evolution-devel:::2.0.2-35.0.4.el4
+advisory:::2007:1111.1:::1182945600:::M:::RHSA-2007:0562-01: krb5 security update:::&processRunning( "kadmind" )
+package:::2007:1111.1:::krb5-debuginfo:::1.3.4-49
+package:::2007:1111.1:::krb5-devel:::1.3.4-49
+package:::2007:1111.1:::krb5-libs:::1.3.4-49
+package:::2007:1111.1:::krb5-server:::1.3.4-49
+package:::2007:1111.1:::krb5-workstation:::1.3.4-49
+advisory:::2007:1106.1:::1182945600:::L:::RHSA-2007:0488-01: kernel security update:::
+package:::2007:1106.1:::kernel:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-debuginfo:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-devel:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-doc:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-hugemem:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-hugemem-devel:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-smp:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-smp-devel:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-largesmp:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-largesmp-devel:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-xenU:::2.6.9-55.0.2.EL
+package:::2007:1106.1:::kernel-xenU-devel:::2.6.9-55.0.2.EL
+advisory:::2007:1109.1:::1182945600:::L:::RHSA-2007:0534-01: httpd security update:::&processRunning( "httpd" )
+package:::2007:1109.1:::httpd:::2.0.52-32.2.ent
+package:::2007:1109.1:::httpd-debuginfo:::2.0.52-32.2.ent
+package:::2007:1109.1:::httpd-devel:::2.0.52-32.2.ent
+package:::2007:1109.1:::httpd-manual:::2.0.52-32.2.ent
+package:::2007:1109.1:::httpd-suexec:::2.0.52-32.2.ent
+package:::2007:1109.1:::mod_ssl:::2.0.52-32.2.ent
+advisory:::2007:1117.1:::1183032000:::M:::RHSA-2007:0605-01: HelixPlayer security update:::
+package:::2007:1117.1:::HelixPlayer:::1.0.6-0.EL4.2.0.2
+package:::2007:1117.1:::HelixPlayer-debuginfo:::1.0.6-0.EL4.2.0.2
+advisory:::2007:1217.1:::1184328000:::M:::RHSA-2007:0696-01: flash-plugin security update:::
+package:::2007:1217.1:::flash-plugin:::9.0.48.0-1.el4
+advisory:::2007:1226.1:::1184328000:::L:::RHSA-2007:0662-01: httpd security update:::&processRunning( "httpd" )
+package:::2007:1226.1:::httpd:::2.0.52-32.3.ent
+package:::2007:1226.1:::httpd-debuginfo:::2.0.52-32.3.ent
+package:::2007:1226.1:::httpd-devel:::2.0.52-32.3.ent
+package:::2007:1226.1:::httpd-manual:::2.0.52-32.3.ent
+package:::2007:1226.1:::httpd-suexec:::2.0.52-32.3.ent
+package:::2007:1226.1:::mod_ssl:::2.0.52-32.3.ent
+advisory:::2007:1216.1:::1184328000:::L:::RHSA-2007:0675-01: perl-Net-DNS security update:::
+package:::2007:1216.1:::perl-Net-DNS:::0.48-2.el4
+package:::2007:1216.1:::perl-Net-DNS-debuginfo:::0.48-2.el4
+advisory:::2007:1213.1:::1184328000:::L:::RHSA-2007:0519-01: xorg-x11 security update:::
+package:::2007:1213.1:::xorg-x11:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-Xdmx:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-Xnest:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-Xvfb:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-devel:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-doc:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-font-utils:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-libs:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-sdk:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-tools:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-twm:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-xauth:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-xdm:::6.8.2-1.EL.19
+package:::2007:1213.1:::xorg-x11-xfs:::6.8.2-1.EL.19
+advisory:::2007:1241.1:::1185192000:::L:::RHSA-2007:0722-01: seamonkey security update:::
+package:::2007:1241.1:::seamonkey:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-chat:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-debuginfo:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-devel:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-dom-inspector:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-js-debugger:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-mail:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-nspr:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-nspr-devel:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-nss:::1.0.9-4.el4
+package:::2007:1241.1:::seamonkey-nss-devel:::1.0.9-4.el4
+advisory:::2007:1243.1:::1185192000:::L:::RHSA-2007:0724-01: firefox security update:::
+package:::2007:1243.1:::firefox:::1.5.0.12-0.3.el4
+package:::2007:1243.1:::firefox-debuginfo:::1.5.0.12-0.3.el4
+advisory:::2007:1242.1:::1185192000:::L:::RHSA-2007:0723-01: thunderbird security update:::
+package:::2007:1242.1:::thunderbird:::1.5.0.12-0.3.el4
+package:::2007:1242.1:::thunderbird-debuginfo:::1.5.0.12-0.3.el4
+advisory:::2007:1281.1:::1185364800:::L:::RHSA-2007:0740-01: bind security update:::&processRunning( "named" )
+package:::2007:1281.1:::bind:::9.2.4-27.0.1.el4
+package:::2007:1281.1:::bind-chroot:::9.2.4-27.0.1.el4
+package:::2007:1281.1:::bind-debuginfo:::9.2.4-27.0.1.el4
+package:::2007:1281.1:::bind-devel:::9.2.4-27.0.1.el4
+package:::2007:1281.1:::bind-libs:::9.2.4-27.0.1.el4
+package:::2007:1281.1:::bind-utils:::9.2.4-27.0.1.el4
+advisory:::2007:1314.1:::1185883200:::M:::RHSA-2007:0735-01: xpdf security update:::
+package:::2007:1314.1:::xpdf:::3.00-12.RHEL4
+package:::2007:1314.1:::xpdf-debuginfo:::3.00-12.RHEL4
+advisory:::2007:1309.1:::1185883200:::M:::RHSA-2007:0720-01: cups security update:::&processRunning( "cupsd" )
+package:::2007:1309.1:::cups:::1.1.22-0.rc1.9.20.2
+package:::2007:1309.1:::cups-debuginfo:::1.1.22-0.rc1.9.20.2
+package:::2007:1309.1:::cups-devel:::1.1.22-0.rc1.9.20.2
+package:::2007:1309.1:::cups-libs:::1.1.22-0.rc1.9.20.2
+advisory:::2007:1310.1:::1185883200:::M:::RHSA-2007:0729-01: kdegraphics security update:::
+package:::2007:1310.1:::kdegraphics:::3.3.1-4.RHEL4
+package:::2007:1310.1:::kdegraphics-debuginfo:::3.3.1-4.RHEL4
+package:::2007:1310.1:::kdegraphics-devel:::3.3.1-4.RHEL4
+advisory:::2007:1311.1:::1185883200:::M:::RHSA-2007:0730-01: gpdf security update:::
+package:::2007:1311.1:::gpdf:::2.8.2-7.7
+package:::2007:1311.1:::gpdf-debuginfo:::2.8.2-7.7
+advisory:::2007:1325.1:::1186056000:::M:::RHSA-2007:0731-01: tetex security update:::
+package:::2007:1325.1:::tetex:::2.0.2-22.0.1.EL4.8
+package:::2007:1325.1:::tetex-afm:::2.0.2-22.0.1.EL4.8
+package:::2007:1325.1:::tetex-debuginfo:::2.0.2-22.0.1.EL4.8
+package:::2007:1325.1:::tetex-doc:::2.0.2-22.0.1.EL4.8
+package:::2007:1325.1:::tetex-dvips:::2.0.2-22.0.1.EL4.8
+package:::2007:1325.1:::tetex-fonts:::2.0.2-22.0.1.EL4.8
+package:::2007:1325.1:::tetex-latex:::2.0.2-22.0.1.EL4.8
+package:::2007:1325.1:::tetex-xdvi:::2.0.2-22.0.1.EL4.8
+advisory:::2007:1321.1:::1185969600:::L:::RHSA-2007:0721-01: qt security update:::
+package:::2007:1321.1:::qt:::3.3.3-11.RHEL4
+package:::2007:1321.1:::qt-MySQL:::3.3.3-11.RHEL4
+package:::2007:1321.1:::qt-ODBC:::3.3.3-11.RHEL4
+package:::2007:1321.1:::qt-PostgreSQL:::3.3.3-11.RHEL4
+package:::2007:1321.1:::qt-config:::3.3.3-11.RHEL4
+package:::2007:1321.1:::qt-debuginfo:::3.3.3-11.RHEL4
+package:::2007:1321.1:::qt-designer:::3.3.3-11.RHEL4
+package:::2007:1321.1:::qt-devel:::3.3.3-11.RHEL4
+advisory:::2007:1356.1:::1186488000:::L:::RHSA-2007:0817-01: java-1.4.2-ibm security update:::
+package:::2007:1356.1:::java-1.4.2-ibm:::1.4.2.9-1jpp.1.el4
+package:::2007:1356.1:::java-1.4.2-ibm-demo:::1.4.2.9-1jpp.1.el4
+package:::2007:1356.1:::java-1.4.2-ibm-devel:::1.4.2.9-1jpp.1.el4
+package:::2007:1356.1:::java-1.4.2-ibm-javacomm:::1.4.2.9-1jpp.1.el4
+package:::2007:1356.1:::java-1.4.2-ibm-jdbc:::1.4.2.9-1jpp.1.el4
+package:::2007:1356.1:::java-1.4.2-ibm-plugin:::1.4.2.9-1jpp.1.el4
+package:::2007:1356.1:::java-1.4.2-ibm-src:::1.4.2.9-1jpp.1.el4
+advisory:::2007:1357.1:::1186488000:::L:::RHSA-2007:0818-01: java-1.5.0-sun security update:::
+package:::2007:1357.1:::java-1.5.0-sun:::1.5.0.12-1jpp.2.el4
+package:::2007:1357.1:::java-1.5.0-sun-demo:::1.5.0.12-1jpp.2.el4
+package:::2007:1357.1:::java-1.5.0-sun-devel:::1.5.0.12-1jpp.2.el4
+package:::2007:1357.1:::java-1.5.0-sun-jdbc:::1.5.0.12-1jpp.2.el4
+package:::2007:1357.1:::java-1.5.0-sun-plugin:::1.5.0.12-1jpp.2.el4
+package:::2007:1357.1:::java-1.5.0-sun-src:::1.5.0.12-1jpp.2.el4
+advisory:::2007:1365.1:::1186574400:::M:::RHSA-2007:0829-01: java-1.5.0-ibm security update:::
+package:::2007:1365.1:::java-1.5.0-ibm:::1.5.0.5-1jpp.2.el4
+package:::2007:1365.1:::java-1.5.0-ibm-demo:::1.5.0.5-1jpp.2.el4
+package:::2007:1365.1:::java-1.5.0-ibm-devel:::1.5.0.5-1jpp.2.el4
+package:::2007:1365.1:::java-1.5.0-ibm-javacomm:::1.5.0.5-1jpp.2.el4
+package:::2007:1365.1:::java-1.5.0-ibm-jdbc:::1.5.0.5-1jpp.2.el4
+package:::2007:1365.1:::java-1.5.0-ibm-plugin:::1.5.0.5-1jpp.2.el4
+package:::2007:1365.1:::java-1.5.0-ibm-src:::1.5.0.5-1jpp.2.el4
+advisory:::2007:1363.1:::1186574400:::L:::RHSA-2007:0765-01: libgtop2 security update:::
+package:::2007:1363.1:::libgtop2:::2.8.0-1.0.2
+package:::2007:1363.1:::libgtop2-debuginfo:::2.8.0-1.0.2
+package:::2007:1363.1:::libgtop2-devel:::2.8.0-1.0.2
+advisory:::2007:1449.1:::1187611200:::M:::RHSA-2007:0841-01: RealPlayer security update:::
+package:::2007:1449.1:::RealPlayer:::10.0.9-2
+package:::2007:1449.1:::RealPlayer-debuginfo:::10.0.9-2
+advisory:::2007:1485.1:::1188216000:::L:::RHSA-2007:0860-01: tar security update:::
+package:::2007:1485.1:::tar:::1.14-12.5.1.RHEL4
+package:::2007:1485.1:::tar-debuginfo:::1.14-12.5.1.RHEL4
+advisory:::2007:1506.1:::1188561600:::L:::RHSA-2007:0875-01: mysql security update:::&processRunning( "mysqld" )
+package:::2007:1506.1:::mysql:::4.1.20-2.RHEL4.1.0.1
+package:::2007:1506.1:::mysql-bench:::4.1.20-2.RHEL4.1.0.1
+package:::2007:1506.1:::mysql-debuginfo:::4.1.20-2.RHEL4.1.0.1
+package:::2007:1506.1:::mysql-devel:::4.1.20-2.RHEL4.1.0.1
+package:::2007:1506.1:::mysql-server:::4.1.20-2.RHEL4.1.0.1
+advisory:::2007:1520.1:::1188993600:::M:::RHSA-2007:0795-01: cyrus-sasl security and bug fix update:::
+package:::2007:1520.1:::cyrus-sasl:::2.1.19-14
+package:::2007:1520.1:::cyrus-sasl-debuginfo:::2.1.19-14
+package:::2007:1520.1:::cyrus-sasl-devel:::2.1.19-14
+package:::2007:1520.1:::cyrus-sasl-gssapi:::2.1.19-14
+package:::2007:1520.1:::cyrus-sasl-md5:::2.1.19-14
+package:::2007:1520.1:::cyrus-sasl-ntlm:::2.1.19-14
+package:::2007:1520.1:::cyrus-sasl-plain:::2.1.19-14
+package:::2007:1520.1:::cyrus-sasl-sql:::2.1.19-14
+advisory:::2007:1519.1:::1188993600:::L:::RHSA-2007:0774-01: kernel security and bugfix update:::
+package:::2007:1519.1:::kernel:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-debuginfo:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-devel:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-doc:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-hugemem:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-hugemem-devel:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-smp:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-smp-devel:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-largesmp:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-largesmp-devel:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-xenU:::2.6.9-55.0.6.EL
+package:::2007:1519.1:::kernel-xenU-devel:::2.6.9-55.0.6.EL
+advisory:::2007:1522.1:::1188993600:::L:::RHSA-2007:0873-01: star security update:::
+package:::2007:1522.1:::star:::1.5a25-8
+package:::2007:1522.1:::star-debuginfo:::1.5a25-8
+advisory:::2007:1607.1:::1190289600:::L:::RHSA-2007:0845-02: libvorbis security update:::
+package:::2007:1607.1:::libvorbis:::1.1.0-2.el4.5
+package:::2007:1607.1:::libvorbis-debuginfo:::1.1.0-2.el4.5
+package:::2007:1607.1:::libvorbis-devel:::1.1.0-2.el4.5
+advisory:::2007:1608.1:::1190289600:::L:::RHSA-2007:0898-01: xorg-x11 security update:::
+package:::2007:1608.1:::xorg-x11:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-Mesa-libGL:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-Mesa-libGLU:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-Xdmx:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-Xnest:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-Xvfb:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-deprecated-libs:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-deprecated-libs-devel:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-devel:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-doc:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-font-utils:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-libs:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-sdk:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-tools:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-twm:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-xauth:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-xdm:::6.8.2-1.EL.31
+package:::2007:1608.1:::xorg-x11-xfs:::6.8.2-1.EL.31
+advisory:::2007:1609.1:::1190289600:::L:::RHSA-2007:0913-01: nfs-utils-lib security update:::
+package:::2007:1609.1:::nfs-utils-lib:::1.0.6-8.z1
+package:::2007:1609.1:::nfs-utils-lib-debuginfo:::1.0.6-8.z1
+package:::2007:1609.1:::nfs-utils-lib-devel:::1.0.6-8.z1
+advisory:::2007:1614.1:::1190376000:::M:::RHSA-2007:0848-8: openoffice.org security update:::
+package:::2007:1614.1:::openoffice.org:::1.1.5-10.6.0.2.EL4
+package:::2007:1614.1:::openoffice.org-i18n:::1.1.5-10.6.0.2.EL4
+package:::2007:1614.1:::openoffice.org-kde:::1.1.5-10.6.0.2.EL4
+package:::2007:1614.1:::openoffice.org-libs:::1.1.5-10.6.0.2.EL4
+package:::2007:1614.1:::openoffice.org2-base:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-calc:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-core:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-draw:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-emailmerge:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-graphicfilter:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-impress:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-javafilter:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-af_ZA:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-ar:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-bg_BG:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-bn:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-ca_ES:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-cs_CZ:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-cy_GB:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-da_DK:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-de:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-el_GR:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-es:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-et_EE:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-eu_ES:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-fi_FI:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-fr:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-ga_IE:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-gl_ES:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-gu_IN:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-he_IL:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-hi_IN:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-hr_HR:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-hu_HU:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-it:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-ja_JP:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-ko_KR:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-lt_LT:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-ms_MY:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-nb_NO:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-nl:::2.0.4-5.7.0.2.0
+package:::2007:1614.1:::openoffice.org2-langpack-nn_NO:::2.0.4-5.7.0.2.0

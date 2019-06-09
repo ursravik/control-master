@@ -1,0 +1,47 @@
+#!/bin/sh
+
+dir=/tmp/lssecfixes.$$
+output=$dir/$$.results
+hostname=$(hostname)
+
+# Setting up directory
+if [ ! -d $dir ];	then
+	mkdir $dir
+fi
+cd $dir || kill $$
+rm -rf $dir/*
+
+# Downloading and extracting lssecfixes and patch databases
+/usr/bin/ftp -n << EOF > /dev/null
+open rchgsa.ibm.com
+user anonymous rchdv2ks@us.ibm.com
+prompt
+cd /gsa/rchgsa/projects/r/rchisgsecurity/tools/lssecfixes
+binary
+mget lssec*.tar
+EOF
+
+tar xf lssecfixes-*.tar
+cd etc
+tar xf ../lssec_secfixdb_all.tar
+cd ..
+
+# Running lssecfixes
+echo lssecfixes version number: $(./bin/lssecfixes --version)
+./bin/lssecfixes -a -F -H -s other > $output.tmp 2>&1
+grep -e '*.*[HML]' $output.tmp > /dev/null
+if [[ $? -eq 0 ]]; then
+  echo One or more missing APARs found on $hostname on $(date +%Y-%m-%d) > $output
+else
+  echo No missing APARs found on $hostname on $(date +%Y-%m-%d) > $output
+fi
+
+# Reporting in
+cat $output.tmp >> $output
+cp $output $hostname
+
+cat $hostname
+
+# Cleaning Up
+cd /
+rm -rf $dir

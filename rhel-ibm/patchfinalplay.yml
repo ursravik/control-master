@@ -1,0 +1,12 @@
+- hosts: nonoracle
+  become: yes
+  vars:
+    relay_server: relayip
+    mail_id: emailid
+  
+  roles:
+    - patchcheck
+    - prepatch
+    - patch
+    - postpatch
+    - deviation

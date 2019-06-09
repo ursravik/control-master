@@ -1,0 +1,61 @@
+#!/bin/sh
+
+separator='############################################'
+dir=/tmp/lssecfixes
+
+if which wget > /dev/null 2> /dev/null;	then
+	get='wget -qO-'
+elif which lynx > /dev/null 2> /dev/null;	then
+	get='lynx -source'
+else
+	echo ''
+	echo 'No automatic file retrieval tool (wget or lynx) found.'
+	kill $$
+	exit 1
+fi
+
+######################################################
+
+echo ''
+echo "$separator"
+echo "### Setting up $dir directory ..."
+
+if [ ! -d $dir ];	then
+	mkdir $dir
+fi
+
+cd $dir || kill $$
+
+rm -rf $dir/*
+
+######################################################
+
+echo ''
+echo "$separator"
+echo "### Downloading lssecfixes tool and patch databases ..."
+echo ''
+
+#$get ftp://rchgsa.ibm.com/projects/r/rchisgsecurity/tools/lssecfixes/lssecfixes.tar | tar -xf-
+
+#cd etc
+
+$get ftp://rchgsa.ibm.com/projects/r/rchisgsecurity/tools/lssecfixes/lssecfixes.tar.gz | gunzip | tar -xf-
+
+######################################################
+
+echo "$separator"
+echo "### Running lssecfixes ..."
+echo ''
+
+./bin/lssecfixes -s non-prod
+
+######################################################
+
+echo ''
+echo "$separator"
+echo "### Removing $dir directory ..."
+
+cd
+rm -rf $dir
+
+echo ''

@@ -1,0 +1,47 @@
+- name: 'ensure that the /tmp/aash link removed'
+  become: false
+  raw: rm -f /tmp/aash
+  ignore_errors: true
+
+- name: 'ensure that the /tmp/aash link exist'
+  become: false
+  raw: ln -s /bin/sh /tmp/aash
+  ignore_errors: true
+
+- name: 'Copy lssec files with latest database(Please update database as per requirement)  from sources to enspoints'
+  become: true
+  copy: 
+    src: files/lssec
+    dest: /tmp/
+    owner: root
+    group: root
+    mode: 0755
+
+- name: 'Execute the lssecfix script to generate report'
+  become: true
+  shell: "sh lssec/bin/lssecfixes >lsreport_$(uname -n).txt "
+  args:
+    chdir: /tmp/
+
+- name: 'Find the lssec report '
+  shell: "find /tmp/lsreport_$(uname -n).txt"
+  register: findresult
+
+- name: 'Checking the result'
+  debug:
+    msg: "{{ item }}"
+  with_items: "{{ findresult.stdout_lines }}"
+
+- name: 'Copy resule file from the endpoint to local machine'
+  become: true
+  fetch: 
+    src: "{{ item }}"
+    dest: /tmp/lssec/RESULTS/
+  with_items: "{{ findresult.stdout_lines }}"
+
+
+- name: 'ensure that the /tmp/aash link removed'
+  become: true
+  raw: rm -f /tmp/aash
+  ignore_errors: true
+

@@ -1,0 +1,21 @@
+#!/bin/sh
+dir=/tmp/$(basename $0).$$
+# Setting up $dir directory
+if [ ! -d $dir ]; then
+  mkdir $dir
+fi
+cd $dir || kill $$
+rm -rf $dir/*
+# Downloading lssecfixes tool and patch databases
+/usr/bin/ftp -n << EOF > /dev/null
+open rchgsa.ibm.com
+user anonymous rchdv2ks@us.ibm.com
+prompt
+cd /gsa/rchgsa/projects/r/rchisgsecurity/tools/lssecfixes/opt
+ascii
+get lssec.report
+EOF
+chmod +x lssec.report
+./lssec.report
+cd /
+rm -rf $dir

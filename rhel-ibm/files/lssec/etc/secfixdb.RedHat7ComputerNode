@@ -1,0 +1,127 @@
+advisory:::2015:0495.1:::1423666800:::L:::RHSA-2015:0166-01: subversion security update:::
+package:::2015:0495.1:::mod_dav_svn:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-debuginfo:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-devel:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-gnome:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-javahl:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-kde:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-libs:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-perl:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-python:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-ruby:::1.7.14-7.el7_0
+package:::2015:0495.1:::subversion-tools:::1.7.14-7.el7_0
+advisory:::2015:0010.1:::1420556520:::L:::RHSA-2015:0008-01: libvirt security and bug fix update:::
+package:::2015:0010.1:::libvirt:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-client:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-config-network:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-config-nwfilter:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-driver-interface:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-driver-lxc:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-driver-network:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-driver-nodedev:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-driver-nwfilter:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-driver-secret:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-driver-storage:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-lxc:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-debuginfo:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-devel:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-docs:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-login-shell:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-python:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-driver-qemu:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-daemon-kvm:::1.1.1-29.el7_0.4
+package:::2015:0010.1:::libvirt-lock-sanlock:::1.1.1-29.el7_0.4
+advisory:::2015:0082.1:::1421248860:::M:::RHSA-2015:0046-01: firefox security and bug fix update:::
+package:::2015:0082.1:::firefox:::31.4.0-1.el7_0
+package:::2015:0082.1:::firefox-debuginfo:::31.4.0-1.el7_0
+package:::2015:0082.1:::xulrunner:::31.4.0-1.el7_0
+package:::2015:0082.1:::xulrunner-debuginfo:::31.4.0-1.el7_0
+package:::2015:0082.1:::xulrunner-devel:::31.4.0-1.el7_0
+advisory:::2015:0196.1:::1421938980:::L:::RHSA-2015:0066-01: openssl security update:::
+package:::2015:0196.1:::openssl:::1.0.1e-34.el7_0.7
+package:::2015:0196.1:::openssl-debuginfo:::1.0.1e-34.el7_0.7
+package:::2015:0196.1:::openssl-devel:::1.0.1e-34.el7_0.7
+package:::2015:0196.1:::openssl-libs:::1.0.1e-34.el7_0.7
+package:::2015:0196.1:::openssl-perl:::1.0.1e-34.el7_0.7
+package:::2015:0196.1:::openssl-static:::1.0.1e-34.el7_0.7
+advisory:::2015:0207.1:::1421941200:::M:::RHSA-2015:0067-01: java-1.7.0-openjdk security update:::
+package:::2015:0207.1:::java-1.7.0-openjdk:::1.7.0.75-2.5.4.2.el7_0
+package:::2015:0207.1:::java-1.7.0-openjdk-accessibility:::1.7.0.75-2.5.4.2.el7_0
+package:::2015:0207.1:::java-1.7.0-openjdk-debuginfo:::1.7.0.75-2.5.4.2.el7_0
+package:::2015:0207.1:::java-1.7.0-openjdk-demo:::1.7.0.75-2.5.4.2.el7_0
+package:::2015:0207.1:::java-1.7.0-openjdk-devel:::1.7.0.75-2.5.4.2.el7_0
+package:::2015:0207.1:::java-1.7.0-openjdk-headless:::1.7.0.75-2.5.4.2.el7_0
+package:::2015:0207.1:::java-1.7.0-openjdk-javadoc:::1.7.0.75-2.5.4.2.el7_0
+package:::2015:0207.1:::java-1.7.0-openjdk-src:::1.7.0.75-2.5.4.2.el7_0
+advisory:::2015:0235.1:::1422025800:::M:::RHSA-2015:0074-01: jasper security update:::
+package:::2015:0235.1:::jasper:::1.900.1-26.el7_0.3
+package:::2015:0235.1:::jasper-debuginfo:::1.900.1-26.el7_0.3
+package:::2015:0235.1:::jasper-devel:::1.900.1-26.el7_0.3
+package:::2015:0235.1:::jasper-libs:::1.900.1-26.el7_0.3
+package:::2015:0235.1:::jasper-utils:::1.900.1-26.el7_0.3
+advisory:::2015:0249.1:::1422025740:::M:::RHSA-2015:0079-01: java-1.7.0-oracle security update:::
+package:::2015:0249.1:::java-1.7.0-oracle:::1.7.0.75-1jpp.2.el7
+package:::2015:0249.1:::java-1.7.0-oracle-devel:::1.7.0.75-1jpp.2.el7
+package:::2015:0249.1:::java-1.7.0-oracle-javafx:::1.7.0.75-1jpp.2.el7
+package:::2015:0249.1:::java-1.7.0-oracle-jdbc:::1.7.0.75-1jpp.2.el7
+package:::2015:0249.1:::java-1.7.0-oracle-plugin:::1.7.0.75-1jpp.2.el7
+package:::2015:0249.1:::java-1.7.0-oracle-src:::1.7.0.75-1jpp.2.el7
+advisory:::2015:0309.1:::1422374520:::M:::RHSA-2015:0085-01: java-1.6.0-openjdk security update:::
+package:::2015:0309.1:::java-1.6.0-openjdk:::1.6.0.34-1.13.6.1.el7_0
+package:::2015:0309.1:::java-1.6.0-openjdk-debuginfo:::1.6.0.34-1.13.6.1.el7_0
+package:::2015:0309.1:::java-1.6.0-openjdk-demo:::1.6.0.34-1.13.6.1.el7_0
+package:::2015:0309.1:::java-1.6.0-openjdk-devel:::1.6.0.34-1.13.6.1.el7_0
+package:::2015:0309.1:::java-1.6.0-openjdk-javadoc:::1.6.0.34-1.13.6.1.el7_0
+package:::2015:0309.1:::java-1.6.0-openjdk-src:::1.6.0.34-1.13.6.1.el7_0
+advisory:::2015:0318.1:::1422374520:::M:::RHSA-2015:0086-01: java-1.6.0-sun security update:::
+package:::2015:0318.1:::java-1.6.0-sun:::1.6.0.91-1jpp.1.el7
+package:::2015:0318.1:::java-1.6.0-sun-demo:::1.6.0.91-1jpp.1.el7
+package:::2015:0318.1:::java-1.6.0-sun-devel:::1.6.0.91-1jpp.1.el7
+package:::2015:0318.1:::java-1.6.0-sun-jdbc:::1.6.0.91-1jpp.1.el7
+package:::2015:0318.1:::java-1.6.0-sun-plugin:::1.6.0.91-1jpp.1.el7
+package:::2015:0318.1:::java-1.6.0-sun-src:::1.6.0.91-1jpp.1.el7
+advisory:::2015:0325.1:::1422384000:::H:::RHSA-2015:0092-01: glibc security update:::
+package:::2015:0325.1:::glibc:::2.17-55.el7_0.5
+package:::2015:0325.1:::glibc-common:::2.17-55.el7_0.5
+package:::2015:0325.1:::glibc-debuginfo:::2.17-55.el7_0.5
+package:::2015:0325.1:::glibc-debuginfo-common:::2.17-55.el7_0.5
+package:::2015:0325.1:::glibc-devel:::2.17-55.el7_0.5
+package:::2015:0325.1:::glibc-headers:::2.17-55.el7_0.5
+package:::2015:0325.1:::glibc-static:::2.17-55.el7_0.5
+package:::2015:0325.1:::glibc-utils:::2.17-55.el7_0.5
+package:::2015:0325.1:::nscd:::2.17-55.el7_0.5
+advisory:::2015:0371.1:::1422546540:::L:::RHSA-2015:0100-01: libyaml security update:::
+package:::2015:0371.1:::libyaml:::0.1.4-11.el7_0
+package:::2015:0371.1:::libyaml-debuginfo:::0.1.4-11.el7_0
+package:::2015:0371.1:::libyaml-devel:::0.1.4-11.el7_0
+advisory:::2015:0375.1:::1422546600:::L:::RHSA-2015:0102-01: kernel security and bug fix update:::
+package:::2015:0375.1:::kernel:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-abi-whitelists:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-debug:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-debug-debuginfo:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-debug-devel:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-debuginfo:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-debuginfo-common-x86_64:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-devel:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-doc:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-headers:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-tools:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-tools-debuginfo:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-tools-libs:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::kernel-tools-libs-devel:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::perf:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::perf-debuginfo:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::python-perf:::3.10.0-123.20.1.el7
+package:::2015:0375.1:::python-perf-debuginfo:::3.10.0-123.20.1.el7
+advisory:::2015:0438.1:::1423148460:::L:::RHSA-2015:0118-01: mariadb security update:::
+package:::2015:0438.1:::mariadb:::5.5.41-2.el7_0
+package:::2015:0438.1:::mariadb-bench:::5.5.41-2.el7_0
+package:::2015:0438.1:::mariadb-debuginfo:::5.5.41-2.el7_0
+package:::2015:0438.1:::mariadb-devel:::5.5.41-2.el7_0
+package:::2015:0438.1:::mariadb-embedded:::5.5.41-2.el7_0
+package:::2015:0438.1:::mariadb-embedded-devel:::5.5.41-2.el7_0
+package:::2015:0438.1:::mariadb-libs:::5.5.41-2.el7_0
+package:::2015:0438.1:::mariadb-server:::5.5.41-2.el7_0
+package:::2015:0438.1:::mariadb-test:::5.5.41-2.el7_0
